@@ -1,7 +1,7 @@
 Id,Outcome Type
 1,Return to Owner
 2,Died
-3,Return to Owner
+3,Adoption
 4,Adoption
 5,Euthanasia
 6,Return to Owner
@@ -15,7 +15,7 @@ Id,Outcome Type
 14,Adoption
 15,Adoption
 16,Adoption
-17,Return to Owner
+17,Adoption
 18,Adoption
 19,Transfer
 20,Transfer
@@ -42,7 +42,7 @@ Id,Outcome Type
 41,Adoption
 42,Adoption
 43,Adoption
-44,Return to Owner
+44,Adoption
 45,Return to Owner
 46,Adoption
 47,Died
@@ -103,7 +103,7 @@ Id,Outcome Type
 102,Return to Owner
 103,Euthanasia
 104,Adoption
-105,Return to Owner
+105,Adoption
 106,Return to Owner
 107,Adoption
 108,Return to Owner
@@ -114,7 +114,7 @@ Id,Outcome Type
 113,Adoption
 114,Adoption
 115,Return to Owner
-116,Transfer
+116,Adoption
 117,Adoption
 118,Euthanasia
 119,Adoption
@@ -169,7 +169,7 @@ Id,Outcome Type
 168,Adoption
 169,Euthanasia
 170,Adoption
-171,Return to Owner
+171,Adoption
 172,Adoption
 173,Adoption
 174,Return to Owner
@@ -184,7 +184,7 @@ Id,Outcome Type
 183,Adoption
 184,Euthanasia
 185,Adoption
-186,Return to Owner
+186,Adoption
 187,Adoption
 188,Adoption
 189,Adoption
@@ -226,7 +226,7 @@ Id,Outcome Type
 225,Adoption
 226,Adoption
 227,Adoption
-228,Return to Owner
+228,Adoption
 229,Adoption
 230,Adoption
 231,Adoption
@@ -254,7 +254,7 @@ Id,Outcome Type
 253,Adoption
 254,Adoption
 255,Adoption
-256,Transfer
+256,Died
 257,Adoption
 258,Transfer
 259,Transfer
@@ -262,10 +262,10 @@ Id,Outcome Type
 261,Adoption
 262,Return to Owner
 263,Return to Owner
-264,Died
+264,Adoption
 265,Transfer
 266,Adoption
-267,Adoption
+267,Transfer
 268,Adoption
 269,Adoption
 270,Adoption
@@ -275,7 +275,7 @@ Id,Outcome Type
 274,Transfer
 275,Adoption
 276,Return to Owner
-277,Return to Owner
+277,Adoption
 278,Adoption
 279,Adoption
 280,Adoption
@@ -283,14 +283,14 @@ Id,Outcome Type
 282,Adoption
 283,Transfer
 284,Adoption
-285,Transfer
+285,Adoption
 286,Euthanasia
 287,Transfer
 288,Adoption
-289,Return to Owner
+289,Euthanasia
 290,Adoption
 291,Transfer
-292,Transfer
+292,Adoption
 293,Adoption
 294,Adoption
 295,Adoption
@@ -300,7 +300,7 @@ Id,Outcome Type
 299,Adoption
 300,Return to Owner
 301,Adoption
-302,Died
+302,Transfer
 303,Adoption
 304,Adoption
 305,Adoption
@@ -319,7 +319,7 @@ Id,Outcome Type
 318,Adoption
 319,Return to Owner
 320,Return to Owner
-321,Return to Owner
+321,Adoption
 322,Return to Owner
 323,Adoption
 324,Adoption
@@ -345,7 +345,7 @@ Id,Outcome Type
 344,Adoption
 345,Adoption
 346,Adoption
-347,Adoption
+347,Return to Owner
 348,Return to Owner
 349,Return to Owner
 350,Adoption
@@ -353,7 +353,7 @@ Id,Outcome Type
 352,Adoption
 353,Return to Owner
 354,Adoption
-355,Adoption
+355,Return to Owner
 356,Transfer
 357,Adoption
 358,Adoption
@@ -451,7 +451,7 @@ Id,Outcome Type
 450,Adoption
 451,Adoption
 452,Return to Owner
-453,Adoption
+453,Return to Owner
 454,Adoption
 455,Adoption
 456,Euthanasia
@@ -459,7 +459,7 @@ Id,Outcome Type
 458,Transfer
 459,Adoption
 460,Adoption
-461,Adoption
+461,Transfer
 462,Return to Owner
 463,Adoption
 464,Adoption
@@ -477,12 +477,12 @@ Id,Outcome Type
 476,Adoption
 477,Adoption
 478,Adoption
-479,Transfer
+479,Adoption
 480,Transfer
 481,Adoption
 482,Transfer
 483,Adoption
-484,Adoption
+484,Return to Owner
 485,Transfer
 486,Adoption
 487,Adoption
@@ -498,8 +498,8 @@ Id,Outcome Type
 497,Adoption
 498,Adoption
 499,Adoption
-500,Adoption
-501,Transfer
+500,Transfer
+501,Adoption
 502,Adoption
 503,Adoption
 504,Adoption
@@ -539,7 +539,7 @@ Id,Outcome Type
 538,Adoption
 539,Transfer
 540,Adoption
-541,Return to Owner
+541,Adoption
 542,Adoption
 543,Return to Owner
 544,Adoption
@@ -548,7 +548,7 @@ Id,Outcome Type
 547,Adoption
 548,Adoption
 549,Transfer
-550,Adoption
+550,Transfer
 551,Adoption
 552,Adoption
 553,Adoption
@@ -557,7 +557,7 @@ Id,Outcome Type
 556,Return to Owner
 557,Adoption
 558,Return to Owner
-559,Adoption
+559,Return to Owner
 560,Transfer
 561,Adoption
 562,Transfer
@@ -668,7 +668,7 @@ Id,Outcome Type
 667,Euthanasia
 668,Adoption
 669,Adoption
-670,Adoption
+670,Return to Owner
 671,Return to Owner
 672,Return to Owner
 673,Adoption
@@ -677,7 +677,7 @@ Id,Outcome Type
 676,Adoption
 677,Adoption
 678,Return to Owner
-679,Adoption
+679,Transfer
 680,Adoption
 681,Adoption
 682,Adoption
@@ -693,8 +693,8 @@ Id,Outcome Type
 692,Return to Owner
 693,Transfer
 694,Return to Owner
-695,Died
-696,Transfer
+695,Transfer
+696,Adoption
 697,Adoption
 698,Return to Owner
 699,Adoption
@@ -726,7 +726,7 @@ Id,Outcome Type
 725,Return to Owner
 726,Return to Owner
 727,Adoption
-728,Return to Owner
+728,Adoption
 729,Euthanasia
 730,Adoption
 731,Adoption
@@ -747,7 +747,7 @@ Id,Outcome Type
 746,Adoption
 747,Adoption
 748,Adoption
-749,Transfer
+749,Euthanasia
 750,Adoption
 751,Adoption
 752,Return to Owner
@@ -771,7 +771,7 @@ Id,Outcome Type
 770,Adoption
 771,Adoption
 772,Euthanasia
-773,Adoption
+773,Transfer
 774,Adoption
 775,Adoption
 776,Adoption
@@ -782,9 +782,9 @@ Id,Outcome Type
 781,Return to Owner
 782,Adoption
 783,Adoption
-784,Adoption
+784,Transfer
 785,Died
-786,Adoption
+786,Return to Owner
 787,Return to Owner
 788,Died
 789,Adoption
@@ -799,7 +799,7 @@ Id,Outcome Type
 798,Adoption
 799,Transfer
 800,Transfer
-801,Adoption
+801,Transfer
 802,Adoption
 803,Transfer
 804,Adoption
@@ -809,7 +809,7 @@ Id,Outcome Type
 808,Return to Owner
 809,Transfer
 810,Adoption
-811,Transfer
+811,Adoption
 812,Adoption
 813,Adoption
 814,Adoption
@@ -829,7 +829,7 @@ Id,Outcome Type
 828,Euthanasia
 829,Return to Owner
 830,Adoption
-831,Adoption
+831,Transfer
 832,Transfer
 833,Return to Owner
 834,Adoption
@@ -896,7 +896,7 @@ Id,Outcome Type
 895,Adoption
 896,Adoption
 897,Adoption
-898,Adoption
+898,Transfer
 899,Return to Owner
 900,Adoption
 901,Adoption
@@ -906,7 +906,7 @@ Id,Outcome Type
 905,Transfer
 906,Return to Owner
 907,Adoption
-908,Died
+908,Adoption
 909,Transfer
 910,Return to Owner
 911,Adoption
@@ -929,7 +929,7 @@ Id,Outcome Type
 928,Transfer
 929,Adoption
 930,Adoption
-931,Return to Owner
+931,Adoption
 932,Adoption
 933,Adoption
 934,Return to Owner
@@ -937,7 +937,7 @@ Id,Outcome Type
 936,Adoption
 937,Return to Owner
 938,Adoption
-939,Transfer
+939,Adoption
 940,Return to Owner
 941,Died
 942,Return to Owner
@@ -958,7 +958,7 @@ Id,Outcome Type
 957,Adoption
 958,Adoption
 959,Return to Owner
-960,Return to Owner
+960,Adoption
 961,Transfer
 962,Adoption
 963,Adoption
@@ -967,7 +967,7 @@ Id,Outcome Type
 966,Transfer
 967,Adoption
 968,Transfer
-969,Return to Owner
+969,Adoption
 970,Adoption
 971,Adoption
 972,Adoption
@@ -991,28 +991,28 @@ Id,Outcome Type
 990,Adoption
 991,Adoption
 992,Return to Owner
-993,Adoption
+993,Transfer
 994,Adoption
 995,Adoption
 996,Adoption
 997,Return to Owner
 998,Adoption
-999,Return to Owner
+999,Adoption
 1000,Transfer
 1001,Adoption
 1002,Adoption
 1003,Adoption
 1004,Adoption
 1005,Return to Owner
-1006,Return to Owner
+1006,Adoption
 1007,Adoption
 1008,Return to Owner
-1009,Return to Owner
-1010,Transfer
+1009,Adoption
+1010,Adoption
 1011,Transfer
 1012,Adoption
 1013,Return to Owner
-1014,Return to Owner
+1014,Adoption
 1015,Return to Owner
 1016,Adoption
 1017,Adoption
@@ -1042,15 +1042,15 @@ Id,Outcome Type
 1041,Adoption
 1042,Adoption
 1043,Adoption
-1044,Return to Owner
-1045,Transfer
+1044,Adoption
+1045,Adoption
 1046,Return to Owner
 1047,Transfer
 1048,Return to Owner
 1049,Adoption
 1050,Return to Owner
 1051,Return to Owner
-1052,Adoption
+1052,Transfer
 1053,Adoption
 1054,Adoption
 1055,Adoption
@@ -1062,7 +1062,7 @@ Id,Outcome Type
 1061,Adoption
 1062,Adoption
 1063,Return to Owner
-1064,Transfer
+1064,Adoption
 1065,Adoption
 1066,Adoption
 1067,Adoption
@@ -1078,15 +1078,15 @@ Id,Outcome Type
 1077,Adoption
 1078,Adoption
 1079,Transfer
-1080,Died
+1080,Adoption
 1081,Return to Owner
-1082,Transfer
+1082,Adoption
 1083,Adoption
 1084,Adoption
 1085,Return to Owner
 1086,Adoption
 1087,Transfer
-1088,Died
+1088,Adoption
 1089,Adoption
 1090,Adoption
 1091,Return to Owner
@@ -1104,14 +1104,14 @@ Id,Outcome Type
 1103,Transfer
 1104,Adoption
 1105,Adoption
-1106,Adoption
+1106,Return to Owner
 1107,Adoption
 1108,Transfer
 1109,Euthanasia
 1110,Transfer
 1111,Adoption
 1112,Transfer
-1113,Return to Owner
+1113,Adoption
 1114,Adoption
 1115,Died
 1116,Euthanasia
@@ -1126,7 +1126,7 @@ Id,Outcome Type
 1125,Adoption
 1126,Adoption
 1127,Transfer
-1128,Adoption
+1128,Transfer
 1129,Adoption
 1130,Adoption
 1131,Adoption
@@ -1151,7 +1151,7 @@ Id,Outcome Type
 1150,Adoption
 1151,Return to Owner
 1152,Adoption
-1153,Return to Owner
+1153,Adoption
 1154,Adoption
 1155,Adoption
 1156,Return to Owner
@@ -1162,7 +1162,7 @@ Id,Outcome Type
 1161,Adoption
 1162,Adoption
 1163,Return to Owner
-1164,Adoption
+1164,Transfer
 1165,Adoption
 1166,Return to Owner
 1167,Transfer
@@ -1184,12 +1184,12 @@ Id,Outcome Type
 1183,Transfer
 1184,Adoption
 1185,Transfer
-1186,Transfer
+1186,Adoption
 1187,Adoption
 1188,Return to Owner
 1189,Adoption
 1190,Return to Owner
-1191,Return to Owner
+1191,Adoption
 1192,Died
 1193,Return to Owner
 1194,Adoption
@@ -1198,7 +1198,7 @@ Id,Outcome Type
 1197,Adoption
 1198,Transfer
 1199,Transfer
-1200,Adoption
+1200,Transfer
 1201,Return to Owner
 1202,Adoption
 1203,Adoption
@@ -1222,16 +1222,16 @@ Id,Outcome Type
 1221,Adoption
 1222,Adoption
 1223,Transfer
-1224,Transfer
+1224,Adoption
 1225,Transfer
-1226,Adoption
+1226,Return to Owner
 1227,Transfer
 1228,Adoption
 1229,Adoption
 1230,Adoption
 1231,Adoption
 1232,Adoption
-1233,Adoption
+1233,Transfer
 1234,Return to Owner
 1235,Transfer
 1236,Adoption
@@ -1257,7 +1257,7 @@ Id,Outcome Type
 1256,Transfer
 1257,Adoption
 1258,Adoption
-1259,Died
+1259,Transfer
 1260,Transfer
 1261,Adoption
 1262,Adoption
@@ -1286,7 +1286,7 @@ Id,Outcome Type
 1285,Adoption
 1286,Return to Owner
 1287,Euthanasia
-1288,Adoption
+1288,Return to Owner
 1289,Adoption
 1290,Return to Owner
 1291,Transfer
@@ -1327,7 +1327,7 @@ Id,Outcome Type
 1326,Adoption
 1327,Return to Owner
 1328,Adoption
-1329,Euthanasia
+1329,Adoption
 1330,Adoption
 1331,Adoption
 1332,Transfer
@@ -1371,7 +1371,7 @@ Id,Outcome Type
 1370,Adoption
 1371,Adoption
 1372,Adoption
-1373,Return to Owner
+1373,Adoption
 1374,Euthanasia
 1375,Adoption
 1376,Adoption
@@ -1387,7 +1387,7 @@ Id,Outcome Type
 1386,Adoption
 1387,Transfer
 1388,Return to Owner
-1389,Adoption
+1389,Return to Owner
 1390,Adoption
 1391,Return to Owner
 1392,Return to Owner
@@ -1419,7 +1419,7 @@ Id,Outcome Type
 1418,Return to Owner
 1419,Adoption
 1420,Adoption
-1421,Adoption
+1421,Transfer
 1422,Adoption
 1423,Euthanasia
 1424,Return to Owner
@@ -1454,7 +1454,7 @@ Id,Outcome Type
 1453,Adoption
 1454,Transfer
 1455,Transfer
-1456,Euthanasia
+1456,Adoption
 1457,Transfer
 1458,Transfer
 1459,Adoption
@@ -1466,7 +1466,7 @@ Id,Outcome Type
 1465,Transfer
 1466,Adoption
 1467,Transfer
-1468,Transfer
+1468,Adoption
 1469,Adoption
 1470,Adoption
 1471,Adoption
@@ -1493,7 +1493,7 @@ Id,Outcome Type
 1492,Adoption
 1493,Adoption
 1494,Return to Owner
-1495,Adoption
+1495,Transfer
 1496,Return to Owner
 1497,Adoption
 1498,Transfer
@@ -1602,12 +1602,12 @@ Id,Outcome Type
 1601,Transfer
 1602,Return to Owner
 1603,Adoption
-1604,Adoption
+1604,Transfer
 1605,Adoption
 1606,Adoption
 1607,Return to Owner
 1608,Transfer
-1609,Transfer
+1609,Adoption
 1610,Adoption
 1611,Return to Owner
 1612,Adoption
@@ -1619,7 +1619,7 @@ Id,Outcome Type
 1618,Return to Owner
 1619,Return to Owner
 1620,Adoption
-1621,Adoption
+1621,Transfer
 1622,Adoption
 1623,Adoption
 1624,Adoption
@@ -1671,17 +1671,17 @@ Id,Outcome Type
 1670,Return to Owner
 1671,Adoption
 1672,Adoption
-1673,Adoption
+1673,Transfer
 1674,Adoption
 1675,Return to Owner
 1676,Adoption
 1677,Adoption
 1678,Adoption
-1679,Return to Owner
+1679,Adoption
 1680,Adoption
 1681,Adoption
 1682,Adoption
-1683,Return to Owner
+1683,Adoption
 1684,Adoption
 1685,Return to Owner
 1686,Adoption
@@ -1714,7 +1714,7 @@ Id,Outcome Type
 1713,Adoption
 1714,Euthanasia
 1715,Adoption
-1716,Adoption
+1716,Transfer
 1717,Adoption
 1718,Adoption
 1719,Adoption
@@ -1776,7 +1776,7 @@ Id,Outcome Type
 1775,Euthanasia
 1776,Adoption
 1777,Euthanasia
-1778,Adoption
+1778,Return to Owner
 1779,Adoption
 1780,Adoption
 1781,Adoption
@@ -1819,7 +1819,7 @@ Id,Outcome Type
 1818,Adoption
 1819,Adoption
 1820,Return to Owner
-1821,Return to Owner
+1821,Adoption
 1822,Adoption
 1823,Adoption
 1824,Return to Owner
@@ -1849,7 +1849,7 @@ Id,Outcome Type
 1848,Transfer
 1849,Adoption
 1850,Transfer
-1851,Return to Owner
+1851,Adoption
 1852,Adoption
 1853,Adoption
 1854,Adoption
@@ -1859,7 +1859,7 @@ Id,Outcome Type
 1858,Return to Owner
 1859,Died
 1860,Adoption
-1861,Adoption
+1861,Transfer
 1862,Return to Owner
 1863,Adoption
 1864,Transfer
@@ -1889,29 +1889,29 @@ Id,Outcome Type
 1888,Transfer
 1889,Adoption
 1890,Transfer
-1891,Adoption
+1891,Return to Owner
 1892,Return to Owner
 1893,Adoption
 1894,Return to Owner
-1895,Return to Owner
+1895,Adoption
 1896,Euthanasia
 1897,Adoption
 1898,Transfer
-1899,Transfer
+1899,Adoption
 1900,Adoption
 1901,Adoption
 1902,Euthanasia
 1903,Adoption
 1904,Return to Owner
 1905,Adoption
-1906,Euthanasia
+1906,Transfer
 1907,Transfer
 1908,Adoption
 1909,Died
 1910,Adoption
 1911,Adoption
 1912,Return to Owner
-1913,Return to Owner
+1913,Adoption
 1914,Return to Owner
 1915,Transfer
 1916,Adoption
@@ -1963,13 +1963,13 @@ Id,Outcome Type
 1962,Transfer
 1963,Return to Owner
 1964,Adoption
-1965,Return to Owner
+1965,Adoption
 1966,Return to Owner
 1967,Adoption
 1968,Adoption
 1969,Adoption
 1970,Adoption
-1971,Return to Owner
+1971,Adoption
 1972,Return to Owner
 1973,Return to Owner
 1974,Adoption
@@ -2015,7 +2015,7 @@ Id,Outcome Type
 2014,Adoption
 2015,Adoption
 2016,Adoption
-2017,Adoption
+2017,Return to Owner
 2018,Adoption
 2019,Adoption
 2020,Return to Owner
@@ -2111,7 +2111,7 @@ Id,Outcome Type
 2110,Transfer
 2111,Adoption
 2112,Adoption
-2113,Return to Owner
+2113,Adoption
 2114,Adoption
 2115,Return to Owner
 2116,Adoption
@@ -2137,9 +2137,9 @@ Id,Outcome Type
 2136,Adoption
 2137,Adoption
 2138,Euthanasia
-2139,Adoption
+2139,Transfer
 2140,Adoption
-2141,Died
+2141,Adoption
 2142,Adoption
 2143,Adoption
 2144,Adoption
@@ -2162,7 +2162,7 @@ Id,Outcome Type
 2161,Adoption
 2162,Return to Owner
 2163,Adoption
-2164,Euthanasia
+2164,Adoption
 2165,Adoption
 2166,Adoption
 2167,Adoption
@@ -2204,7 +2204,7 @@ Id,Outcome Type
 2203,Return to Owner
 2204,Adoption
 2205,Adoption
-2206,Return to Owner
+2206,Adoption
 2207,Adoption
 2208,Transfer
 2209,Return to Owner
@@ -2221,13 +2221,13 @@ Id,Outcome Type
 2220,Return to Owner
 2221,Return to Owner
 2222,Adoption
-2223,Return to Owner
-2224,Adoption
+2223,Adoption
+2224,Transfer
 2225,Adoption
 2226,Euthanasia
 2227,Transfer
 2228,Euthanasia
-2229,Adoption
+2229,Transfer
 2230,Adoption
 2231,Adoption
 2232,Transfer
@@ -2285,7 +2285,7 @@ Id,Outcome Type
 2284,Euthanasia
 2285,Transfer
 2286,Return to Owner
-2287,Return to Owner
+2287,Adoption
 2288,Return to Owner
 2289,Return to Owner
 2290,Return to Owner
@@ -2297,7 +2297,7 @@ Id,Outcome Type
 2296,Adoption
 2297,Adoption
 2298,Adoption
-2299,Adoption
+2299,Transfer
 2300,Return to Owner
 2301,Adoption
 2302,Transfer
@@ -2313,7 +2313,7 @@ Id,Outcome Type
 2312,Adoption
 2313,Return to Owner
 2314,Euthanasia
-2315,Adoption
+2315,Transfer
 2316,Return to Owner
 2317,Adoption
 2318,Return to Owner
@@ -2347,7 +2347,7 @@ Id,Outcome Type
 2346,Return to Owner
 2347,Transfer
 2348,Adoption
-2349,Adoption
+2349,Transfer
 2350,Transfer
 2351,Adoption
 2352,Adoption
@@ -2357,7 +2357,7 @@ Id,Outcome Type
 2356,Transfer
 2357,Died
 2358,Adoption
-2359,Adoption
+2359,Transfer
 2360,Transfer
 2361,Adoption
 2362,Return to Owner
@@ -2442,7 +2442,7 @@ Id,Outcome Type
 2441,Euthanasia
 2442,Adoption
 2443,Adoption
-2444,Adoption
+2444,Transfer
 2445,Euthanasia
 2446,Adoption
 2447,Return to Owner
@@ -2462,7 +2462,7 @@ Id,Outcome Type
 2461,Adoption
 2462,Adoption
 2463,Adoption
-2464,Died
+2464,Transfer
 2465,Euthanasia
 2466,Adoption
 2467,Adoption
@@ -2472,7 +2472,7 @@ Id,Outcome Type
 2471,Return to Owner
 2472,Return to Owner
 2473,Return to Owner
-2474,Transfer
+2474,Adoption
 2475,Adoption
 2476,Adoption
 2477,Transfer
@@ -2485,7 +2485,7 @@ Id,Outcome Type
 2484,Return to Owner
 2485,Adoption
 2486,Adoption
-2487,Return to Owner
+2487,Adoption
 2488,Adoption
 2489,Adoption
 2490,Adoption
@@ -2501,9 +2501,9 @@ Id,Outcome Type
 2500,Adoption
 2501,Adoption
 2502,Adoption
-2503,Return to Owner
+2503,Adoption
 2504,Adoption
-2505,Died
+2505,Transfer
 2506,Adoption
 2507,Euthanasia
 2508,Adoption
@@ -2546,11 +2546,11 @@ Id,Outcome Type
 2545,Adoption
 2546,Adoption
 2547,Transfer
-2548,Adoption
+2548,Transfer
 2549,Died
 2550,Adoption
 2551,Adoption
-2552,Adoption
+2552,Return to Owner
 2553,Adoption
 2554,Adoption
 2555,Adoption
@@ -2568,7 +2568,7 @@ Id,Outcome Type
 2567,Adoption
 2568,Adoption
 2569,Transfer
-2570,Adoption
+2570,Return to Owner
 2571,Adoption
 2572,Transfer
 2573,Adoption
@@ -2577,7 +2577,7 @@ Id,Outcome Type
 2576,Adoption
 2577,Adoption
 2578,Euthanasia
-2579,Adoption
+2579,Return to Owner
 2580,Return to Owner
 2581,Adoption
 2582,Return to Owner
@@ -2587,7 +2587,7 @@ Id,Outcome Type
 2586,Adoption
 2587,Adoption
 2588,Adoption
-2589,Adoption
+2589,Transfer
 2590,Adoption
 2591,Adoption
 2592,Adoption
@@ -2605,7 +2605,7 @@ Id,Outcome Type
 2604,Adoption
 2605,Adoption
 2606,Adoption
-2607,Adoption
+2607,Return to Owner
 2608,Adoption
 2609,Adoption
 2610,Adoption
@@ -2659,7 +2659,7 @@ Id,Outcome Type
 2658,Adoption
 2659,Return to Owner
 2660,Adoption
-2661,Adoption
+2661,Transfer
 2662,Transfer
 2663,Adoption
 2664,Return to Owner
@@ -2667,7 +2667,7 @@ Id,Outcome Type
 2666,Adoption
 2667,Transfer
 2668,Died
-2669,Return to Owner
+2669,Adoption
 2670,Adoption
 2671,Adoption
 2672,Adoption
@@ -2689,7 +2689,7 @@ Id,Outcome Type
 2688,Adoption
 2689,Adoption
 2690,Return to Owner
-2691,Return to Owner
+2691,Adoption
 2692,Return to Owner
 2693,Return to Owner
 2694,Adoption
@@ -2711,7 +2711,7 @@ Id,Outcome Type
 2710,Return to Owner
 2711,Adoption
 2712,Euthanasia
-2713,Adoption
+2713,Transfer
 2714,Euthanasia
 2715,Adoption
 2716,Transfer
@@ -2734,7 +2734,7 @@ Id,Outcome Type
 2733,Adoption
 2734,Adoption
 2735,Adoption
-2736,Transfer
+2736,Adoption
 2737,Adoption
 2738,Adoption
 2739,Adoption
@@ -2767,8 +2767,8 @@ Id,Outcome Type
 2766,Adoption
 2767,Adoption
 2768,Return to Owner
-2769,Adoption
-2770,Return to Owner
+2769,Transfer
+2770,Adoption
 2771,Euthanasia
 2772,Return to Owner
 2773,Transfer
@@ -2836,17 +2836,17 @@ Id,Outcome Type
 2835,Adoption
 2836,Adoption
 2837,Return to Owner
-2838,Return to Owner
+2838,Adoption
 2839,Adoption
-2840,Return to Owner
-2841,Adoption
+2840,Adoption
+2841,Return to Owner
 2842,Adoption
 2843,Adoption
 2844,Adoption
 2845,Adoption
 2846,Return to Owner
 2847,Adoption
-2848,Adoption
+2848,Return to Owner
 2849,Adoption
 2850,Adoption
 2851,Adoption
@@ -2879,7 +2879,7 @@ Id,Outcome Type
 2878,Return to Owner
 2879,Adoption
 2880,Adoption
-2881,Adoption
+2881,Return to Owner
 2882,Adoption
 2883,Adoption
 2884,Adoption
@@ -3029,7 +3029,7 @@ Id,Outcome Type
 3028,Adoption
 3029,Adoption
 3030,Adoption
-3031,Adoption
+3031,Transfer
 3032,Adoption
 3033,Adoption
 3034,Adoption
@@ -3062,12 +3062,12 @@ Id,Outcome Type
 3061,Transfer
 3062,Euthanasia
 3063,Return to Owner
-3064,Died
+3064,Transfer
 3065,Adoption
 3066,Adoption
 3067,Adoption
 3068,Adoption
-3069,Adoption
+3069,Transfer
 3070,Transfer
 3071,Adoption
 3072,Adoption
@@ -3144,7 +3144,7 @@ Id,Outcome Type
 3143,Return to Owner
 3144,Transfer
 3145,Return to Owner
-3146,Adoption
+3146,Return to Owner
 3147,Adoption
 3148,Adoption
 3149,Transfer
@@ -3162,7 +3162,7 @@ Id,Outcome Type
 3161,Adoption
 3162,Adoption
 3163,Transfer
-3164,Return to Owner
+3164,Adoption
 3165,Adoption
 3166,Return to Owner
 3167,Transfer
@@ -3180,7 +3180,7 @@ Id,Outcome Type
 3179,Adoption
 3180,Adoption
 3181,Adoption
-3182,Return to Owner
+3182,Adoption
 3183,Adoption
 3184,Euthanasia
 3185,Adoption
@@ -3212,7 +3212,7 @@ Id,Outcome Type
 3211,Transfer
 3212,Adoption
 3213,Adoption
-3214,Adoption
+3214,Transfer
 3215,Return to Owner
 3216,Transfer
 3217,Adoption
@@ -3227,13 +3227,13 @@ Id,Outcome Type
 3226,Adoption
 3227,Transfer
 3228,Adoption
-3229,Adoption
+3229,Transfer
 3230,Transfer
 3231,Return to Owner
 3232,Adoption
 3233,Return to Owner
 3234,Adoption
-3235,Return to Owner
+3235,Adoption
 3236,Adoption
 3237,Adoption
 3238,Return to Owner
@@ -3267,7 +3267,7 @@ Id,Outcome Type
 3266,Transfer
 3267,Adoption
 3268,Return to Owner
-3269,Died
+3269,Transfer
 3270,Adoption
 3271,Return to Owner
 3272,Adoption
@@ -3284,7 +3284,7 @@ Id,Outcome Type
 3283,Euthanasia
 3284,Adoption
 3285,Transfer
-3286,Return to Owner
+3286,Adoption
 3287,Adoption
 3288,Adoption
 3289,Adoption
@@ -3322,9 +3322,9 @@ Id,Outcome Type
 3321,Adoption
 3322,Return to Owner
 3323,Return to Owner
-3324,Transfer
+3324,Adoption
 3325,Return to Owner
-3326,Transfer
+3326,Adoption
 3327,Adoption
 3328,Adoption
 3329,Transfer
@@ -3336,7 +3336,7 @@ Id,Outcome Type
 3335,Adoption
 3336,Return to Owner
 3337,Return to Owner
-3338,Adoption
+3338,Transfer
 3339,Return to Owner
 3340,Adoption
 3341,Adoption
@@ -3359,7 +3359,7 @@ Id,Outcome Type
 3358,Adoption
 3359,Transfer
 3360,Adoption
-3361,Adoption
+3361,Transfer
 3362,Adoption
 3363,Return to Owner
 3364,Adoption
@@ -3405,7 +3405,7 @@ Id,Outcome Type
 3404,Adoption
 3405,Transfer
 3406,Transfer
-3407,Adoption
+3407,Transfer
 3408,Adoption
 3409,Adoption
 3410,Adoption
@@ -3416,18 +3416,18 @@ Id,Outcome Type
 3415,Adoption
 3416,Adoption
 3417,Return to Owner
-3418,Adoption
+3418,Transfer
 3419,Adoption
 3420,Adoption
 3421,Adoption
 3422,Adoption
-3423,Adoption
+3423,Transfer
 3424,Transfer
 3425,Transfer
 3426,Adoption
 3427,Adoption
 3428,Adoption
-3429,Transfer
+3429,Adoption
 3430,Return to Owner
 3431,Adoption
 3432,Adoption
@@ -3554,11 +3554,11 @@ Id,Outcome Type
 3553,Died
 3554,Adoption
 3555,Adoption
-3556,Adoption
+3556,Transfer
 3557,Adoption
 3558,Return to Owner
 3559,Return to Owner
-3560,Transfer
+3560,Adoption
 3561,Return to Owner
 3562,Adoption
 3563,Adoption
@@ -3569,9 +3569,9 @@ Id,Outcome Type
 3568,Adoption
 3569,Adoption
 3570,Adoption
-3571,Return to Owner
+3571,Adoption
 3572,Adoption
-3573,Transfer
+3573,Adoption
 3574,Adoption
 3575,Euthanasia
 3576,Return to Owner
@@ -3619,7 +3619,7 @@ Id,Outcome Type
 3618,Adoption
 3619,Euthanasia
 3620,Adoption
-3621,Return to Owner
+3621,Adoption
 3622,Adoption
 3623,Euthanasia
 3624,Adoption
@@ -3652,7 +3652,7 @@ Id,Outcome Type
 3651,Adoption
 3652,Return to Owner
 3653,Adoption
-3654,Transfer
+3654,Adoption
 3655,Adoption
 3656,Return to Owner
 3657,Return to Owner
@@ -3660,7 +3660,7 @@ Id,Outcome Type
 3659,Transfer
 3660,Euthanasia
 3661,Transfer
-3662,Adoption
+3662,Transfer
 3663,Euthanasia
 3664,Adoption
 3665,Adoption
@@ -3672,14 +3672,14 @@ Id,Outcome Type
 3671,Adoption
 3672,Adoption
 3673,Adoption
-3674,Adoption
+3674,Return to Owner
 3675,Return to Owner
 3676,Adoption
 3677,Adoption
 3678,Transfer
 3679,Adoption
 3680,Euthanasia
-3681,Return to Owner
+3681,Adoption
 3682,Adoption
 3683,Adoption
 3684,Return to Owner
@@ -3689,7 +3689,7 @@ Id,Outcome Type
 3688,Return to Owner
 3689,Return to Owner
 3690,Adoption
-3691,Transfer
+3691,Euthanasia
 3692,Adoption
 3693,Return to Owner
 3694,Adoption
@@ -3701,13 +3701,13 @@ Id,Outcome Type
 3700,Return to Owner
 3701,Return to Owner
 3702,Return to Owner
-3703,Return to Owner
+3703,Adoption
 3704,Adoption
 3705,Adoption
 3706,Adoption
 3707,Euthanasia
 3708,Return to Owner
-3709,Return to Owner
+3709,Adoption
 3710,Adoption
 3711,Adoption
 3712,Return to Owner
@@ -3719,14 +3719,14 @@ Id,Outcome Type
 3718,Adoption
 3719,Adoption
 3720,Euthanasia
-3721,Euthanasia
+3721,Adoption
 3722,Adoption
 3723,Transfer
 3724,Transfer
 3725,Adoption
 3726,Adoption
 3727,Transfer
-3728,Euthanasia
+3728,Adoption
 3729,Adoption
 3730,Adoption
 3731,Return to Owner
@@ -3800,7 +3800,7 @@ Id,Outcome Type
 3799,Adoption
 3800,Adoption
 3801,Adoption
-3802,Died
+3802,Transfer
 3803,Return to Owner
 3804,Adoption
 3805,Adoption
@@ -3809,7 +3809,7 @@ Id,Outcome Type
 3808,Adoption
 3809,Adoption
 3810,Euthanasia
-3811,Died
+3811,Transfer
 3812,Return to Owner
 3813,Return to Owner
 3814,Adoption
@@ -3819,7 +3819,7 @@ Id,Outcome Type
 3818,Adoption
 3819,Euthanasia
 3820,Transfer
-3821,Transfer
+3821,Adoption
 3822,Adoption
 3823,Transfer
 3824,Adoption
@@ -3847,7 +3847,7 @@ Id,Outcome Type
 3846,Adoption
 3847,Transfer
 3848,Adoption
-3849,Adoption
+3849,Return to Owner
 3850,Adoption
 3851,Adoption
 3852,Adoption
@@ -3891,7 +3891,7 @@ Id,Outcome Type
 3890,Adoption
 3891,Adoption
 3892,Adoption
-3893,Adoption
+3893,Transfer
 3894,Adoption
 3895,Adoption
 3896,Adoption
@@ -3900,7 +3900,7 @@ Id,Outcome Type
 3899,Adoption
 3900,Adoption
 3901,Adoption
-3902,Transfer
+3902,Adoption
 3903,Return to Owner
 3904,Return to Owner
 3905,Adoption
@@ -3927,13 +3927,13 @@ Id,Outcome Type
 3926,Adoption
 3927,Adoption
 3928,Adoption
-3929,Adoption
+3929,Transfer
 3930,Transfer
 3931,Transfer
 3932,Died
 3933,Euthanasia
 3934,Adoption
-3935,Adoption
+3935,Return to Owner
 3936,Return to Owner
 3937,Transfer
 3938,Adoption
@@ -3943,13 +3943,13 @@ Id,Outcome Type
 3942,Adoption
 3943,Died
 3944,Return to Owner
-3945,Euthanasia
+3945,Adoption
 3946,Return to Owner
 3947,Adoption
 3948,Adoption
 3949,Adoption
 3950,Adoption
-3951,Transfer
+3951,Adoption
 3952,Died
 3953,Adoption
 3954,Return to Owner
@@ -3975,16 +3975,16 @@ Id,Outcome Type
 3974,Return to Owner
 3975,Adoption
 3976,Adoption
-3977,Return to Owner
+3977,Adoption
 3978,Adoption
 3979,Transfer
 3980,Adoption
-3981,Adoption
+3981,Return to Owner
 3982,Adoption
 3983,Adoption
 3984,Adoption
 3985,Adoption
-3986,Return to Owner
+3986,Adoption
 3987,Adoption
 3988,Died
 3989,Transfer
@@ -4002,7 +4002,7 @@ Id,Outcome Type
 4001,Return to Owner
 4002,Return to Owner
 4003,Adoption
-4004,Return to Owner
+4004,Adoption
 4005,Adoption
 4006,Adoption
 4007,Adoption
@@ -4038,8 +4038,8 @@ Id,Outcome Type
 4037,Adoption
 4038,Adoption
 4039,Adoption
-4040,Adoption
-4041,Return to Owner
+4040,Transfer
+4041,Adoption
 4042,Adoption
 4043,Transfer
 4044,Adoption
@@ -4138,7 +4138,7 @@ Id,Outcome Type
 4137,Adoption
 4138,Adoption
 4139,Euthanasia
-4140,Adoption
+4140,Return to Owner
 4141,Return to Owner
 4142,Adoption
 4143,Adoption
@@ -4164,7 +4164,7 @@ Id,Outcome Type
 4163,Return to Owner
 4164,Adoption
 4165,Adoption
-4166,Adoption
+4166,Transfer
 4167,Adoption
 4168,Return to Owner
 4169,Return to Owner
@@ -4203,7 +4203,7 @@ Id,Outcome Type
 4202,Return to Owner
 4203,Adoption
 4204,Adoption
-4205,Return to Owner
+4205,Adoption
 4206,Adoption
 4207,Transfer
 4208,Adoption
@@ -4219,7 +4219,7 @@ Id,Outcome Type
 4218,Adoption
 4219,Euthanasia
 4220,Return to Owner
-4221,Return to Owner
+4221,Adoption
 4222,Adoption
 4223,Adoption
 4224,Transfer
@@ -4229,9 +4229,9 @@ Id,Outcome Type
 4228,Adoption
 4229,Return to Owner
 4230,Adoption
-4231,Died
+4231,Transfer
 4232,Adoption
-4233,Transfer
+4233,Adoption
 4234,Adoption
 4235,Adoption
 4236,Adoption
@@ -4288,7 +4288,7 @@ Id,Outcome Type
 4287,Euthanasia
 4288,Adoption
 4289,Adoption
-4290,Died
+4290,Adoption
 4291,Adoption
 4292,Adoption
 4293,Return to Owner
@@ -4311,7 +4311,7 @@ Id,Outcome Type
 4310,Adoption
 4311,Adoption
 4312,Adoption
-4313,Adoption
+4313,Transfer
 4314,Return to Owner
 4315,Adoption
 4316,Adoption
@@ -4331,7 +4331,7 @@ Id,Outcome Type
 4330,Adoption
 4331,Adoption
 4332,Adoption
-4333,Transfer
+4333,Adoption
 4334,Adoption
 4335,Adoption
 4336,Adoption
@@ -4351,7 +4351,7 @@ Id,Outcome Type
 4350,Return to Owner
 4351,Return to Owner
 4352,Return to Owner
-4353,Return to Owner
+4353,Adoption
 4354,Adoption
 4355,Adoption
 4356,Adoption
@@ -4425,14 +4425,14 @@ Id,Outcome Type
 4424,Adoption
 4425,Adoption
 4426,Transfer
-4427,Adoption
+4427,Transfer
 4428,Transfer
 4429,Return to Owner
 4430,Adoption
 4431,Adoption
 4432,Transfer
 4433,Return to Owner
-4434,Transfer
+4434,Adoption
 4435,Adoption
 4436,Adoption
 4437,Transfer
@@ -4444,7 +4444,7 @@ Id,Outcome Type
 4443,Adoption
 4444,Return to Owner
 4445,Euthanasia
-4446,Adoption
+4446,Transfer
 4447,Transfer
 4448,Adoption
 4449,Adoption
@@ -4452,7 +4452,7 @@ Id,Outcome Type
 4451,Adoption
 4452,Transfer
 4453,Adoption
-4454,Adoption
+4454,Transfer
 4455,Adoption
 4456,Adoption
 4457,Adoption
@@ -4462,7 +4462,7 @@ Id,Outcome Type
 4461,Adoption
 4462,Adoption
 4463,Adoption
-4464,Adoption
+4464,Transfer
 4465,Adoption
 4466,Return to Owner
 4467,Adoption
@@ -4476,7 +4476,7 @@ Id,Outcome Type
 4475,Adoption
 4476,Adoption
 4477,Adoption
-4478,Return to Owner
+4478,Adoption
 4479,Adoption
 4480,Transfer
 4481,Transfer
@@ -4512,9 +4512,9 @@ Id,Outcome Type
 4511,Return to Owner
 4512,Adoption
 4513,Transfer
-4514,Died
+4514,Transfer
 4515,Adoption
-4516,Return to Owner
+4516,Adoption
 4517,Transfer
 4518,Return to Owner
 4519,Return to Owner
@@ -4523,11 +4523,11 @@ Id,Outcome Type
 4522,Adoption
 4523,Adoption
 4524,Adoption
-4525,Return to Owner
+4525,Adoption
 4526,Adoption
 4527,Adoption
 4528,Adoption
-4529,Return to Owner
+4529,Adoption
 4530,Adoption
 4531,Transfer
 4532,Adoption
@@ -4537,7 +4537,7 @@ Id,Outcome Type
 4536,Adoption
 4537,Adoption
 4538,Return to Owner
-4539,Return to Owner
+4539,Adoption
 4540,Transfer
 4541,Transfer
 4542,Transfer
@@ -4562,12 +4562,12 @@ Id,Outcome Type
 4561,Adoption
 4562,Adoption
 4563,Adoption
-4564,Adoption
+4564,Return to Owner
 4565,Return to Owner
-4566,Adoption
+4566,Transfer
 4567,Transfer
 4568,Adoption
-4569,Transfer
+4569,Adoption
 4570,Adoption
 4571,Adoption
 4572,Adoption
@@ -4588,7 +4588,7 @@ Id,Outcome Type
 4587,Adoption
 4588,Adoption
 4589,Adoption
-4590,Euthanasia
+4590,Transfer
 4591,Adoption
 4592,Adoption
 4593,Adoption
@@ -4603,7 +4603,7 @@ Id,Outcome Type
 4602,Died
 4603,Adoption
 4604,Return to Owner
-4605,Return to Owner
+4605,Adoption
 4606,Adoption
 4607,Adoption
 4608,Euthanasia
@@ -4639,7 +4639,7 @@ Id,Outcome Type
 4638,Adoption
 4639,Return to Owner
 4640,Transfer
-4641,Transfer
+4641,Adoption
 4642,Adoption
 4643,Adoption
 4644,Transfer
@@ -4745,7 +4745,7 @@ Id,Outcome Type
 4744,Adoption
 4745,Adoption
 4746,Transfer
-4747,Died
+4747,Transfer
 4748,Adoption
 4749,Adoption
 4750,Adoption
@@ -4770,11 +4770,11 @@ Id,Outcome Type
 4769,Adoption
 4770,Adoption
 4771,Adoption
-4772,Adoption
+4772,Transfer
 4773,Return to Owner
 4774,Adoption
 4775,Return to Owner
-4776,Return to Owner
+4776,Adoption
 4777,Transfer
 4778,Return to Owner
 4779,Adoption
@@ -4786,7 +4786,7 @@ Id,Outcome Type
 4785,Adoption
 4786,Adoption
 4787,Adoption
-4788,Adoption
+4788,Transfer
 4789,Adoption
 4790,Adoption
 4791,Adoption
@@ -4804,7 +4804,7 @@ Id,Outcome Type
 4803,Return to Owner
 4804,Transfer
 4805,Transfer
-4806,Return to Owner
+4806,Adoption
 4807,Return to Owner
 4808,Adoption
 4809,Adoption
@@ -4865,7 +4865,7 @@ Id,Outcome Type
 4864,Euthanasia
 4865,Transfer
 4866,Return to Owner
-4867,Adoption
+4867,Transfer
 4868,Died
 4869,Return to Owner
 4870,Adoption
@@ -4926,7 +4926,7 @@ Id,Outcome Type
 4925,Adoption
 4926,Adoption
 4927,Adoption
-4928,Return to Owner
+4928,Adoption
 4929,Adoption
 4930,Adoption
 4931,Transfer
@@ -4971,18 +4971,18 @@ Id,Outcome Type
 4970,Adoption
 4971,Return to Owner
 4972,Adoption
-4973,Died
+4973,Adoption
 4974,Adoption
 4975,Adoption
 4976,Adoption
 4977,Adoption
 4978,Return to Owner
-4979,Return to Owner
+4979,Adoption
 4980,Adoption
 4981,Adoption
 4982,Euthanasia
 4983,Adoption
-4984,Adoption
+4984,Transfer
 4985,Transfer
 4986,Adoption
 4987,Adoption
@@ -4990,11 +4990,11 @@ Id,Outcome Type
 4989,Adoption
 4990,Adoption
 4991,Adoption
-4992,Adoption
+4992,Transfer
 4993,Adoption
 4994,Adoption
 4995,Adoption
-4996,Return to Owner
+4996,Adoption
 4997,Transfer
 4998,Adoption
 4999,Adoption
@@ -5012,7 +5012,7 @@ Id,Outcome Type
 5011,Adoption
 5012,Adoption
 5013,Adoption
-5014,Adoption
+5014,Transfer
 5015,Adoption
 5016,Adoption
 5017,Transfer
@@ -5031,7 +5031,7 @@ Id,Outcome Type
 5030,Adoption
 5031,Adoption
 5032,Adoption
-5033,Adoption
+5033,Transfer
 5034,Return to Owner
 5035,Adoption
 5036,Adoption
@@ -5059,12 +5059,12 @@ Id,Outcome Type
 5058,Adoption
 5059,Adoption
 5060,Adoption
-5061,Transfer
+5061,Adoption
 5062,Transfer
 5063,Adoption
 5064,Transfer
 5065,Adoption
-5066,Transfer
+5066,Adoption
 5067,Adoption
 5068,Transfer
 5069,Transfer
@@ -5096,7 +5096,7 @@ Id,Outcome Type
 5095,Adoption
 5096,Return to Owner
 5097,Transfer
-5098,Died
+5098,Adoption
 5099,Adoption
 5100,Adoption
 5101,Adoption
@@ -5117,7 +5117,7 @@ Id,Outcome Type
 5116,Adoption
 5117,Adoption
 5118,Adoption
-5119,Adoption
+5119,Return to Owner
 5120,Adoption
 5121,Adoption
 5122,Adoption
@@ -5129,9 +5129,9 @@ Id,Outcome Type
 5128,Adoption
 5129,Transfer
 5130,Transfer
-5131,Return to Owner
+5131,Adoption
 5132,Adoption
-5133,Transfer
+5133,Euthanasia
 5134,Transfer
 5135,Adoption
 5136,Adoption
@@ -5152,9 +5152,9 @@ Id,Outcome Type
 5151,Adoption
 5152,Adoption
 5153,Adoption
-5154,Adoption
+5154,Return to Owner
 5155,Transfer
-5156,Transfer
+5156,Adoption
 5157,Adoption
 5158,Adoption
 5159,Adoption
@@ -5171,7 +5171,7 @@ Id,Outcome Type
 5170,Adoption
 5171,Adoption
 5172,Adoption
-5173,Euthanasia
+5173,Adoption
 5174,Adoption
 5175,Adoption
 5176,Adoption
@@ -5196,7 +5196,7 @@ Id,Outcome Type
 5195,Adoption
 5196,Transfer
 5197,Adoption
-5198,Adoption
+5198,Transfer
 5199,Adoption
 5200,Adoption
 5201,Adoption
@@ -5213,9 +5213,9 @@ Id,Outcome Type
 5212,Adoption
 5213,Adoption
 5214,Adoption
-5215,Adoption
+5215,Transfer
 5216,Transfer
-5217,Transfer
+5217,Adoption
 5218,Adoption
 5219,Return to Owner
 5220,Adoption
@@ -5256,20 +5256,20 @@ Id,Outcome Type
 5255,Adoption
 5256,Died
 5257,Adoption
-5258,Return to Owner
+5258,Adoption
 5259,Transfer
 5260,Euthanasia
 5261,Adoption
 5262,Adoption
 5263,Adoption
 5264,Adoption
-5265,Adoption
+5265,Transfer
 5266,Return to Owner
 5267,Adoption
 5268,Adoption
 5269,Adoption
 5270,Adoption
-5271,Adoption
+5271,Return to Owner
 5272,Adoption
 5273,Transfer
 5274,Transfer
@@ -5287,7 +5287,7 @@ Id,Outcome Type
 5286,Return to Owner
 5287,Adoption
 5288,Return to Owner
-5289,Adoption
+5289,Died
 5290,Adoption
 5291,Adoption
 5292,Euthanasia
@@ -5297,7 +5297,7 @@ Id,Outcome Type
 5296,Adoption
 5297,Adoption
 5298,Adoption
-5299,Return to Owner
+5299,Adoption
 5300,Adoption
 5301,Adoption
 5302,Adoption
@@ -5305,7 +5305,7 @@ Id,Outcome Type
 5304,Euthanasia
 5305,Adoption
 5306,Adoption
-5307,Died
+5307,Transfer
 5308,Return to Owner
 5309,Return to Owner
 5310,Adoption
@@ -5314,7 +5314,7 @@ Id,Outcome Type
 5313,Return to Owner
 5314,Adoption
 5315,Adoption
-5316,Adoption
+5316,Transfer
 5317,Return to Owner
 5318,Adoption
 5319,Transfer
@@ -5338,12 +5338,12 @@ Id,Outcome Type
 5337,Return to Owner
 5338,Transfer
 5339,Adoption
-5340,Return to Owner
+5340,Adoption
 5341,Adoption
 5342,Adoption
 5343,Adoption
 5344,Return to Owner
-5345,Return to Owner
+5345,Adoption
 5346,Transfer
 5347,Adoption
 5348,Euthanasia
@@ -5352,7 +5352,7 @@ Id,Outcome Type
 5351,Died
 5352,Adoption
 5353,Adoption
-5354,Transfer
+5354,Adoption
 5355,Return to Owner
 5356,Adoption
 5357,Adoption
@@ -5371,7 +5371,7 @@ Id,Outcome Type
 5370,Adoption
 5371,Adoption
 5372,Transfer
-5373,Adoption
+5373,Transfer
 5374,Transfer
 5375,Return to Owner
 5376,Adoption
@@ -5444,14 +5444,14 @@ Id,Outcome Type
 5443,Return to Owner
 5444,Transfer
 5445,Euthanasia
-5446,Adoption
+5446,Died
 5447,Adoption
 5448,Adoption
 5449,Adoption
 5450,Transfer
 5451,Adoption
-5452,Adoption
-5453,Adoption
+5452,Return to Owner
+5453,Transfer
 5454,Euthanasia
 5455,Adoption
 5456,Adoption
@@ -5478,7 +5478,7 @@ Id,Outcome Type
 5477,Return to Owner
 5478,Return to Owner
 5479,Return to Owner
-5480,Died
+5480,Transfer
 5481,Adoption
 5482,Adoption
 5483,Return to Owner
@@ -5499,7 +5499,7 @@ Id,Outcome Type
 5498,Adoption
 5499,Adoption
 5500,Adoption
-5501,Euthanasia
+5501,Adoption
 5502,Return to Owner
 5503,Adoption
 5504,Adoption
@@ -5530,7 +5530,7 @@ Id,Outcome Type
 5529,Adoption
 5530,Adoption
 5531,Adoption
-5532,Return to Owner
+5532,Adoption
 5533,Adoption
 5534,Return to Owner
 5535,Died
@@ -5567,7 +5567,7 @@ Id,Outcome Type
 5566,Adoption
 5567,Adoption
 5568,Adoption
-5569,Transfer
+5569,Adoption
 5570,Adoption
 5571,Adoption
 5572,Adoption
@@ -5577,17 +5577,17 @@ Id,Outcome Type
 5576,Return to Owner
 5577,Transfer
 5578,Transfer
-5579,Transfer
+5579,Adoption
 5580,Return to Owner
 5581,Adoption
 5582,Adoption
 5583,Transfer
 5584,Adoption
-5585,Return to Owner
+5585,Adoption
 5586,Adoption
 5587,Adoption
 5588,Adoption
-5589,Return to Owner
+5589,Adoption
 5590,Euthanasia
 5591,Adoption
 5592,Adoption
@@ -5599,7 +5599,7 @@ Id,Outcome Type
 5598,Return to Owner
 5599,Return to Owner
 5600,Return to Owner
-5601,Return to Owner
+5601,Adoption
 5602,Adoption
 5603,Transfer
 5604,Adoption
@@ -5616,7 +5616,7 @@ Id,Outcome Type
 5615,Adoption
 5616,Transfer
 5617,Adoption
-5618,Adoption
+5618,Transfer
 5619,Adoption
 5620,Adoption
 5621,Adoption
@@ -5655,7 +5655,7 @@ Id,Outcome Type
 5654,Adoption
 5655,Return to Owner
 5656,Adoption
-5657,Return to Owner
+5657,Adoption
 5658,Return to Owner
 5659,Return to Owner
 5660,Adoption
@@ -5724,15 +5724,15 @@ Id,Outcome Type
 5723,Transfer
 5724,Transfer
 5725,Adoption
-5726,Adoption
+5726,Transfer
 5727,Euthanasia
-5728,Adoption
+5728,Transfer
 5729,Transfer
 5730,Adoption
 5731,Adoption
 5732,Adoption
 5733,Transfer
-5734,Died
+5734,Adoption
 5735,Adoption
 5736,Adoption
 5737,Return to Owner
@@ -5754,7 +5754,7 @@ Id,Outcome Type
 5753,Adoption
 5754,Adoption
 5755,Adoption
-5756,Adoption
+5756,Transfer
 5757,Return to Owner
 5758,Adoption
 5759,Adoption
@@ -5797,7 +5797,7 @@ Id,Outcome Type
 5796,Adoption
 5797,Adoption
 5798,Transfer
-5799,Transfer
+5799,Adoption
 5800,Adoption
 5801,Adoption
 5802,Transfer
@@ -5821,7 +5821,7 @@ Id,Outcome Type
 5820,Euthanasia
 5821,Return to Owner
 5822,Adoption
-5823,Adoption
+5823,Transfer
 5824,Adoption
 5825,Euthanasia
 5826,Return to Owner
@@ -5836,7 +5836,7 @@ Id,Outcome Type
 5835,Adoption
 5836,Adoption
 5837,Adoption
-5838,Transfer
+5838,Adoption
 5839,Adoption
 5840,Adoption
 5841,Adoption
@@ -5857,7 +5857,7 @@ Id,Outcome Type
 5856,Return to Owner
 5857,Adoption
 5858,Adoption
-5859,Adoption
+5859,Return to Owner
 5860,Adoption
 5861,Adoption
 5862,Transfer
@@ -5880,7 +5880,7 @@ Id,Outcome Type
 5879,Return to Owner
 5880,Adoption
 5881,Return to Owner
-5882,Transfer
+5882,Adoption
 5883,Adoption
 5884,Adoption
 5885,Transfer
@@ -5912,11 +5912,11 @@ Id,Outcome Type
 5911,Return to Owner
 5912,Adoption
 5913,Adoption
-5914,Adoption
+5914,Transfer
 5915,Adoption
 5916,Adoption
 5917,Adoption
-5918,Return to Owner
+5918,Adoption
 5919,Return to Owner
 5920,Adoption
 5921,Return to Owner
@@ -5961,7 +5961,7 @@ Id,Outcome Type
 5960,Transfer
 5961,Adoption
 5962,Return to Owner
-5963,Adoption
+5963,Transfer
 5964,Adoption
 5965,Return to Owner
 5966,Adoption
@@ -5978,7 +5978,7 @@ Id,Outcome Type
 5977,Return to Owner
 5978,Adoption
 5979,Return to Owner
-5980,Return to Owner
+5980,Adoption
 5981,Adoption
 5982,Adoption
 5983,Transfer
@@ -5995,7 +5995,7 @@ Id,Outcome Type
 5994,Adoption
 5995,Euthanasia
 5996,Return to Owner
-5997,Return to Owner
+5997,Adoption
 5998,Adoption
 5999,Adoption
 6000,Return to Owner
@@ -6021,7 +6021,7 @@ Id,Outcome Type
 6020,Adoption
 6021,Adoption
 6022,Adoption
-6023,Adoption
+6023,Return to Owner
 6024,Adoption
 6025,Adoption
 6026,Transfer
@@ -6054,7 +6054,7 @@ Id,Outcome Type
 6053,Adoption
 6054,Adoption
 6055,Adoption
-6056,Euthanasia
+6056,Return to Owner
 6057,Transfer
 6058,Adoption
 6059,Transfer
@@ -6078,7 +6078,7 @@ Id,Outcome Type
 6077,Adoption
 6078,Transfer
 6079,Adoption
-6080,Return to Owner
+6080,Adoption
 6081,Return to Owner
 6082,Adoption
 6083,Adoption
@@ -6104,7 +6104,7 @@ Id,Outcome Type
 6103,Adoption
 6104,Transfer
 6105,Adoption
-6106,Adoption
+6106,Transfer
 6107,Return to Owner
 6108,Adoption
 6109,Adoption
@@ -6116,7 +6116,7 @@ Id,Outcome Type
 6115,Adoption
 6116,Adoption
 6117,Transfer
-6118,Euthanasia
+6118,Adoption
 6119,Return to Owner
 6120,Died
 6121,Adoption
@@ -6163,7 +6163,7 @@ Id,Outcome Type
 6162,Adoption
 6163,Euthanasia
 6164,Adoption
-6165,Euthanasia
+6165,Transfer
 6166,Adoption
 6167,Return to Owner
 6168,Transfer
@@ -6173,7 +6173,7 @@ Id,Outcome Type
 6172,Adoption
 6173,Return to Owner
 6174,Adoption
-6175,Return to Owner
+6175,Adoption
 6176,Adoption
 6177,Adoption
 6178,Return to Owner
@@ -6236,7 +6236,7 @@ Id,Outcome Type
 6235,Adoption
 6236,Adoption
 6237,Transfer
-6238,Return to Owner
+6238,Adoption
 6239,Adoption
 6240,Euthanasia
 6241,Adoption
@@ -6264,7 +6264,7 @@ Id,Outcome Type
 6263,Adoption
 6264,Adoption
 6265,Adoption
-6266,Return to Owner
+6266,Adoption
 6267,Transfer
 6268,Return to Owner
 6269,Transfer
@@ -6277,7 +6277,7 @@ Id,Outcome Type
 6276,Adoption
 6277,Adoption
 6278,Adoption
-6279,Died
+6279,Adoption
 6280,Adoption
 6281,Transfer
 6282,Adoption
@@ -6299,7 +6299,7 @@ Id,Outcome Type
 6298,Adoption
 6299,Adoption
 6300,Transfer
-6301,Return to Owner
+6301,Adoption
 6302,Adoption
 6303,Return to Owner
 6304,Transfer
@@ -6414,7 +6414,7 @@ Id,Outcome Type
 6413,Euthanasia
 6414,Adoption
 6415,Adoption
-6416,Euthanasia
+6416,Adoption
 6417,Return to Owner
 6418,Euthanasia
 6419,Adoption
@@ -6429,10 +6429,10 @@ Id,Outcome Type
 6428,Adoption
 6429,Return to Owner
 6430,Adoption
-6431,Adoption
+6431,Transfer
 6432,Adoption
 6433,Euthanasia
-6434,Adoption
+6434,Transfer
 6435,Adoption
 6436,Adoption
 6437,Adoption
@@ -6502,7 +6502,7 @@ Id,Outcome Type
 6501,Transfer
 6502,Euthanasia
 6503,Transfer
-6504,Died
+6504,Adoption
 6505,Adoption
 6506,Adoption
 6507,Adoption
@@ -6576,7 +6576,7 @@ Id,Outcome Type
 6575,Return to Owner
 6576,Died
 6577,Adoption
-6578,Euthanasia
+6578,Adoption
 6579,Adoption
 6580,Died
 6581,Adoption
@@ -6596,7 +6596,7 @@ Id,Outcome Type
 6595,Return to Owner
 6596,Adoption
 6597,Transfer
-6598,Return to Owner
+6598,Adoption
 6599,Euthanasia
 6600,Return to Owner
 6601,Adoption
@@ -6629,7 +6629,7 @@ Id,Outcome Type
 6628,Died
 6629,Adoption
 6630,Return to Owner
-6631,Adoption
+6631,Transfer
 6632,Adoption
 6633,Adoption
 6634,Adoption
@@ -6641,7 +6641,7 @@ Id,Outcome Type
 6640,Adoption
 6641,Adoption
 6642,Adoption
-6643,Return to Owner
+6643,Adoption
 6644,Died
 6645,Return to Owner
 6646,Adoption
@@ -6649,13 +6649,13 @@ Id,Outcome Type
 6648,Adoption
 6649,Return to Owner
 6650,Adoption
-6651,Transfer
+6651,Adoption
 6652,Return to Owner
 6653,Adoption
 6654,Adoption
 6655,Return to Owner
 6656,Adoption
-6657,Adoption
+6657,Return to Owner
 6658,Transfer
 6659,Adoption
 6660,Adoption
@@ -6696,7 +6696,7 @@ Id,Outcome Type
 6695,Adoption
 6696,Adoption
 6697,Adoption
-6698,Adoption
+6698,Transfer
 6699,Transfer
 6700,Adoption
 6701,Adoption
@@ -6714,12 +6714,12 @@ Id,Outcome Type
 6713,Return to Owner
 6714,Adoption
 6715,Adoption
-6716,Adoption
+6716,Transfer
 6717,Adoption
 6718,Return to Owner
-6719,Transfer
+6719,Adoption
 6720,Return to Owner
-6721,Died
+6721,Transfer
 6722,Adoption
 6723,Adoption
 6724,Adoption
@@ -6769,7 +6769,7 @@ Id,Outcome Type
 6768,Adoption
 6769,Adoption
 6770,Return to Owner
-6771,Adoption
+6771,Return to Owner
 6772,Adoption
 6773,Return to Owner
 6774,Adoption
@@ -6785,7 +6785,7 @@ Id,Outcome Type
 6784,Adoption
 6785,Return to Owner
 6786,Adoption
-6787,Return to Owner
+6787,Adoption
 6788,Adoption
 6789,Adoption
 6790,Adoption
@@ -6805,7 +6805,7 @@ Id,Outcome Type
 6804,Adoption
 6805,Adoption
 6806,Transfer
-6807,Transfer
+6807,Adoption
 6808,Return to Owner
 6809,Adoption
 6810,Adoption
@@ -6844,7 +6844,7 @@ Id,Outcome Type
 6843,Transfer
 6844,Return to Owner
 6845,Adoption
-6846,Return to Owner
+6846,Adoption
 6847,Transfer
 6848,Euthanasia
 6849,Adoption
@@ -6853,23 +6853,23 @@ Id,Outcome Type
 6852,Return to Owner
 6853,Adoption
 6854,Adoption
-6855,Died
+6855,Transfer
 6856,Return to Owner
 6857,Transfer
-6858,Adoption
+6858,Transfer
 6859,Adoption
 6860,Adoption
 6861,Adoption
 6862,Return to Owner
 6863,Adoption
-6864,Euthanasia
+6864,Adoption
 6865,Adoption
 6866,Adoption
 6867,Adoption
 6868,Adoption
-6869,Died
+6869,Transfer
 6870,Return to Owner
-6871,Euthanasia
+6871,Adoption
 6872,Euthanasia
 6873,Adoption
 6874,Return to Owner
@@ -6890,7 +6890,7 @@ Id,Outcome Type
 6889,Transfer
 6890,Transfer
 6891,Euthanasia
-6892,Transfer
+6892,Adoption
 6893,Return to Owner
 6894,Adoption
 6895,Adoption
@@ -6912,11 +6912,11 @@ Id,Outcome Type
 6911,Return to Owner
 6912,Adoption
 6913,Adoption
-6914,Transfer
+6914,Adoption
 6915,Adoption
 6916,Adoption
 6917,Adoption
-6918,Adoption
+6918,Transfer
 6919,Return to Owner
 6920,Return to Owner
 6921,Adoption
@@ -6958,7 +6958,7 @@ Id,Outcome Type
 6957,Adoption
 6958,Adoption
 6959,Transfer
-6960,Adoption
+6960,Transfer
 6961,Return to Owner
 6962,Adoption
 6963,Adoption
@@ -6978,7 +6978,7 @@ Id,Outcome Type
 6977,Adoption
 6978,Adoption
 6979,Adoption
-6980,Adoption
+6980,Return to Owner
 6981,Adoption
 6982,Adoption
 6983,Adoption
@@ -6988,7 +6988,7 @@ Id,Outcome Type
 6987,Transfer
 6988,Adoption
 6989,Adoption
-6990,Transfer
+6990,Adoption
 6991,Return to Owner
 6992,Transfer
 6993,Adoption
@@ -7006,7 +7006,7 @@ Id,Outcome Type
 7005,Adoption
 7006,Adoption
 7007,Adoption
-7008,Adoption
+7008,Return to Owner
 7009,Adoption
 7010,Return to Owner
 7011,Adoption
@@ -7015,7 +7015,7 @@ Id,Outcome Type
 7014,Return to Owner
 7015,Adoption
 7016,Return to Owner
-7017,Adoption
+7017,Transfer
 7018,Return to Owner
 7019,Return to Owner
 7020,Transfer
@@ -7065,7 +7065,7 @@ Id,Outcome Type
 7064,Adoption
 7065,Return to Owner
 7066,Return to Owner
-7067,Died
+7067,Transfer
 7068,Died
 7069,Adoption
 7070,Adoption
@@ -7084,12 +7084,12 @@ Id,Outcome Type
 7083,Adoption
 7084,Return to Owner
 7085,Adoption
-7086,Adoption
+7086,Transfer
 7087,Adoption
 7088,Died
 7089,Adoption
 7090,Adoption
-7091,Euthanasia
+7091,Adoption
 7092,Adoption
 7093,Adoption
 7094,Return to Owner
@@ -7109,7 +7109,7 @@ Id,Outcome Type
 7108,Adoption
 7109,Return to Owner
 7110,Adoption
-7111,Adoption
+7111,Return to Owner
 7112,Transfer
 7113,Adoption
 7114,Return to Owner
@@ -7125,12 +7125,12 @@ Id,Outcome Type
 7124,Adoption
 7125,Return to Owner
 7126,Adoption
-7127,Transfer
+7127,Adoption
 7128,Adoption
 7129,Transfer
 7130,Adoption
 7131,Adoption
-7132,Died
+7132,Transfer
 7133,Adoption
 7134,Adoption
 7135,Adoption
@@ -7182,7 +7182,7 @@ Id,Outcome Type
 7181,Return to Owner
 7182,Adoption
 7183,Adoption
-7184,Return to Owner
+7184,Adoption
 7185,Adoption
 7186,Return to Owner
 7187,Adoption
@@ -7202,11 +7202,11 @@ Id,Outcome Type
 7201,Return to Owner
 7202,Adoption
 7203,Transfer
-7204,Adoption
+7204,Transfer
 7205,Adoption
 7206,Transfer
 7207,Adoption
-7208,Return to Owner
+7208,Adoption
 7209,Adoption
 7210,Euthanasia
 7211,Adoption
@@ -7233,7 +7233,7 @@ Id,Outcome Type
 7232,Return to Owner
 7233,Adoption
 7234,Adoption
-7235,Return to Owner
+7235,Adoption
 7236,Return to Owner
 7237,Adoption
 7238,Adoption
@@ -7359,7 +7359,7 @@ Id,Outcome Type
 7358,Transfer
 7359,Adoption
 7360,Adoption
-7361,Adoption
+7361,Return to Owner
 7362,Adoption
 7363,Adoption
 7364,Adoption
@@ -7395,7 +7395,7 @@ Id,Outcome Type
 7394,Adoption
 7395,Adoption
 7396,Adoption
-7397,Adoption
+7397,Transfer
 7398,Adoption
 7399,Adoption
 7400,Adoption
@@ -7416,9 +7416,9 @@ Id,Outcome Type
 7415,Return to Owner
 7416,Adoption
 7417,Adoption
-7418,Return to Owner
+7418,Adoption
 7419,Adoption
-7420,Transfer
+7420,Adoption
 7421,Euthanasia
 7422,Adoption
 7423,Return to Owner
@@ -7449,7 +7449,7 @@ Id,Outcome Type
 7448,Adoption
 7449,Adoption
 7450,Adoption
-7451,Adoption
+7451,Transfer
 7452,Adoption
 7453,Transfer
 7454,Return to Owner
@@ -7482,11 +7482,11 @@ Id,Outcome Type
 7481,Adoption
 7482,Adoption
 7483,Transfer
-7484,Return to Owner
+7484,Adoption
 7485,Adoption
 7486,Adoption
 7487,Transfer
-7488,Adoption
+7488,Transfer
 7489,Return to Owner
 7490,Transfer
 7491,Return to Owner
@@ -7500,7 +7500,7 @@ Id,Outcome Type
 7499,Adoption
 7500,Adoption
 7501,Return to Owner
-7502,Transfer
+7502,Adoption
 7503,Adoption
 7504,Return to Owner
 7505,Adoption
@@ -7512,7 +7512,7 @@ Id,Outcome Type
 7511,Euthanasia
 7512,Transfer
 7513,Transfer
-7514,Adoption
+7514,Transfer
 7515,Return to Owner
 7516,Return to Owner
 7517,Adoption
@@ -7521,7 +7521,7 @@ Id,Outcome Type
 7520,Adoption
 7521,Adoption
 7522,Adoption
-7523,Return to Owner
+7523,Euthanasia
 7524,Return to Owner
 7525,Adoption
 7526,Transfer
@@ -7575,7 +7575,7 @@ Id,Outcome Type
 7574,Adoption
 7575,Transfer
 7576,Adoption
-7577,Adoption
+7577,Transfer
 7578,Return to Owner
 7579,Transfer
 7580,Return to Owner
@@ -7623,7 +7623,7 @@ Id,Outcome Type
 7622,Adoption
 7623,Adoption
 7624,Return to Owner
-7625,Adoption
+7625,Transfer
 7626,Transfer
 7627,Return to Owner
 7628,Adoption
@@ -7648,7 +7648,7 @@ Id,Outcome Type
 7647,Adoption
 7648,Adoption
 7649,Adoption
-7650,Adoption
+7650,Transfer
 7651,Adoption
 7652,Return to Owner
 7653,Return to Owner
@@ -7685,7 +7685,7 @@ Id,Outcome Type
 7684,Return to Owner
 7685,Return to Owner
 7686,Adoption
-7687,Transfer
+7687,Adoption
 7688,Return to Owner
 7689,Euthanasia
 7690,Adoption
@@ -7695,7 +7695,7 @@ Id,Outcome Type
 7694,Adoption
 7695,Return to Owner
 7696,Transfer
-7697,Euthanasia
+7697,Transfer
 7698,Adoption
 7699,Adoption
 7700,Transfer
@@ -7717,7 +7717,7 @@ Id,Outcome Type
 7716,Adoption
 7717,Transfer
 7718,Euthanasia
-7719,Died
+7719,Transfer
 7720,Adoption
 7721,Adoption
 7722,Adoption
@@ -7739,10 +7739,10 @@ Id,Outcome Type
 7738,Adoption
 7739,Transfer
 7740,Return to Owner
-7741,Died
+7741,Adoption
 7742,Adoption
-7743,Adoption
-7744,Transfer
+7743,Transfer
+7744,Euthanasia
 7745,Died
 7746,Adoption
 7747,Adoption
@@ -7754,7 +7754,7 @@ Id,Outcome Type
 7753,Adoption
 7754,Adoption
 7755,Adoption
-7756,Return to Owner
+7756,Adoption
 7757,Adoption
 7758,Transfer
 7759,Adoption
@@ -7786,7 +7786,7 @@ Id,Outcome Type
 7785,Adoption
 7786,Adoption
 7787,Adoption
-7788,Return to Owner
+7788,Adoption
 7789,Adoption
 7790,Adoption
 7791,Adoption
@@ -7829,10 +7829,10 @@ Id,Outcome Type
 7828,Adoption
 7829,Adoption
 7830,Adoption
-7831,Adoption
+7831,Transfer
 7832,Adoption
 7833,Transfer
-7834,Died
+7834,Transfer
 7835,Return to Owner
 7836,Adoption
 7837,Adoption
@@ -7916,7 +7916,7 @@ Id,Outcome Type
 7915,Return to Owner
 7916,Transfer
 7917,Transfer
-7918,Transfer
+7918,Adoption
 7919,Transfer
 7920,Transfer
 7921,Adoption
@@ -7933,10 +7933,10 @@ Id,Outcome Type
 7932,Adoption
 7933,Adoption
 7934,Adoption
-7935,Transfer
+7935,Adoption
 7936,Adoption
 7937,Adoption
-7938,Return to Owner
+7938,Adoption
 7939,Return to Owner
 7940,Transfer
 7941,Return to Owner
@@ -7966,7 +7966,7 @@ Id,Outcome Type
 7965,Adoption
 7966,Transfer
 7967,Adoption
-7968,Adoption
+7968,Transfer
 7969,Adoption
 7970,Transfer
 7971,Adoption
@@ -7974,13 +7974,13 @@ Id,Outcome Type
 7973,Adoption
 7974,Transfer
 7975,Transfer
-7976,Euthanasia
+7976,Adoption
 7977,Adoption
 7978,Adoption
 7979,Return to Owner
 7980,Adoption
 7981,Adoption
-7982,Adoption
+7982,Transfer
 7983,Adoption
 7984,Adoption
 7985,Return to Owner
@@ -7994,16 +7994,16 @@ Id,Outcome Type
 7993,Adoption
 7994,Adoption
 7995,Adoption
-7996,Adoption
+7996,Transfer
 7997,Return to Owner
 7998,Transfer
 7999,Adoption
-8000,Return to Owner
+8000,Adoption
 8001,Adoption
 8002,Adoption
 8003,Adoption
 8004,Adoption
-8005,Adoption
+8005,Transfer
 8006,Adoption
 8007,Adoption
 8008,Adoption
@@ -8156,7 +8156,7 @@ Id,Outcome Type
 8155,Adoption
 8156,Adoption
 8157,Adoption
-8158,Return to Owner
+8158,Adoption
 8159,Adoption
 8160,Died
 8161,Adoption
@@ -8172,7 +8172,7 @@ Id,Outcome Type
 8171,Adoption
 8172,Died
 8173,Return to Owner
-8174,Return to Owner
+8174,Adoption
 8175,Adoption
 8176,Adoption
 8177,Return to Owner
@@ -8183,7 +8183,7 @@ Id,Outcome Type
 8182,Adoption
 8183,Adoption
 8184,Adoption
-8185,Return to Owner
+8185,Adoption
 8186,Adoption
 8187,Transfer
 8188,Adoption
@@ -8196,7 +8196,7 @@ Id,Outcome Type
 8195,Adoption
 8196,Adoption
 8197,Return to Owner
-8198,Adoption
+8198,Transfer
 8199,Euthanasia
 8200,Adoption
 8201,Adoption
@@ -8218,7 +8218,7 @@ Id,Outcome Type
 8217,Adoption
 8218,Adoption
 8219,Transfer
-8220,Return to Owner
+8220,Adoption
 8221,Adoption
 8222,Return to Owner
 8223,Transfer
@@ -8293,7 +8293,7 @@ Id,Outcome Type
 8292,Adoption
 8293,Return to Owner
 8294,Adoption
-8295,Transfer
+8295,Adoption
 8296,Adoption
 8297,Adoption
 8298,Return to Owner
@@ -8329,23 +8329,23 @@ Id,Outcome Type
 8328,Transfer
 8329,Return to Owner
 8330,Adoption
-8331,Return to Owner
+8331,Adoption
 8332,Adoption
 8333,Adoption
-8334,Adoption
+8334,Transfer
 8335,Adoption
 8336,Euthanasia
 8337,Adoption
-8338,Euthanasia
+8338,Adoption
 8339,Return to Owner
 8340,Return to Owner
 8341,Adoption
 8342,Adoption
 8343,Adoption
-8344,Adoption
+8344,Transfer
 8345,Adoption
 8346,Adoption
-8347,Died
+8347,Transfer
 8348,Adoption
 8349,Adoption
 8350,Return to Owner
@@ -8361,12 +8361,12 @@ Id,Outcome Type
 8360,Adoption
 8361,Adoption
 8362,Adoption
-8363,Return to Owner
+8363,Adoption
 8364,Return to Owner
 8365,Euthanasia
 8366,Adoption
 8367,Adoption
-8368,Return to Owner
+8368,Euthanasia
 8369,Adoption
 8370,Return to Owner
 8371,Transfer
@@ -8385,7 +8385,7 @@ Id,Outcome Type
 8384,Adoption
 8385,Return to Owner
 8386,Adoption
-8387,Adoption
+8387,Transfer
 8388,Adoption
 8389,Adoption
 8390,Adoption
@@ -8406,7 +8406,7 @@ Id,Outcome Type
 8405,Adoption
 8406,Return to Owner
 8407,Adoption
-8408,Adoption
+8408,Transfer
 8409,Adoption
 8410,Transfer
 8411,Transfer
@@ -8463,7 +8463,7 @@ Id,Outcome Type
 8462,Adoption
 8463,Return to Owner
 8464,Adoption
-8465,Adoption
+8465,Transfer
 8466,Transfer
 8467,Died
 8468,Adoption
@@ -8484,7 +8484,7 @@ Id,Outcome Type
 8483,Transfer
 8484,Adoption
 8485,Return to Owner
-8486,Adoption
+8486,Return to Owner
 8487,Return to Owner
 8488,Transfer
 8489,Adoption
@@ -8517,7 +8517,7 @@ Id,Outcome Type
 8516,Adoption
 8517,Return to Owner
 8518,Adoption
-8519,Died
+8519,Transfer
 8520,Adoption
 8521,Died
 8522,Transfer
@@ -8551,11 +8551,11 @@ Id,Outcome Type
 8550,Return to Owner
 8551,Transfer
 8552,Adoption
-8553,Return to Owner
+8553,Adoption
 8554,Adoption
 8555,Adoption
 8556,Adoption
-8557,Adoption
+8557,Transfer
 8558,Adoption
 8559,Died
 8560,Transfer
@@ -8569,7 +8569,7 @@ Id,Outcome Type
 8568,Adoption
 8569,Return to Owner
 8570,Transfer
-8571,Return to Owner
+8571,Adoption
 8572,Adoption
 8573,Return to Owner
 8574,Adoption
@@ -8594,11 +8594,11 @@ Id,Outcome Type
 8593,Adoption
 8594,Adoption
 8595,Adoption
-8596,Transfer
+8596,Adoption
 8597,Adoption
 8598,Adoption
 8599,Adoption
-8600,Adoption
+8600,Transfer
 8601,Adoption
 8602,Return to Owner
 8603,Adoption
@@ -8613,7 +8613,7 @@ Id,Outcome Type
 8612,Return to Owner
 8613,Euthanasia
 8614,Adoption
-8615,Return to Owner
+8615,Adoption
 8616,Transfer
 8617,Adoption
 8618,Adoption
@@ -8628,7 +8628,7 @@ Id,Outcome Type
 8627,Transfer
 8628,Adoption
 8629,Adoption
-8630,Euthanasia
+8630,Return to Owner
 8631,Adoption
 8632,Adoption
 8633,Euthanasia
@@ -8638,7 +8638,7 @@ Id,Outcome Type
 8637,Return to Owner
 8638,Adoption
 8639,Transfer
-8640,Euthanasia
+8640,Adoption
 8641,Adoption
 8642,Transfer
 8643,Adoption
@@ -8653,7 +8653,7 @@ Id,Outcome Type
 8652,Transfer
 8653,Return to Owner
 8654,Adoption
-8655,Died
+8655,Adoption
 8656,Adoption
 8657,Return to Owner
 8658,Adoption
@@ -8771,7 +8771,7 @@ Id,Outcome Type
 8770,Euthanasia
 8771,Adoption
 8772,Transfer
-8773,Adoption
+8773,Transfer
 8774,Adoption
 8775,Adoption
 8776,Adoption
@@ -8779,7 +8779,7 @@ Id,Outcome Type
 8778,Euthanasia
 8779,Adoption
 8780,Adoption
-8781,Adoption
+8781,Transfer
 8782,Adoption
 8783,Euthanasia
 8784,Adoption
@@ -8791,12 +8791,12 @@ Id,Outcome Type
 8790,Adoption
 8791,Adoption
 8792,Adoption
-8793,Adoption
+8793,Transfer
 8794,Transfer
 8795,Adoption
 8796,Adoption
 8797,Return to Owner
-8798,Return to Owner
+8798,Adoption
 8799,Adoption
 8800,Return to Owner
 8801,Adoption
@@ -8827,7 +8827,7 @@ Id,Outcome Type
 8826,Transfer
 8827,Adoption
 8828,Transfer
-8829,Return to Owner
+8829,Adoption
 8830,Adoption
 8831,Adoption
 8832,Adoption
@@ -8848,7 +8848,7 @@ Id,Outcome Type
 8847,Adoption
 8848,Adoption
 8849,Transfer
-8850,Return to Owner
+8850,Adoption
 8851,Adoption
 8852,Adoption
 8853,Transfer
@@ -8859,7 +8859,7 @@ Id,Outcome Type
 8858,Adoption
 8859,Adoption
 8860,Adoption
-8861,Return to Owner
+8861,Adoption
 8862,Adoption
 8863,Adoption
 8864,Adoption
@@ -8874,7 +8874,7 @@ Id,Outcome Type
 8873,Adoption
 8874,Adoption
 8875,Adoption
-8876,Adoption
+8876,Transfer
 8877,Return to Owner
 8878,Adoption
 8879,Adoption
@@ -8893,18 +8893,18 @@ Id,Outcome Type
 8892,Adoption
 8893,Transfer
 8894,Return to Owner
-8895,Adoption
+8895,Transfer
 8896,Adoption
 8897,Adoption
 8898,Transfer
 8899,Transfer
 8900,Transfer
-8901,Died
+8901,Transfer
 8902,Adoption
 8903,Adoption
 8904,Adoption
 8905,Return to Owner
-8906,Transfer
+8906,Adoption
 8907,Adoption
 8908,Transfer
 8909,Adoption
@@ -8919,7 +8919,7 @@ Id,Outcome Type
 8918,Return to Owner
 8919,Adoption
 8920,Adoption
-8921,Return to Owner
+8921,Adoption
 8922,Adoption
 8923,Return to Owner
 8924,Adoption
@@ -8927,9 +8927,9 @@ Id,Outcome Type
 8926,Adoption
 8927,Adoption
 8928,Died
-8929,Return to Owner
+8929,Adoption
 8930,Return to Owner
-8931,Adoption
+8931,Transfer
 8932,Adoption
 8933,Adoption
 8934,Adoption
@@ -8968,14 +8968,14 @@ Id,Outcome Type
 8967,Adoption
 8968,Return to Owner
 8969,Adoption
-8970,Adoption
+8970,Return to Owner
 8971,Adoption
 8972,Adoption
 8973,Adoption
 8974,Return to Owner
 8975,Adoption
 8976,Transfer
-8977,Transfer
+8977,Adoption
 8978,Adoption
 8979,Adoption
 8980,Return to Owner
@@ -8998,7 +8998,7 @@ Id,Outcome Type
 8997,Adoption
 8998,Transfer
 8999,Died
-9000,Adoption
+9000,Transfer
 9001,Transfer
 9002,Adoption
 9003,Adoption
@@ -9010,10 +9010,10 @@ Id,Outcome Type
 9009,Transfer
 9010,Return to Owner
 9011,Adoption
-9012,Euthanasia
+9012,Return to Owner
 9013,Adoption
 9014,Adoption
-9015,Return to Owner
+9015,Adoption
 9016,Adoption
 9017,Adoption
 9018,Euthanasia
@@ -9028,11 +9028,11 @@ Id,Outcome Type
 9027,Adoption
 9028,Adoption
 9029,Adoption
-9030,Return to Owner
+9030,Adoption
 9031,Adoption
 9032,Return to Owner
 9033,Adoption
-9034,Adoption
+9034,Transfer
 9035,Transfer
 9036,Return to Owner
 9037,Adoption
@@ -9067,18 +9067,18 @@ Id,Outcome Type
 9066,Adoption
 9067,Adoption
 9068,Adoption
-9069,Return to Owner
+9069,Adoption
 9070,Adoption
 9071,Adoption
 9072,Adoption
 9073,Adoption
 9074,Adoption
 9075,Adoption
-9076,Adoption
+9076,Transfer
 9077,Adoption
 9078,Transfer
 9079,Return to Owner
-9080,Return to Owner
+9080,Adoption
 9081,Adoption
 9082,Return to Owner
 9083,Return to Owner
@@ -9094,7 +9094,7 @@ Id,Outcome Type
 9093,Adoption
 9094,Adoption
 9095,Adoption
-9096,Adoption
+9096,Transfer
 9097,Return to Owner
 9098,Adoption
 9099,Died
@@ -9109,7 +9109,7 @@ Id,Outcome Type
 9108,Adoption
 9109,Adoption
 9110,Adoption
-9111,Adoption
+9111,Transfer
 9112,Adoption
 9113,Euthanasia
 9114,Adoption
@@ -9117,7 +9117,7 @@ Id,Outcome Type
 9116,Adoption
 9117,Return to Owner
 9118,Adoption
-9119,Adoption
+9119,Return to Owner
 9120,Return to Owner
 9121,Transfer
 9122,Adoption
@@ -9129,7 +9129,7 @@ Id,Outcome Type
 9128,Return to Owner
 9129,Return to Owner
 9130,Adoption
-9131,Transfer
+9131,Adoption
 9132,Transfer
 9133,Transfer
 9134,Adoption
@@ -9155,7 +9155,7 @@ Id,Outcome Type
 9154,Transfer
 9155,Adoption
 9156,Adoption
-9157,Euthanasia
+9157,Transfer
 9158,Return to Owner
 9159,Return to Owner
 9160,Return to Owner
@@ -9176,7 +9176,7 @@ Id,Outcome Type
 9175,Adoption
 9176,Adoption
 9177,Return to Owner
-9178,Transfer
+9178,Adoption
 9179,Adoption
 9180,Transfer
 9181,Adoption
@@ -9203,9 +9203,9 @@ Id,Outcome Type
 9202,Adoption
 9203,Adoption
 9204,Return to Owner
-9205,Transfer
+9205,Adoption
 9206,Return to Owner
-9207,Euthanasia
+9207,Adoption
 9208,Transfer
 9209,Adoption
 9210,Adoption
@@ -9220,7 +9220,7 @@ Id,Outcome Type
 9219,Adoption
 9220,Adoption
 9221,Transfer
-9222,Transfer
+9222,Adoption
 9223,Adoption
 9224,Adoption
 9225,Return to Owner
@@ -9236,8 +9236,8 @@ Id,Outcome Type
 9235,Adoption
 9236,Transfer
 9237,Adoption
-9238,Died
-9239,Adoption
+9238,Transfer
+9239,Transfer
 9240,Adoption
 9241,Return to Owner
 9242,Adoption
@@ -9249,7 +9249,7 @@ Id,Outcome Type
 9248,Adoption
 9249,Adoption
 9250,Transfer
-9251,Return to Owner
+9251,Adoption
 9252,Return to Owner
 9253,Adoption
 9254,Return to Owner
@@ -9277,7 +9277,7 @@ Id,Outcome Type
 9276,Return to Owner
 9277,Adoption
 9278,Adoption
-9279,Adoption
+9279,Transfer
 9280,Adoption
 9281,Adoption
 9282,Euthanasia
@@ -9329,13 +9329,13 @@ Id,Outcome Type
 9328,Adoption
 9329,Adoption
 9330,Adoption
-9331,Adoption
+9331,Transfer
 9332,Adoption
 9333,Adoption
 9334,Transfer
 9335,Adoption
 9336,Adoption
-9337,Return to Owner
+9337,Euthanasia
 9338,Adoption
 9339,Adoption
 9340,Return to Owner
@@ -9350,7 +9350,7 @@ Id,Outcome Type
 9349,Transfer
 9350,Adoption
 9351,Adoption
-9352,Adoption
+9352,Transfer
 9353,Adoption
 9354,Adoption
 9355,Adoption
@@ -9376,7 +9376,7 @@ Id,Outcome Type
 9375,Died
 9376,Transfer
 9377,Adoption
-9378,Return to Owner
+9378,Adoption
 9379,Adoption
 9380,Transfer
 9381,Adoption
@@ -9463,7 +9463,7 @@ Id,Outcome Type
 9462,Transfer
 9463,Adoption
 9464,Return to Owner
-9465,Return to Owner
+9465,Adoption
 9466,Return to Owner
 9467,Adoption
 9468,Adoption
@@ -9473,7 +9473,7 @@ Id,Outcome Type
 9472,Transfer
 9473,Adoption
 9474,Adoption
-9475,Transfer
+9475,Adoption
 9476,Transfer
 9477,Adoption
 9478,Adoption
@@ -9482,7 +9482,7 @@ Id,Outcome Type
 9481,Adoption
 9482,Adoption
 9483,Return to Owner
-9484,Transfer
+9484,Adoption
 9485,Adoption
 9486,Adoption
 9487,Adoption
@@ -9516,9 +9516,9 @@ Id,Outcome Type
 9515,Return to Owner
 9516,Transfer
 9517,Transfer
-9518,Euthanasia
+9518,Adoption
 9519,Transfer
-9520,Euthanasia
+9520,Adoption
 9521,Adoption
 9522,Return to Owner
 9523,Return to Owner
@@ -9570,7 +9570,7 @@ Id,Outcome Type
 9569,Adoption
 9570,Adoption
 9571,Adoption
-9572,Return to Owner
+9572,Adoption
 9573,Adoption
 9574,Return to Owner
 9575,Adoption
@@ -9589,7 +9589,7 @@ Id,Outcome Type
 9588,Adoption
 9589,Return to Owner
 9590,Transfer
-9591,Adoption
+9591,Transfer
 9592,Adoption
 9593,Transfer
 9594,Adoption
@@ -9597,7 +9597,7 @@ Id,Outcome Type
 9596,Return to Owner
 9597,Return to Owner
 9598,Return to Owner
-9599,Euthanasia
+9599,Adoption
 9600,Adoption
 9601,Adoption
 9602,Adoption
@@ -9623,7 +9623,7 @@ Id,Outcome Type
 9622,Return to Owner
 9623,Adoption
 9624,Transfer
-9625,Adoption
+9625,Transfer
 9626,Return to Owner
 9627,Adoption
 9628,Died
@@ -9637,7 +9637,7 @@ Id,Outcome Type
 9636,Adoption
 9637,Adoption
 9638,Adoption
-9639,Died
+9639,Adoption
 9640,Adoption
 9641,Euthanasia
 9642,Adoption
@@ -9659,7 +9659,7 @@ Id,Outcome Type
 9658,Transfer
 9659,Adoption
 9660,Adoption
-9661,Euthanasia
+9661,Return to Owner
 9662,Return to Owner
 9663,Adoption
 9664,Adoption
@@ -9669,7 +9669,7 @@ Id,Outcome Type
 9668,Transfer
 9669,Transfer
 9670,Return to Owner
-9671,Transfer
+9671,Adoption
 9672,Transfer
 9673,Adoption
 9674,Adoption
@@ -9702,7 +9702,7 @@ Id,Outcome Type
 9701,Transfer
 9702,Adoption
 9703,Adoption
-9704,Died
+9704,Adoption
 9705,Return to Owner
 9706,Adoption
 9707,Adoption
@@ -9739,20 +9739,20 @@ Id,Outcome Type
 9738,Adoption
 9739,Adoption
 9740,Transfer
-9741,Died
-9742,Adoption
+9741,Adoption
+9742,Transfer
 9743,Adoption
 9744,Return to Owner
 9745,Return to Owner
 9746,Adoption
 9747,Adoption
-9748,Adoption
+9748,Transfer
 9749,Adoption
 9750,Transfer
 9751,Adoption
 9752,Adoption
 9753,Adoption
-9754,Adoption
+9754,Transfer
 9755,Adoption
 9756,Adoption
 9757,Died
@@ -9767,14 +9767,14 @@ Id,Outcome Type
 9766,Transfer
 9767,Return to Owner
 9768,Adoption
-9769,Return to Owner
+9769,Adoption
 9770,Adoption
 9771,Adoption
 9772,Adoption
 9773,Adoption
 9774,Transfer
 9775,Transfer
-9776,Adoption
+9776,Transfer
 9777,Euthanasia
 9778,Adoption
 9779,Return to Owner
@@ -9784,7 +9784,7 @@ Id,Outcome Type
 9783,Adoption
 9784,Adoption
 9785,Return to Owner
-9786,Transfer
+9786,Adoption
 9787,Adoption
 9788,Adoption
 9789,Died
@@ -9813,7 +9813,7 @@ Id,Outcome Type
 9812,Adoption
 9813,Adoption
 9814,Euthanasia
-9815,Adoption
+9815,Transfer
 9816,Transfer
 9817,Adoption
 9818,Adoption
@@ -9846,9 +9846,9 @@ Id,Outcome Type
 9845,Transfer
 9846,Adoption
 9847,Transfer
-9848,Return to Owner
+9848,Adoption
 9849,Adoption
-9850,Adoption
+9850,Transfer
 9851,Adoption
 9852,Adoption
 9853,Return to Owner
@@ -9860,7 +9860,7 @@ Id,Outcome Type
 9859,Adoption
 9860,Adoption
 9861,Adoption
-9862,Adoption
+9862,Return to Owner
 9863,Adoption
 9864,Adoption
 9865,Adoption
@@ -9916,7 +9916,7 @@ Id,Outcome Type
 9915,Transfer
 9916,Died
 9917,Adoption
-9918,Return to Owner
+9918,Adoption
 9919,Adoption
 9920,Return to Owner
 9921,Adoption
@@ -9930,7 +9930,7 @@ Id,Outcome Type
 9929,Adoption
 9930,Adoption
 9931,Adoption
-9932,Transfer
+9932,Adoption
 9933,Transfer
 9934,Transfer
 9935,Adoption
@@ -9951,14 +9951,14 @@ Id,Outcome Type
 9950,Return to Owner
 9951,Transfer
 9952,Adoption
-9953,Euthanasia
+9953,Transfer
 9954,Return to Owner
 9955,Adoption
 9956,Adoption
 9957,Adoption
 9958,Adoption
 9959,Return to Owner
-9960,Return to Owner
+9960,Adoption
 9961,Adoption
 9962,Adoption
 9963,Return to Owner
@@ -9967,7 +9967,7 @@ Id,Outcome Type
 9966,Adoption
 9967,Adoption
 9968,Adoption
-9969,Transfer
+9969,Adoption
 9970,Adoption
 9971,Adoption
 9972,Return to Owner
@@ -10014,7 +10014,7 @@ Id,Outcome Type
 10013,Return to Owner
 10014,Adoption
 10015,Adoption
-10016,Adoption
+10016,Transfer
 10017,Adoption
 10018,Adoption
 10019,Adoption
@@ -10024,7 +10024,7 @@ Id,Outcome Type
 10023,Return to Owner
 10024,Euthanasia
 10025,Adoption
-10026,Transfer
+10026,Euthanasia
 10027,Euthanasia
 10028,Euthanasia
 10029,Adoption
@@ -10068,17 +10068,17 @@ Id,Outcome Type
 10067,Adoption
 10068,Transfer
 10069,Adoption
-10070,Died
+10070,Adoption
 10071,Adoption
 10072,Adoption
-10073,Adoption
+10073,Transfer
 10074,Adoption
 10075,Return to Owner
 10076,Adoption
 10077,Return to Owner
-10078,Adoption
+10078,Transfer
 10079,Return to Owner
-10080,Transfer
+10080,Adoption
 10081,Adoption
 10082,Adoption
 10083,Adoption
@@ -10110,7 +10110,7 @@ Id,Outcome Type
 10109,Adoption
 10110,Adoption
 10111,Transfer
-10112,Adoption
+10112,Transfer
 10113,Adoption
 10114,Return to Owner
 10115,Adoption
@@ -10160,7 +10160,7 @@ Id,Outcome Type
 10159,Transfer
 10160,Transfer
 10161,Adoption
-10162,Return to Owner
+10162,Adoption
 10163,Adoption
 10164,Return to Owner
 10165,Return to Owner
@@ -10203,13 +10203,13 @@ Id,Outcome Type
 10202,Transfer
 10203,Adoption
 10204,Adoption
-10205,Adoption
+10205,Transfer
 10206,Adoption
 10207,Adoption
 10208,Adoption
 10209,Adoption
 10210,Return to Owner
-10211,Adoption
+10211,Transfer
 10212,Adoption
 10213,Return to Owner
 10214,Transfer
@@ -10230,7 +10230,7 @@ Id,Outcome Type
 10229,Adoption
 10230,Transfer
 10231,Return to Owner
-10232,Adoption
+10232,Transfer
 10233,Transfer
 10234,Died
 10235,Adoption
@@ -10255,7 +10255,7 @@ Id,Outcome Type
 10254,Adoption
 10255,Adoption
 10256,Adoption
-10257,Return to Owner
+10257,Adoption
 10258,Adoption
 10259,Transfer
 10260,Adoption
@@ -10320,16 +10320,16 @@ Id,Outcome Type
 10319,Adoption
 10320,Adoption
 10321,Euthanasia
-10322,Adoption
+10322,Transfer
 10323,Return to Owner
 10324,Transfer
-10325,Transfer
+10325,Adoption
 10326,Return to Owner
 10327,Transfer
 10328,Return to Owner
 10329,Adoption
 10330,Adoption
-10331,Adoption
+10331,Return to Owner
 10332,Return to Owner
 10333,Return to Owner
 10334,Return to Owner
@@ -10355,15 +10355,15 @@ Id,Outcome Type
 10354,Adoption
 10355,Adoption
 10356,Return to Owner
-10357,Adoption
+10357,Transfer
 10358,Adoption
 10359,Return to Owner
 10360,Adoption
 10361,Transfer
 10362,Adoption
 10363,Return to Owner
-10364,Adoption
-10365,Adoption
+10364,Transfer
+10365,Transfer
 10366,Adoption
 10367,Adoption
 10368,Adoption
@@ -10399,7 +10399,7 @@ Id,Outcome Type
 10398,Transfer
 10399,Return to Owner
 10400,Adoption
-10401,Adoption
+10401,Return to Owner
 10402,Adoption
 10403,Adoption
 10404,Adoption
@@ -10485,7 +10485,7 @@ Id,Outcome Type
 10484,Adoption
 10485,Return to Owner
 10486,Return to Owner
-10487,Return to Owner
+10487,Adoption
 10488,Transfer
 10489,Return to Owner
 10490,Adoption
@@ -10497,7 +10497,7 @@ Id,Outcome Type
 10496,Adoption
 10497,Adoption
 10498,Adoption
-10499,Transfer
+10499,Adoption
 10500,Return to Owner
 10501,Adoption
 10502,Return to Owner
@@ -10509,7 +10509,7 @@ Id,Outcome Type
 10508,Return to Owner
 10509,Transfer
 10510,Adoption
-10511,Adoption
+10511,Transfer
 10512,Adoption
 10513,Return to Owner
 10514,Adoption
@@ -10528,7 +10528,7 @@ Id,Outcome Type
 10527,Return to Owner
 10528,Adoption
 10529,Adoption
-10530,Adoption
+10530,Transfer
 10531,Adoption
 10532,Adoption
 10533,Adoption
@@ -10548,7 +10548,7 @@ Id,Outcome Type
 10547,Adoption
 10548,Adoption
 10549,Transfer
-10550,Return to Owner
+10550,Adoption
 10551,Transfer
 10552,Adoption
 10553,Adoption
@@ -10559,7 +10559,7 @@ Id,Outcome Type
 10558,Adoption
 10559,Adoption
 10560,Return to Owner
-10561,Return to Owner
+10561,Adoption
 10562,Transfer
 10563,Adoption
 10564,Adoption
@@ -10578,7 +10578,7 @@ Id,Outcome Type
 10577,Died
 10578,Adoption
 10579,Adoption
-10580,Adoption
+10580,Transfer
 10581,Adoption
 10582,Adoption
 10583,Adoption
@@ -10598,7 +10598,7 @@ Id,Outcome Type
 10597,Adoption
 10598,Adoption
 10599,Euthanasia
-10600,Transfer
+10600,Adoption
 10601,Died
 10602,Adoption
 10603,Adoption
@@ -10608,9 +10608,9 @@ Id,Outcome Type
 10607,Adoption
 10608,Transfer
 10609,Adoption
-10610,Return to Owner
+10610,Adoption
 10611,Return to Owner
-10612,Adoption
+10612,Transfer
 10613,Adoption
 10614,Adoption
 10615,Adoption
@@ -10619,11 +10619,11 @@ Id,Outcome Type
 10618,Adoption
 10619,Transfer
 10620,Adoption
-10621,Return to Owner
+10621,Adoption
 10622,Adoption
 10623,Adoption
-10624,Return to Owner
-10625,Died
+10624,Adoption
+10625,Transfer
 10626,Transfer
 10627,Adoption
 10628,Adoption
@@ -10631,7 +10631,7 @@ Id,Outcome Type
 10630,Adoption
 10631,Return to Owner
 10632,Transfer
-10633,Died
+10633,Transfer
 10634,Return to Owner
 10635,Adoption
 10636,Adoption
@@ -10646,13 +10646,13 @@ Id,Outcome Type
 10645,Adoption
 10646,Adoption
 10647,Return to Owner
-10648,Euthanasia
+10648,Adoption
 10649,Adoption
 10650,Adoption
 10651,Adoption
 10652,Adoption
 10653,Adoption
-10654,Return to Owner
+10654,Adoption
 10655,Adoption
 10656,Adoption
 10657,Died
@@ -10697,7 +10697,7 @@ Id,Outcome Type
 10696,Adoption
 10697,Return to Owner
 10698,Adoption
-10699,Adoption
+10699,Transfer
 10700,Adoption
 10701,Transfer
 10702,Return to Owner
@@ -10706,13 +10706,13 @@ Id,Outcome Type
 10705,Adoption
 10706,Adoption
 10707,Adoption
-10708,Adoption
+10708,Transfer
 10709,Adoption
 10710,Transfer
 10711,Return to Owner
 10712,Adoption
 10713,Transfer
-10714,Adoption
+10714,Return to Owner
 10715,Adoption
 10716,Transfer
 10717,Transfer
@@ -10752,7 +10752,7 @@ Id,Outcome Type
 10751,Adoption
 10752,Return to Owner
 10753,Return to Owner
-10754,Transfer
+10754,Adoption
 10755,Adoption
 10756,Adoption
 10757,Died
@@ -10801,7 +10801,7 @@ Id,Outcome Type
 10800,Return to Owner
 10801,Transfer
 10802,Adoption
-10803,Return to Owner
+10803,Adoption
 10804,Adoption
 10805,Adoption
 10806,Transfer
@@ -10842,7 +10842,7 @@ Id,Outcome Type
 10841,Adoption
 10842,Return to Owner
 10843,Adoption
-10844,Died
+10844,Transfer
 10845,Adoption
 10846,Adoption
 10847,Return to Owner
@@ -10853,7 +10853,7 @@ Id,Outcome Type
 10852,Adoption
 10853,Return to Owner
 10854,Adoption
-10855,Transfer
+10855,Adoption
 10856,Adoption
 10857,Adoption
 10858,Transfer
@@ -10891,7 +10891,7 @@ Id,Outcome Type
 10890,Adoption
 10891,Adoption
 10892,Transfer
-10893,Died
+10893,Adoption
 10894,Adoption
 10895,Adoption
 10896,Died
@@ -11111,13 +11111,13 @@ Id,Outcome Type
 11110,Adoption
 11111,Adoption
 11112,Adoption
-11113,Adoption
+11113,Return to Owner
 11114,Transfer
 11115,Adoption
 11116,Transfer
 11117,Adoption
 11118,Adoption
-11119,Transfer
+11119,Adoption
 11120,Adoption
 11121,Euthanasia
 11122,Adoption
@@ -11142,7 +11142,7 @@ Id,Outcome Type
 11141,Adoption
 11142,Transfer
 11143,Adoption
-11144,Return to Owner
+11144,Adoption
 11145,Adoption
 11146,Adoption
 11147,Adoption
@@ -11207,12 +11207,12 @@ Id,Outcome Type
 11206,Adoption
 11207,Adoption
 11208,Adoption
-11209,Adoption
+11209,Return to Owner
 11210,Return to Owner
 11211,Adoption
 11212,Adoption
 11213,Transfer
-11214,Adoption
+11214,Transfer
 11215,Adoption
 11216,Transfer
 11217,Euthanasia
@@ -11283,7 +11283,7 @@ Id,Outcome Type
 11282,Adoption
 11283,Adoption
 11284,Adoption
-11285,Return to Owner
+11285,Adoption
 11286,Adoption
 11287,Return to Owner
 11288,Adoption
@@ -11296,7 +11296,7 @@ Id,Outcome Type
 11295,Adoption
 11296,Transfer
 11297,Adoption
-11298,Adoption
+11298,Transfer
 11299,Adoption
 11300,Return to Owner
 11301,Adoption
@@ -11323,7 +11323,7 @@ Id,Outcome Type
 11322,Adoption
 11323,Adoption
 11324,Transfer
-11325,Euthanasia
+11325,Adoption
 11326,Adoption
 11327,Adoption
 11328,Adoption
@@ -11332,9 +11332,9 @@ Id,Outcome Type
 11331,Adoption
 11332,Return to Owner
 11333,Return to Owner
-11334,Transfer
+11334,Adoption
 11335,Transfer
-11336,Return to Owner
+11336,Adoption
 11337,Adoption
 11338,Euthanasia
 11339,Adoption
@@ -11359,7 +11359,7 @@ Id,Outcome Type
 11358,Adoption
 11359,Adoption
 11360,Adoption
-11361,Adoption
+11361,Return to Owner
 11362,Adoption
 11363,Return to Owner
 11364,Transfer
@@ -11373,7 +11373,7 @@ Id,Outcome Type
 11372,Adoption
 11373,Adoption
 11374,Adoption
-11375,Return to Owner
+11375,Adoption
 11376,Transfer
 11377,Adoption
 11378,Adoption
@@ -11384,7 +11384,7 @@ Id,Outcome Type
 11383,Adoption
 11384,Adoption
 11385,Adoption
-11386,Adoption
+11386,Transfer
 11387,Adoption
 11388,Return to Owner
 11389,Transfer
@@ -11404,7 +11404,7 @@ Id,Outcome Type
 11403,Adoption
 11404,Died
 11405,Adoption
-11406,Adoption
+11406,Return to Owner
 11407,Transfer
 11408,Return to Owner
 11409,Adoption
@@ -11413,7 +11413,7 @@ Id,Outcome Type
 11412,Euthanasia
 11413,Return to Owner
 11414,Adoption
-11415,Adoption
+11415,Transfer
 11416,Adoption
 11417,Return to Owner
 11418,Transfer
@@ -11450,10 +11450,10 @@ Id,Outcome Type
 11449,Adoption
 11450,Adoption
 11451,Adoption
-11452,Return to Owner
+11452,Adoption
 11453,Adoption
 11454,Transfer
-11455,Transfer
+11455,Adoption
 11456,Adoption
 11457,Adoption
 11458,Transfer
@@ -11492,7 +11492,7 @@ Id,Outcome Type
 11491,Adoption
 11492,Adoption
 11493,Adoption
-11494,Adoption
+11494,Transfer
 11495,Adoption
 11496,Adoption
 11497,Transfer
@@ -11540,16 +11540,16 @@ Id,Outcome Type
 11539,Adoption
 11540,Transfer
 11541,Adoption
-11542,Transfer
+11542,Adoption
 11543,Adoption
-11544,Return to Owner
-11545,Return to Owner
+11544,Adoption
+11545,Adoption
 11546,Adoption
 11547,Adoption
 11548,Return to Owner
 11549,Adoption
 11550,Adoption
-11551,Return to Owner
+11551,Transfer
 11552,Adoption
 11553,Adoption
 11554,Adoption
@@ -11564,8 +11564,8 @@ Id,Outcome Type
 11563,Adoption
 11564,Transfer
 11565,Adoption
-11566,Adoption
-11567,Return to Owner
+11566,Return to Owner
+11567,Adoption
 11568,Adoption
 11569,Died
 11570,Adoption
@@ -11607,14 +11607,14 @@ Id,Outcome Type
 11606,Transfer
 11607,Return to Owner
 11608,Adoption
-11609,Euthanasia
+11609,Adoption
 11610,Euthanasia
 11611,Transfer
 11612,Adoption
 11613,Transfer
 11614,Adoption
 11615,Adoption
-11616,Return to Owner
+11616,Adoption
 11617,Adoption
 11618,Transfer
 11619,Adoption
@@ -11689,7 +11689,7 @@ Id,Outcome Type
 11688,Adoption
 11689,Adoption
 11690,Adoption
-11691,Return to Owner
+11691,Adoption
 11692,Return to Owner
 11693,Adoption
 11694,Adoption
@@ -11717,7 +11717,7 @@ Id,Outcome Type
 11716,Return to Owner
 11717,Adoption
 11718,Adoption
-11719,Transfer
+11719,Adoption
 11720,Adoption
 11721,Adoption
 11722,Return to Owner
@@ -11726,13 +11726,13 @@ Id,Outcome Type
 11725,Died
 11726,Return to Owner
 11727,Adoption
-11728,Return to Owner
+11728,Adoption
 11729,Adoption
 11730,Return to Owner
 11731,Adoption
 11732,Adoption
 11733,Adoption
-11734,Euthanasia
+11734,Adoption
 11735,Adoption
 11736,Died
 11737,Transfer
@@ -11827,12 +11827,12 @@ Id,Outcome Type
 11826,Euthanasia
 11827,Return to Owner
 11828,Adoption
-11829,Euthanasia
+11829,Adoption
 11830,Adoption
 11831,Adoption
 11832,Adoption
 11833,Transfer
-11834,Transfer
+11834,Adoption
 11835,Transfer
 11836,Adoption
 11837,Adoption
@@ -11892,7 +11892,7 @@ Id,Outcome Type
 11891,Adoption
 11892,Adoption
 11893,Adoption
-11894,Transfer
+11894,Adoption
 11895,Adoption
 11896,Adoption
 11897,Transfer
@@ -11906,7 +11906,7 @@ Id,Outcome Type
 11905,Adoption
 11906,Euthanasia
 11907,Return to Owner
-11908,Return to Owner
+11908,Adoption
 11909,Died
 11910,Adoption
 11911,Adoption
@@ -11952,7 +11952,7 @@ Id,Outcome Type
 11951,Adoption
 11952,Transfer
 11953,Died
-11954,Return to Owner
+11954,Adoption
 11955,Transfer
 11956,Adoption
 11957,Return to Owner
@@ -11986,7 +11986,7 @@ Id,Outcome Type
 11985,Adoption
 11986,Adoption
 11987,Transfer
-11988,Adoption
+11988,Transfer
 11989,Return to Owner
 11990,Adoption
 11991,Adoption
@@ -12076,7 +12076,7 @@ Id,Outcome Type
 12075,Adoption
 12076,Transfer
 12077,Adoption
-12078,Return to Owner
+12078,Adoption
 12079,Adoption
 12080,Adoption
 12081,Return to Owner
@@ -12085,10 +12085,10 @@ Id,Outcome Type
 12084,Transfer
 12085,Transfer
 12086,Adoption
-12087,Return to Owner
-12088,Adoption
+12087,Adoption
+12088,Transfer
 12089,Adoption
-12090,Adoption
+12090,Return to Owner
 12091,Adoption
 12092,Return to Owner
 12093,Adoption
@@ -12121,7 +12121,7 @@ Id,Outcome Type
 12120,Adoption
 12121,Adoption
 12122,Adoption
-12123,Adoption
+12123,Transfer
 12124,Adoption
 12125,Euthanasia
 12126,Adoption
@@ -12161,7 +12161,7 @@ Id,Outcome Type
 12160,Adoption
 12161,Return to Owner
 12162,Return to Owner
-12163,Return to Owner
+12163,Euthanasia
 12164,Adoption
 12165,Adoption
 12166,Transfer
@@ -12178,7 +12178,7 @@ Id,Outcome Type
 12177,Return to Owner
 12178,Adoption
 12179,Adoption
-12180,Transfer
+12180,Adoption
 12181,Euthanasia
 12182,Transfer
 12183,Adoption
@@ -12208,7 +12208,7 @@ Id,Outcome Type
 12207,Adoption
 12208,Adoption
 12209,Adoption
-12210,Transfer
+12210,Adoption
 12211,Transfer
 12212,Adoption
 12213,Adoption
@@ -12227,7 +12227,7 @@ Id,Outcome Type
 12226,Adoption
 12227,Adoption
 12228,Euthanasia
-12229,Return to Owner
+12229,Adoption
 12230,Adoption
 12231,Died
 12232,Return to Owner
@@ -12244,10 +12244,10 @@ Id,Outcome Type
 12243,Adoption
 12244,Adoption
 12245,Euthanasia
-12246,Return to Owner
-12247,Transfer
+12246,Adoption
+12247,Adoption
 12248,Euthanasia
-12249,Adoption
+12249,Return to Owner
 12250,Transfer
 12251,Return to Owner
 12252,Adoption
@@ -12259,7 +12259,7 @@ Id,Outcome Type
 12258,Adoption
 12259,Adoption
 12260,Adoption
-12261,Transfer
+12261,Adoption
 12262,Adoption
 12263,Adoption
 12264,Adoption
@@ -12284,7 +12284,7 @@ Id,Outcome Type
 12283,Adoption
 12284,Adoption
 12285,Adoption
-12286,Adoption
+12286,Transfer
 12287,Transfer
 12288,Adoption
 12289,Transfer
@@ -12298,7 +12298,7 @@ Id,Outcome Type
 12297,Adoption
 12298,Adoption
 12299,Adoption
-12300,Return to Owner
+12300,Adoption
 12301,Adoption
 12302,Adoption
 12303,Adoption
@@ -12312,7 +12312,7 @@ Id,Outcome Type
 12311,Adoption
 12312,Transfer
 12313,Adoption
-12314,Return to Owner
+12314,Adoption
 12315,Adoption
 12316,Adoption
 12317,Euthanasia
@@ -12347,7 +12347,7 @@ Id,Outcome Type
 12346,Adoption
 12347,Adoption
 12348,Adoption
-12349,Adoption
+12349,Euthanasia
 12350,Transfer
 12351,Transfer
 12352,Adoption
@@ -12375,7 +12375,7 @@ Id,Outcome Type
 12374,Adoption
 12375,Return to Owner
 12376,Adoption
-12377,Died
+12377,Adoption
 12378,Transfer
 12379,Adoption
 12380,Return to Owner
@@ -12435,12 +12435,12 @@ Id,Outcome Type
 12434,Adoption
 12435,Adoption
 12436,Adoption
-12437,Transfer
+12437,Adoption
 12438,Adoption
 12439,Adoption
 12440,Transfer
 12441,Return to Owner
-12442,Euthanasia
+12442,Adoption
 12443,Adoption
 12444,Adoption
 12445,Euthanasia
@@ -12474,11 +12474,11 @@ Id,Outcome Type
 12473,Adoption
 12474,Adoption
 12475,Adoption
-12476,Adoption
+12476,Return to Owner
 12477,Transfer
 12478,Adoption
 12479,Adoption
-12480,Adoption
+12480,Return to Owner
 12481,Adoption
 12482,Adoption
 12483,Return to Owner
@@ -12508,7 +12508,7 @@ Id,Outcome Type
 12507,Transfer
 12508,Adoption
 12509,Adoption
-12510,Return to Owner
+12510,Adoption
 12511,Died
 12512,Adoption
 12513,Adoption
@@ -12535,10 +12535,10 @@ Id,Outcome Type
 12534,Return to Owner
 12535,Adoption
 12536,Adoption
-12537,Adoption
+12537,Transfer
 12538,Euthanasia
 12539,Died
-12540,Transfer
+12540,Adoption
 12541,Return to Owner
 12542,Adoption
 12543,Return to Owner
@@ -12554,7 +12554,7 @@ Id,Outcome Type
 12553,Adoption
 12554,Adoption
 12555,Return to Owner
-12556,Died
+12556,Transfer
 12557,Return to Owner
 12558,Adoption
 12559,Return to Owner
@@ -12570,7 +12570,7 @@ Id,Outcome Type
 12569,Adoption
 12570,Adoption
 12571,Died
-12572,Died
+12572,Transfer
 12573,Adoption
 12574,Adoption
 12575,Return to Owner
@@ -12604,7 +12604,7 @@ Id,Outcome Type
 12603,Adoption
 12604,Adoption
 12605,Adoption
-12606,Return to Owner
+12606,Adoption
 12607,Return to Owner
 12608,Return to Owner
 12609,Transfer
@@ -12677,7 +12677,7 @@ Id,Outcome Type
 12676,Euthanasia
 12677,Adoption
 12678,Adoption
-12679,Transfer
+12679,Adoption
 12680,Died
 12681,Return to Owner
 12682,Adoption
@@ -12694,7 +12694,7 @@ Id,Outcome Type
 12693,Adoption
 12694,Return to Owner
 12695,Adoption
-12696,Return to Owner
+12696,Adoption
 12697,Died
 12698,Transfer
 12699,Adoption
@@ -12735,7 +12735,7 @@ Id,Outcome Type
 12734,Transfer
 12735,Transfer
 12736,Return to Owner
-12737,Adoption
+12737,Transfer
 12738,Adoption
 12739,Euthanasia
 12740,Euthanasia
@@ -12764,14 +12764,14 @@ Id,Outcome Type
 12763,Adoption
 12764,Transfer
 12765,Transfer
-12766,Adoption
-12767,Return to Owner
+12766,Transfer
+12767,Adoption
 12768,Adoption
 12769,Euthanasia
 12770,Adoption
 12771,Return to Owner
 12772,Adoption
-12773,Return to Owner
+12773,Adoption
 12774,Return to Owner
 12775,Return to Owner
 12776,Transfer
@@ -12803,8 +12803,8 @@ Id,Outcome Type
 12802,Adoption
 12803,Transfer
 12804,Adoption
-12805,Adoption
-12806,Return to Owner
+12805,Transfer
+12806,Adoption
 12807,Return to Owner
 12808,Return to Owner
 12809,Transfer
@@ -12826,7 +12826,7 @@ Id,Outcome Type
 12825,Return to Owner
 12826,Adoption
 12827,Return to Owner
-12828,Return to Owner
+12828,Transfer
 12829,Adoption
 12830,Adoption
 12831,Adoption
@@ -12858,7 +12858,7 @@ Id,Outcome Type
 12857,Adoption
 12858,Return to Owner
 12859,Return to Owner
-12860,Adoption
+12860,Transfer
 12861,Transfer
 12862,Adoption
 12863,Euthanasia
@@ -12876,7 +12876,7 @@ Id,Outcome Type
 12875,Adoption
 12876,Died
 12877,Adoption
-12878,Return to Owner
+12878,Adoption
 12879,Adoption
 12880,Adoption
 12881,Adoption
@@ -12898,8 +12898,8 @@ Id,Outcome Type
 12897,Adoption
 12898,Adoption
 12899,Adoption
-12900,Transfer
-12901,Transfer
+12900,Adoption
+12901,Adoption
 12902,Adoption
 12903,Transfer
 12904,Adoption
@@ -12907,8 +12907,8 @@ Id,Outcome Type
 12906,Adoption
 12907,Adoption
 12908,Return to Owner
-12909,Adoption
-12910,Return to Owner
+12909,Transfer
+12910,Adoption
 12911,Adoption
 12912,Return to Owner
 12913,Adoption
@@ -12926,7 +12926,7 @@ Id,Outcome Type
 12925,Return to Owner
 12926,Adoption
 12927,Adoption
-12928,Return to Owner
+12928,Adoption
 12929,Adoption
 12930,Return to Owner
 12931,Adoption
@@ -12962,12 +12962,12 @@ Id,Outcome Type
 12961,Transfer
 12962,Adoption
 12963,Adoption
-12964,Euthanasia
+12964,Return to Owner
 12965,Transfer
-12966,Transfer
+12966,Died
 12967,Transfer
 12968,Transfer
-12969,Transfer
+12969,Adoption
 12970,Return to Owner
 12971,Adoption
 12972,Return to Owner
@@ -12989,7 +12989,7 @@ Id,Outcome Type
 12988,Return to Owner
 12989,Adoption
 12990,Adoption
-12991,Adoption
+12991,Transfer
 12992,Adoption
 12993,Euthanasia
 12994,Adoption
@@ -12999,7 +12999,7 @@ Id,Outcome Type
 12998,Adoption
 12999,Adoption
 13000,Transfer
-13001,Return to Owner
+13001,Transfer
 13002,Return to Owner
 13003,Adoption
 13004,Adoption
@@ -13054,7 +13054,7 @@ Id,Outcome Type
 13053,Adoption
 13054,Adoption
 13055,Adoption
-13056,Euthanasia
+13056,Adoption
 13057,Return to Owner
 13058,Adoption
 13059,Adoption
@@ -13068,7 +13068,7 @@ Id,Outcome Type
 13067,Return to Owner
 13068,Adoption
 13069,Adoption
-13070,Return to Owner
+13070,Adoption
 13071,Adoption
 13072,Adoption
 13073,Adoption
@@ -13113,7 +13113,7 @@ Id,Outcome Type
 13112,Adoption
 13113,Return to Owner
 13114,Adoption
-13115,Adoption
+13115,Transfer
 13116,Transfer
 13117,Adoption
 13118,Adoption
@@ -13127,7 +13127,7 @@ Id,Outcome Type
 13126,Adoption
 13127,Transfer
 13128,Died
-13129,Adoption
+13129,Transfer
 13130,Adoption
 13131,Adoption
 13132,Adoption
@@ -13155,7 +13155,7 @@ Id,Outcome Type
 13154,Adoption
 13155,Adoption
 13156,Adoption
-13157,Adoption
+13157,Transfer
 13158,Transfer
 13159,Adoption
 13160,Adoption
@@ -13186,12 +13186,12 @@ Id,Outcome Type
 13185,Adoption
 13186,Adoption
 13187,Return to Owner
-13188,Transfer
+13188,Adoption
 13189,Adoption
 13190,Adoption
 13191,Adoption
 13192,Transfer
-13193,Adoption
+13193,Return to Owner
 13194,Euthanasia
 13195,Adoption
 13196,Adoption
@@ -13207,14 +13207,14 @@ Id,Outcome Type
 13206,Euthanasia
 13207,Adoption
 13208,Return to Owner
-13209,Adoption
+13209,Transfer
 13210,Return to Owner
 13211,Adoption
 13212,Transfer
 13213,Euthanasia
-13214,Return to Owner
+13214,Adoption
 13215,Adoption
-13216,Euthanasia
+13216,Adoption
 13217,Adoption
 13218,Adoption
 13219,Return to Owner
@@ -13275,7 +13275,7 @@ Id,Outcome Type
 13274,Transfer
 13275,Euthanasia
 13276,Adoption
-13277,Adoption
+13277,Transfer
 13278,Transfer
 13279,Adoption
 13280,Transfer
@@ -13391,9 +13391,9 @@ Id,Outcome Type
 13390,Adoption
 13391,Return to Owner
 13392,Adoption
-13393,Return to Owner
+13393,Adoption
 13394,Adoption
-13395,Adoption
+13395,Transfer
 13396,Return to Owner
 13397,Transfer
 13398,Return to Owner
@@ -13426,7 +13426,7 @@ Id,Outcome Type
 13425,Adoption
 13426,Died
 13427,Adoption
-13428,Euthanasia
+13428,Return to Owner
 13429,Adoption
 13430,Adoption
 13431,Adoption
@@ -13477,7 +13477,7 @@ Id,Outcome Type
 13476,Adoption
 13477,Adoption
 13478,Adoption
-13479,Adoption
+13479,Return to Owner
 13480,Return to Owner
 13481,Adoption
 13482,Adoption
@@ -13504,11 +13504,11 @@ Id,Outcome Type
 13503,Adoption
 13504,Return to Owner
 13505,Adoption
-13506,Adoption
+13506,Return to Owner
 13507,Adoption
 13508,Transfer
 13509,Adoption
-13510,Transfer
+13510,Died
 13511,Return to Owner
 13512,Transfer
 13513,Transfer
@@ -13544,7 +13544,7 @@ Id,Outcome Type
 13543,Transfer
 13544,Adoption
 13545,Adoption
-13546,Adoption
+13546,Transfer
 13547,Adoption
 13548,Transfer
 13549,Adoption
@@ -13573,10 +13573,10 @@ Id,Outcome Type
 13572,Adoption
 13573,Adoption
 13574,Transfer
-13575,Died
+13575,Transfer
 13576,Adoption
 13577,Died
-13578,Died
+13578,Adoption
 13579,Return to Owner
 13580,Return to Owner
 13581,Adoption
@@ -13597,7 +13597,7 @@ Id,Outcome Type
 13596,Adoption
 13597,Adoption
 13598,Adoption
-13599,Return to Owner
+13599,Adoption
 13600,Transfer
 13601,Adoption
 13602,Adoption
@@ -13635,7 +13635,7 @@ Id,Outcome Type
 13634,Adoption
 13635,Transfer
 13636,Adoption
-13637,Euthanasia
+13637,Return to Owner
 13638,Adoption
 13639,Adoption
 13640,Adoption
@@ -13659,13 +13659,13 @@ Id,Outcome Type
 13658,Euthanasia
 13659,Adoption
 13660,Adoption
-13661,Return to Owner
+13661,Adoption
 13662,Adoption
 13663,Adoption
 13664,Adoption
 13665,Adoption
 13666,Return to Owner
-13667,Adoption
+13667,Transfer
 13668,Adoption
 13669,Adoption
 13670,Adoption
@@ -13676,7 +13676,7 @@ Id,Outcome Type
 13675,Return to Owner
 13676,Adoption
 13677,Return to Owner
-13678,Return to Owner
+13678,Adoption
 13679,Euthanasia
 13680,Adoption
 13681,Adoption
@@ -13686,7 +13686,7 @@ Id,Outcome Type
 13685,Adoption
 13686,Adoption
 13687,Adoption
-13688,Died
+13688,Transfer
 13689,Adoption
 13690,Adoption
 13691,Transfer
@@ -13712,7 +13712,7 @@ Id,Outcome Type
 13711,Adoption
 13712,Adoption
 13713,Adoption
-13714,Return to Owner
+13714,Adoption
 13715,Adoption
 13716,Adoption
 13717,Adoption
@@ -13763,7 +13763,7 @@ Id,Outcome Type
 13762,Return to Owner
 13763,Return to Owner
 13764,Adoption
-13765,Transfer
+13765,Adoption
 13766,Adoption
 13767,Adoption
 13768,Transfer
@@ -13819,7 +13819,7 @@ Id,Outcome Type
 13818,Adoption
 13819,Adoption
 13820,Transfer
-13821,Return to Owner
+13821,Adoption
 13822,Transfer
 13823,Died
 13824,Adoption
@@ -13828,7 +13828,7 @@ Id,Outcome Type
 13827,Adoption
 13828,Adoption
 13829,Euthanasia
-13830,Adoption
+13830,Return to Owner
 13831,Transfer
 13832,Adoption
 13833,Adoption
@@ -13841,8 +13841,8 @@ Id,Outcome Type
 13840,Transfer
 13841,Adoption
 13842,Euthanasia
-13843,Return to Owner
-13844,Return to Owner
+13843,Adoption
+13844,Adoption
 13845,Return to Owner
 13846,Adoption
 13847,Euthanasia
@@ -13868,7 +13868,7 @@ Id,Outcome Type
 13867,Adoption
 13868,Adoption
 13869,Adoption
-13870,Transfer
+13870,Adoption
 13871,Return to Owner
 13872,Adoption
 13873,Return to Owner
@@ -13879,7 +13879,7 @@ Id,Outcome Type
 13878,Adoption
 13879,Adoption
 13880,Transfer
-13881,Adoption
+13881,Transfer
 13882,Adoption
 13883,Return to Owner
 13884,Adoption
@@ -13890,7 +13890,7 @@ Id,Outcome Type
 13889,Died
 13890,Adoption
 13891,Adoption
-13892,Adoption
+13892,Transfer
 13893,Transfer
 13894,Transfer
 13895,Transfer
@@ -13924,7 +13924,7 @@ Id,Outcome Type
 13923,Adoption
 13924,Adoption
 13925,Transfer
-13926,Return to Owner
+13926,Adoption
 13927,Adoption
 13928,Return to Owner
 13929,Adoption
@@ -13992,7 +13992,7 @@ Id,Outcome Type
 13991,Return to Owner
 13992,Transfer
 13993,Adoption
-13994,Return to Owner
+13994,Adoption
 13995,Adoption
 13996,Adoption
 13997,Adoption
@@ -14012,7 +14012,7 @@ Id,Outcome Type
 14011,Adoption
 14012,Died
 14013,Adoption
-14014,Died
+14014,Adoption
 14015,Adoption
 14016,Return to Owner
 14017,Adoption
@@ -14030,7 +14030,7 @@ Id,Outcome Type
 14029,Adoption
 14030,Adoption
 14031,Transfer
-14032,Adoption
+14032,Transfer
 14033,Adoption
 14034,Return to Owner
 14035,Adoption
@@ -14057,7 +14057,7 @@ Id,Outcome Type
 14056,Adoption
 14057,Adoption
 14058,Transfer
-14059,Euthanasia
+14059,Adoption
 14060,Adoption
 14061,Adoption
 14062,Transfer
@@ -14073,13 +14073,13 @@ Id,Outcome Type
 14072,Return to Owner
 14073,Return to Owner
 14074,Adoption
-14075,Return to Owner
+14075,Adoption
 14076,Euthanasia
 14077,Return to Owner
 14078,Adoption
-14079,Adoption
+14079,Return to Owner
 14080,Transfer
-14081,Adoption
+14081,Transfer
 14082,Adoption
 14083,Transfer
 14084,Transfer
@@ -14115,7 +14115,7 @@ Id,Outcome Type
 14114,Adoption
 14115,Adoption
 14116,Return to Owner
-14117,Transfer
+14117,Adoption
 14118,Adoption
 14119,Adoption
 14120,Adoption
@@ -14128,28 +14128,28 @@ Id,Outcome Type
 14127,Return to Owner
 14128,Transfer
 14129,Adoption
-14130,Return to Owner
+14130,Adoption
 14131,Adoption
 14132,Adoption
 14133,Adoption
-14134,Transfer
+14134,Adoption
 14135,Return to Owner
 14136,Adoption
 14137,Adoption
 14138,Adoption
-14139,Died
+14139,Adoption
 14140,Return to Owner
 14141,Transfer
 14142,Return to Owner
 14143,Transfer
 14144,Transfer
-14145,Euthanasia
+14145,Adoption
 14146,Adoption
 14147,Transfer
 14148,Transfer
 14149,Adoption
 14150,Transfer
-14151,Transfer
+14151,Adoption
 14152,Adoption
 14153,Adoption
 14154,Adoption
@@ -14187,7 +14187,7 @@ Id,Outcome Type
 14186,Return to Owner
 14187,Adoption
 14188,Return to Owner
-14189,Adoption
+14189,Transfer
 14190,Return to Owner
 14191,Adoption
 14192,Transfer
@@ -14196,7 +14196,7 @@ Id,Outcome Type
 14195,Adoption
 14196,Adoption
 14197,Adoption
-14198,Died
+14198,Adoption
 14199,Adoption
 14200,Adoption
 14201,Transfer
@@ -14209,7 +14209,7 @@ Id,Outcome Type
 14208,Return to Owner
 14209,Transfer
 14210,Adoption
-14211,Adoption
+14211,Transfer
 14212,Adoption
 14213,Return to Owner
 14214,Adoption
@@ -14239,15 +14239,15 @@ Id,Outcome Type
 14238,Adoption
 14239,Transfer
 14240,Adoption
-14241,Died
+14241,Transfer
 14242,Adoption
 14243,Adoption
-14244,Return to Owner
+14244,Adoption
 14245,Adoption
 14246,Adoption
 14247,Return to Owner
 14248,Adoption
-14249,Return to Owner
+14249,Adoption
 14250,Return to Owner
 14251,Adoption
 14252,Adoption
@@ -14266,7 +14266,7 @@ Id,Outcome Type
 14265,Euthanasia
 14266,Adoption
 14267,Adoption
-14268,Return to Owner
+14268,Adoption
 14269,Adoption
 14270,Adoption
 14271,Adoption
@@ -14291,10 +14291,10 @@ Id,Outcome Type
 14290,Adoption
 14291,Adoption
 14292,Adoption
-14293,Return to Owner
+14293,Adoption
 14294,Transfer
 14295,Adoption
-14296,Return to Owner
+14296,Adoption
 14297,Return to Owner
 14298,Adoption
 14299,Return to Owner
@@ -14308,7 +14308,7 @@ Id,Outcome Type
 14307,Adoption
 14308,Adoption
 14309,Transfer
-14310,Adoption
+14310,Transfer
 14311,Adoption
 14312,Adoption
 14313,Transfer
@@ -14323,7 +14323,7 @@ Id,Outcome Type
 14322,Transfer
 14323,Transfer
 14324,Adoption
-14325,Return to Owner
+14325,Adoption
 14326,Adoption
 14327,Adoption
 14328,Adoption
@@ -14345,7 +14345,7 @@ Id,Outcome Type
 14344,Transfer
 14345,Return to Owner
 14346,Adoption
-14347,Transfer
+14347,Adoption
 14348,Adoption
 14349,Adoption
 14350,Adoption
@@ -14367,7 +14367,7 @@ Id,Outcome Type
 14366,Adoption
 14367,Adoption
 14368,Return to Owner
-14369,Died
+14369,Transfer
 14370,Died
 14371,Adoption
 14372,Adoption
@@ -14382,7 +14382,7 @@ Id,Outcome Type
 14381,Adoption
 14382,Return to Owner
 14383,Adoption
-14384,Transfer
+14384,Adoption
 14385,Adoption
 14386,Adoption
 14387,Transfer
@@ -14444,7 +14444,7 @@ Id,Outcome Type
 14443,Adoption
 14444,Transfer
 14445,Transfer
-14446,Return to Owner
+14446,Adoption
 14447,Adoption
 14448,Adoption
 14449,Transfer
@@ -14460,7 +14460,7 @@ Id,Outcome Type
 14459,Adoption
 14460,Adoption
 14461,Adoption
-14462,Return to Owner
+14462,Adoption
 14463,Adoption
 14464,Return to Owner
 14465,Adoption
@@ -14475,7 +14475,7 @@ Id,Outcome Type
 14474,Died
 14475,Adoption
 14476,Adoption
-14477,Transfer
+14477,Return to Owner
 14478,Return to Owner
 14479,Adoption
 14480,Adoption
@@ -14511,13 +14511,13 @@ Id,Outcome Type
 14510,Adoption
 14511,Adoption
 14512,Return to Owner
-14513,Euthanasia
+14513,Adoption
 14514,Adoption
 14515,Adoption
 14516,Transfer
 14517,Adoption
 14518,Adoption
-14519,Adoption
+14519,Return to Owner
 14520,Return to Owner
 14521,Transfer
 14522,Adoption
@@ -14525,7 +14525,7 @@ Id,Outcome Type
 14524,Adoption
 14525,Return to Owner
 14526,Died
-14527,Adoption
+14527,Transfer
 14528,Return to Owner
 14529,Adoption
 14530,Adoption
@@ -14544,14 +14544,14 @@ Id,Outcome Type
 14543,Transfer
 14544,Adoption
 14545,Adoption
-14546,Transfer
+14546,Adoption
 14547,Transfer
 14548,Died
 14549,Transfer
 14550,Return to Owner
 14551,Adoption
 14552,Adoption
-14553,Transfer
+14553,Adoption
 14554,Return to Owner
 14555,Adoption
 14556,Transfer
@@ -14566,11 +14566,11 @@ Id,Outcome Type
 14565,Adoption
 14566,Adoption
 14567,Adoption
-14568,Transfer
+14568,Adoption
 14569,Adoption
 14570,Return to Owner
 14571,Adoption
-14572,Transfer
+14572,Adoption
 14573,Adoption
 14574,Adoption
 14575,Transfer
@@ -14590,7 +14590,7 @@ Id,Outcome Type
 14589,Transfer
 14590,Adoption
 14591,Adoption
-14592,Died
+14592,Adoption
 14593,Adoption
 14594,Adoption
 14595,Adoption
@@ -14600,11 +14600,11 @@ Id,Outcome Type
 14599,Adoption
 14600,Adoption
 14601,Adoption
-14602,Euthanasia
+14602,Return to Owner
 14603,Transfer
 14604,Transfer
 14605,Adoption
-14606,Died
+14606,Adoption
 14607,Adoption
 14608,Transfer
 14609,Adoption
@@ -14627,13 +14627,13 @@ Id,Outcome Type
 14626,Return to Owner
 14627,Adoption
 14628,Died
-14629,Return to Owner
+14629,Adoption
 14630,Adoption
 14631,Adoption
 14632,Adoption
 14633,Adoption
 14634,Return to Owner
-14635,Return to Owner
+14635,Adoption
 14636,Adoption
 14637,Adoption
 14638,Adoption
@@ -14669,7 +14669,7 @@ Id,Outcome Type
 14668,Return to Owner
 14669,Return to Owner
 14670,Adoption
-14671,Died
+14671,Transfer
 14672,Adoption
 14673,Adoption
 14674,Adoption
@@ -14677,10 +14677,10 @@ Id,Outcome Type
 14676,Adoption
 14677,Adoption
 14678,Adoption
-14679,Transfer
+14679,Adoption
 14680,Transfer
 14681,Adoption
-14682,Adoption
+14682,Transfer
 14683,Adoption
 14684,Return to Owner
 14685,Transfer
@@ -14762,7 +14762,7 @@ Id,Outcome Type
 14761,Return to Owner
 14762,Adoption
 14763,Return to Owner
-14764,Adoption
+14764,Transfer
 14765,Return to Owner
 14766,Adoption
 14767,Adoption
@@ -14771,16 +14771,16 @@ Id,Outcome Type
 14770,Adoption
 14771,Return to Owner
 14772,Adoption
-14773,Died
+14773,Transfer
 14774,Return to Owner
 14775,Adoption
 14776,Adoption
-14777,Return to Owner
+14777,Adoption
 14778,Adoption
 14779,Transfer
 14780,Adoption
 14781,Adoption
-14782,Adoption
+14782,Transfer
 14783,Died
 14784,Adoption
 14785,Adoption
@@ -14790,7 +14790,7 @@ Id,Outcome Type
 14789,Adoption
 14790,Adoption
 14791,Adoption
-14792,Euthanasia
+14792,Return to Owner
 14793,Adoption
 14794,Adoption
 14795,Transfer
@@ -14833,7 +14833,7 @@ Id,Outcome Type
 14832,Adoption
 14833,Adoption
 14834,Transfer
-14835,Return to Owner
+14835,Adoption
 14836,Transfer
 14837,Return to Owner
 14838,Adoption
@@ -14917,13 +14917,13 @@ Id,Outcome Type
 14916,Transfer
 14917,Transfer
 14918,Adoption
-14919,Adoption
+14919,Return to Owner
 14920,Adoption
 14921,Adoption
 14922,Adoption
 14923,Return to Owner
 14924,Transfer
-14925,Adoption
+14925,Return to Owner
 14926,Adoption
 14927,Adoption
 14928,Adoption
@@ -14944,7 +14944,7 @@ Id,Outcome Type
 14943,Transfer
 14944,Adoption
 14945,Adoption
-14946,Died
+14946,Transfer
 14947,Transfer
 14948,Adoption
 14949,Transfer
@@ -15004,8 +15004,8 @@ Id,Outcome Type
 15003,Adoption
 15004,Return to Owner
 15005,Adoption
-15006,Transfer
-15007,Euthanasia
+15006,Euthanasia
+15007,Adoption
 15008,Adoption
 15009,Transfer
 15010,Adoption
@@ -15033,7 +15033,7 @@ Id,Outcome Type
 15032,Adoption
 15033,Adoption
 15034,Adoption
-15035,Died
+15035,Transfer
 15036,Adoption
 15037,Adoption
 15038,Adoption
@@ -15108,7 +15108,7 @@ Id,Outcome Type
 15107,Transfer
 15108,Adoption
 15109,Adoption
-15110,Died
+15110,Transfer
 15111,Adoption
 15112,Return to Owner
 15113,Adoption
@@ -15116,7 +15116,7 @@ Id,Outcome Type
 15115,Adoption
 15116,Return to Owner
 15117,Return to Owner
-15118,Died
+15118,Transfer
 15119,Adoption
 15120,Adoption
 15121,Adoption
@@ -15130,10 +15130,10 @@ Id,Outcome Type
 15129,Return to Owner
 15130,Adoption
 15131,Return to Owner
-15132,Return to Owner
+15132,Adoption
 15133,Transfer
 15134,Adoption
-15135,Transfer
+15135,Return to Owner
 15136,Adoption
 15137,Adoption
 15138,Return to Owner
@@ -15143,7 +15143,7 @@ Id,Outcome Type
 15142,Adoption
 15143,Adoption
 15144,Adoption
-15145,Adoption
+15145,Transfer
 15146,Adoption
 15147,Return to Owner
 15148,Return to Owner
@@ -15168,7 +15168,7 @@ Id,Outcome Type
 15167,Return to Owner
 15168,Died
 15169,Adoption
-15170,Adoption
+15170,Transfer
 15171,Adoption
 15172,Adoption
 15173,Died
@@ -15242,11 +15242,11 @@ Id,Outcome Type
 15241,Adoption
 15242,Adoption
 15243,Return to Owner
-15244,Adoption
+15244,Transfer
 15245,Adoption
 15246,Transfer
 15247,Adoption
-15248,Adoption
+15248,Euthanasia
 15249,Euthanasia
 15250,Transfer
 15251,Adoption
@@ -15254,13 +15254,13 @@ Id,Outcome Type
 15253,Adoption
 15254,Transfer
 15255,Adoption
-15256,Adoption
+15256,Transfer
 15257,Transfer
 15258,Adoption
 15259,Return to Owner
-15260,Return to Owner
+15260,Adoption
 15261,Transfer
-15262,Euthanasia
+15262,Adoption
 15263,Adoption
 15264,Adoption
 15265,Transfer
@@ -15270,7 +15270,7 @@ Id,Outcome Type
 15269,Adoption
 15270,Adoption
 15271,Adoption
-15272,Return to Owner
+15272,Adoption
 15273,Return to Owner
 15274,Adoption
 15275,Adoption
@@ -15292,7 +15292,7 @@ Id,Outcome Type
 15291,Adoption
 15292,Adoption
 15293,Adoption
-15294,Transfer
+15294,Adoption
 15295,Adoption
 15296,Adoption
 15297,Adoption
@@ -15339,7 +15339,7 @@ Id,Outcome Type
 15338,Adoption
 15339,Transfer
 15340,Adoption
-15341,Transfer
+15341,Adoption
 15342,Adoption
 15343,Adoption
 15344,Adoption
@@ -15349,7 +15349,7 @@ Id,Outcome Type
 15348,Transfer
 15349,Adoption
 15350,Transfer
-15351,Adoption
+15351,Transfer
 15352,Transfer
 15353,Adoption
 15354,Return to Owner
@@ -15357,7 +15357,7 @@ Id,Outcome Type
 15356,Adoption
 15357,Adoption
 15358,Adoption
-15359,Euthanasia
+15359,Return to Owner
 15360,Return to Owner
 15361,Adoption
 15362,Adoption
@@ -15371,7 +15371,7 @@ Id,Outcome Type
 15370,Adoption
 15371,Adoption
 15372,Adoption
-15373,Adoption
+15373,Return to Owner
 15374,Transfer
 15375,Adoption
 15376,Adoption
@@ -15389,7 +15389,7 @@ Id,Outcome Type
 15388,Adoption
 15389,Adoption
 15390,Adoption
-15391,Adoption
+15391,Transfer
 15392,Adoption
 15393,Adoption
 15394,Transfer
@@ -15430,14 +15430,14 @@ Id,Outcome Type
 15429,Transfer
 15430,Transfer
 15431,Adoption
-15432,Died
+15432,Transfer
 15433,Transfer
 15434,Return to Owner
 15435,Transfer
 15436,Adoption
 15437,Adoption
 15438,Return to Owner
-15439,Return to Owner
+15439,Adoption
 15440,Euthanasia
 15441,Adoption
 15442,Adoption
@@ -15500,13 +15500,13 @@ Id,Outcome Type
 15499,Adoption
 15500,Adoption
 15501,Adoption
-15502,Return to Owner
+15502,Adoption
 15503,Return to Owner
 15504,Adoption
 15505,Adoption
 15506,Adoption
 15507,Adoption
-15508,Died
+15508,Adoption
 15509,Adoption
 15510,Adoption
 15511,Adoption
@@ -15536,7 +15536,7 @@ Id,Outcome Type
 15535,Return to Owner
 15536,Return to Owner
 15537,Euthanasia
-15538,Euthanasia
+15538,Adoption
 15539,Transfer
 15540,Return to Owner
 15541,Adoption
@@ -15549,8 +15549,8 @@ Id,Outcome Type
 15548,Adoption
 15549,Adoption
 15550,Adoption
-15551,Transfer
-15552,Adoption
+15551,Adoption
+15552,Transfer
 15553,Return to Owner
 15554,Adoption
 15555,Adoption
@@ -15560,7 +15560,7 @@ Id,Outcome Type
 15559,Return to Owner
 15560,Adoption
 15561,Adoption
-15562,Adoption
+15562,Transfer
 15563,Transfer
 15564,Adoption
 15565,Return to Owner
@@ -15595,18 +15595,18 @@ Id,Outcome Type
 15594,Adoption
 15595,Return to Owner
 15596,Transfer
-15597,Transfer
+15597,Adoption
 15598,Adoption
 15599,Adoption
 15600,Died
 15601,Adoption
 15602,Adoption
 15603,Return to Owner
-15604,Euthanasia
+15604,Adoption
 15605,Adoption
-15606,Died
+15606,Adoption
 15607,Adoption
-15608,Adoption
+15608,Transfer
 15609,Adoption
 15610,Transfer
 15611,Return to Owner
@@ -15617,7 +15617,7 @@ Id,Outcome Type
 15616,Adoption
 15617,Adoption
 15618,Transfer
-15619,Transfer
+15619,Adoption
 15620,Adoption
 15621,Adoption
 15622,Adoption
@@ -15709,7 +15709,7 @@ Id,Outcome Type
 15708,Return to Owner
 15709,Adoption
 15710,Transfer
-15711,Return to Owner
+15711,Adoption
 15712,Transfer
 15713,Transfer
 15714,Transfer
@@ -15729,7 +15729,7 @@ Id,Outcome Type
 15728,Return to Owner
 15729,Adoption
 15730,Adoption
-15731,Euthanasia
+15731,Adoption
 15732,Adoption
 15733,Transfer
 15734,Adoption
@@ -15764,7 +15764,7 @@ Id,Outcome Type
 15763,Died
 15764,Adoption
 15765,Transfer
-15766,Return to Owner
+15766,Adoption
 15767,Adoption
 15768,Adoption
 15769,Adoption
@@ -15785,8 +15785,8 @@ Id,Outcome Type
 15784,Adoption
 15785,Return to Owner
 15786,Adoption
-15787,Adoption
-15788,Adoption
+15787,Transfer
+15788,Transfer
 15789,Adoption
 15790,Adoption
 15791,Adoption
@@ -15818,7 +15818,7 @@ Id,Outcome Type
 15817,Died
 15818,Adoption
 15819,Adoption
-15820,Return to Owner
+15820,Adoption
 15821,Adoption
 15822,Adoption
 15823,Adoption
@@ -15870,7 +15870,7 @@ Id,Outcome Type
 15869,Adoption
 15870,Adoption
 15871,Adoption
-15872,Transfer
+15872,Adoption
 15873,Transfer
 15874,Adoption
 15875,Adoption
@@ -15885,7 +15885,7 @@ Id,Outcome Type
 15884,Adoption
 15885,Return to Owner
 15886,Adoption
-15887,Died
+15887,Adoption
 15888,Adoption
 15889,Adoption
 15890,Transfer
@@ -15907,7 +15907,7 @@ Id,Outcome Type
 15906,Adoption
 15907,Adoption
 15908,Adoption
-15909,Return to Owner
+15909,Adoption
 15910,Adoption
 15911,Adoption
 15912,Adoption
@@ -15921,12 +15921,12 @@ Id,Outcome Type
 15920,Adoption
 15921,Adoption
 15922,Adoption
-15923,Adoption
+15923,Transfer
 15924,Adoption
 15925,Adoption
 15926,Adoption
 15927,Adoption
-15928,Adoption
+15928,Died
 15929,Adoption
 15930,Transfer
 15931,Transfer
@@ -15986,7 +15986,7 @@ Id,Outcome Type
 15985,Adoption
 15986,Euthanasia
 15987,Adoption
-15988,Return to Owner
+15988,Adoption
 15989,Adoption
 15990,Adoption
 15991,Adoption
@@ -16013,7 +16013,7 @@ Id,Outcome Type
 16012,Return to Owner
 16013,Adoption
 16014,Adoption
-16015,Died
+16015,Adoption
 16016,Return to Owner
 16017,Adoption
 16018,Adoption
@@ -16034,7 +16034,7 @@ Id,Outcome Type
 16033,Return to Owner
 16034,Adoption
 16035,Return to Owner
-16036,Euthanasia
+16036,Adoption
 16037,Euthanasia
 16038,Adoption
 16039,Transfer
@@ -16052,7 +16052,7 @@ Id,Outcome Type
 16051,Adoption
 16052,Return to Owner
 16053,Adoption
-16054,Died
+16054,Transfer
 16055,Adoption
 16056,Euthanasia
 16057,Adoption
@@ -16089,7 +16089,7 @@ Id,Outcome Type
 16088,Adoption
 16089,Died
 16090,Euthanasia
-16091,Return to Owner
+16091,Adoption
 16092,Adoption
 16093,Adoption
 16094,Return to Owner
@@ -16111,7 +16111,7 @@ Id,Outcome Type
 16110,Adoption
 16111,Adoption
 16112,Adoption
-16113,Died
+16113,Transfer
 16114,Adoption
 16115,Adoption
 16116,Adoption
@@ -16146,7 +16146,7 @@ Id,Outcome Type
 16145,Adoption
 16146,Adoption
 16147,Transfer
-16148,Return to Owner
+16148,Adoption
 16149,Adoption
 16150,Adoption
 16151,Return to Owner
@@ -16163,7 +16163,7 @@ Id,Outcome Type
 16162,Return to Owner
 16163,Adoption
 16164,Return to Owner
-16165,Adoption
+16165,Return to Owner
 16166,Adoption
 16167,Adoption
 16168,Return to Owner
@@ -16173,7 +16173,7 @@ Id,Outcome Type
 16172,Adoption
 16173,Adoption
 16174,Adoption
-16175,Return to Owner
+16175,Adoption
 16176,Adoption
 16177,Adoption
 16178,Adoption
@@ -16184,14 +16184,14 @@ Id,Outcome Type
 16183,Return to Owner
 16184,Adoption
 16185,Adoption
-16186,Euthanasia
+16186,Adoption
 16187,Adoption
 16188,Adoption
 16189,Adoption
 16190,Transfer
 16191,Transfer
 16192,Adoption
-16193,Died
+16193,Transfer
 16194,Adoption
 16195,Adoption
 16196,Adoption
@@ -16202,7 +16202,7 @@ Id,Outcome Type
 16201,Adoption
 16202,Adoption
 16203,Adoption
-16204,Adoption
+16204,Transfer
 16205,Adoption
 16206,Adoption
 16207,Adoption
@@ -16215,7 +16215,7 @@ Id,Outcome Type
 16214,Adoption
 16215,Adoption
 16216,Adoption
-16217,Transfer
+16217,Adoption
 16218,Adoption
 16219,Adoption
 16220,Adoption
@@ -16223,7 +16223,7 @@ Id,Outcome Type
 16222,Adoption
 16223,Return to Owner
 16224,Return to Owner
-16225,Euthanasia
+16225,Adoption
 16226,Adoption
 16227,Adoption
 16228,Adoption
@@ -16259,8 +16259,8 @@ Id,Outcome Type
 16258,Euthanasia
 16259,Adoption
 16260,Adoption
-16261,Transfer
-16262,Adoption
+16261,Adoption
+16262,Transfer
 16263,Transfer
 16264,Adoption
 16265,Transfer
@@ -16287,7 +16287,7 @@ Id,Outcome Type
 16286,Adoption
 16287,Adoption
 16288,Adoption
-16289,Return to Owner
+16289,Adoption
 16290,Adoption
 16291,Adoption
 16292,Return to Owner
@@ -16473,7 +16473,7 @@ Id,Outcome Type
 16472,Transfer
 16473,Return to Owner
 16474,Transfer
-16475,Return to Owner
+16475,Adoption
 16476,Adoption
 16477,Adoption
 16478,Euthanasia
@@ -16491,15 +16491,15 @@ Id,Outcome Type
 16490,Return to Owner
 16491,Adoption
 16492,Adoption
-16493,Died
+16493,Adoption
 16494,Adoption
 16495,Adoption
-16496,Return to Owner
+16496,Adoption
 16497,Adoption
 16498,Adoption
 16499,Euthanasia
 16500,Return to Owner
-16501,Transfer
+16501,Adoption
 16502,Transfer
 16503,Adoption
 16504,Adoption
@@ -16515,7 +16515,7 @@ Id,Outcome Type
 16514,Return to Owner
 16515,Transfer
 16516,Adoption
-16517,Adoption
+16517,Transfer
 16518,Adoption
 16519,Adoption
 16520,Adoption
@@ -16529,7 +16529,7 @@ Id,Outcome Type
 16528,Adoption
 16529,Adoption
 16530,Adoption
-16531,Adoption
+16531,Transfer
 16532,Adoption
 16533,Adoption
 16534,Euthanasia
@@ -16581,7 +16581,7 @@ Id,Outcome Type
 16580,Return to Owner
 16581,Return to Owner
 16582,Adoption
-16583,Adoption
+16583,Transfer
 16584,Adoption
 16585,Adoption
 16586,Return to Owner
@@ -16629,8 +16629,8 @@ Id,Outcome Type
 16628,Transfer
 16629,Adoption
 16630,Adoption
-16631,Return to Owner
-16632,Adoption
+16631,Adoption
+16632,Transfer
 16633,Transfer
 16634,Adoption
 16635,Died
@@ -16690,7 +16690,7 @@ Id,Outcome Type
 16689,Euthanasia
 16690,Return to Owner
 16691,Adoption
-16692,Adoption
+16692,Transfer
 16693,Adoption
 16694,Adoption
 16695,Adoption
@@ -16705,7 +16705,7 @@ Id,Outcome Type
 16704,Transfer
 16705,Transfer
 16706,Adoption
-16707,Transfer
+16707,Adoption
 16708,Adoption
 16709,Adoption
 16710,Adoption
@@ -16721,7 +16721,7 @@ Id,Outcome Type
 16720,Adoption
 16721,Transfer
 16722,Adoption
-16723,Adoption
+16723,Transfer
 16724,Adoption
 16725,Adoption
 16726,Died
@@ -16766,7 +16766,7 @@ Id,Outcome Type
 16765,Return to Owner
 16766,Adoption
 16767,Return to Owner
-16768,Transfer
+16768,Adoption
 16769,Adoption
 16770,Adoption
 16771,Return to Owner
@@ -16774,7 +16774,7 @@ Id,Outcome Type
 16773,Adoption
 16774,Adoption
 16775,Transfer
-16776,Transfer
+16776,Adoption
 16777,Adoption
 16778,Transfer
 16779,Died
@@ -16809,13 +16809,13 @@ Id,Outcome Type
 16808,Adoption
 16809,Adoption
 16810,Euthanasia
-16811,Died
+16811,Transfer
 16812,Adoption
 16813,Return to Owner
 16814,Adoption
 16815,Adoption
 16816,Euthanasia
-16817,Adoption
+16817,Transfer
 16818,Transfer
 16819,Adoption
 16820,Adoption
@@ -16836,7 +16836,7 @@ Id,Outcome Type
 16835,Adoption
 16836,Adoption
 16837,Adoption
-16838,Adoption
+16838,Transfer
 16839,Adoption
 16840,Adoption
 16841,Transfer
@@ -16871,12 +16871,12 @@ Id,Outcome Type
 16870,Return to Owner
 16871,Adoption
 16872,Adoption
-16873,Transfer
+16873,Adoption
 16874,Adoption
 16875,Transfer
 16876,Return to Owner
 16877,Adoption
-16878,Return to Owner
+16878,Adoption
 16879,Adoption
 16880,Adoption
 16881,Adoption
@@ -16884,7 +16884,7 @@ Id,Outcome Type
 16883,Return to Owner
 16884,Transfer
 16885,Transfer
-16886,Return to Owner
+16886,Adoption
 16887,Return to Owner
 16888,Return to Owner
 16889,Return to Owner
@@ -16895,7 +16895,7 @@ Id,Outcome Type
 16894,Adoption
 16895,Adoption
 16896,Adoption
-16897,Adoption
+16897,Return to Owner
 16898,Adoption
 16899,Adoption
 16900,Adoption
@@ -16910,7 +16910,7 @@ Id,Outcome Type
 16909,Return to Owner
 16910,Transfer
 16911,Adoption
-16912,Transfer
+16912,Adoption
 16913,Adoption
 16914,Adoption
 16915,Adoption
@@ -16939,7 +16939,7 @@ Id,Outcome Type
 16938,Transfer
 16939,Adoption
 16940,Adoption
-16941,Return to Owner
+16941,Adoption
 16942,Adoption
 16943,Return to Owner
 16944,Adoption
@@ -16958,10 +16958,10 @@ Id,Outcome Type
 16957,Adoption
 16958,Adoption
 16959,Adoption
-16960,Return to Owner
+16960,Adoption
 16961,Transfer
 16962,Transfer
-16963,Transfer
+16963,Adoption
 16964,Adoption
 16965,Return to Owner
 16966,Adoption
@@ -16979,7 +16979,7 @@ Id,Outcome Type
 16978,Adoption
 16979,Adoption
 16980,Adoption
-16981,Adoption
+16981,Transfer
 16982,Adoption
 16983,Adoption
 16984,Adoption
@@ -17001,7 +17001,7 @@ Id,Outcome Type
 17000,Adoption
 17001,Adoption
 17002,Transfer
-17003,Died
+17003,Transfer
 17004,Adoption
 17005,Adoption
 17006,Adoption
@@ -17018,7 +17018,7 @@ Id,Outcome Type
 17017,Adoption
 17018,Adoption
 17019,Adoption
-17020,Transfer
+17020,Adoption
 17021,Adoption
 17022,Adoption
 17023,Adoption
@@ -17030,7 +17030,7 @@ Id,Outcome Type
 17029,Return to Owner
 17030,Adoption
 17031,Transfer
-17032,Adoption
+17032,Transfer
 17033,Euthanasia
 17034,Return to Owner
 17035,Adoption
@@ -17048,13 +17048,13 @@ Id,Outcome Type
 17047,Adoption
 17048,Died
 17049,Return to Owner
-17050,Return to Owner
+17050,Adoption
 17051,Adoption
 17052,Adoption
 17053,Adoption
 17054,Return to Owner
 17055,Adoption
-17056,Adoption
+17056,Transfer
 17057,Adoption
 17058,Adoption
 17059,Return to Owner
@@ -17070,8 +17070,8 @@ Id,Outcome Type
 17069,Adoption
 17070,Euthanasia
 17071,Transfer
-17072,Adoption
-17073,Died
+17072,Transfer
+17073,Adoption
 17074,Adoption
 17075,Return to Owner
 17076,Adoption
@@ -17130,7 +17130,7 @@ Id,Outcome Type
 17129,Adoption
 17130,Transfer
 17131,Adoption
-17132,Adoption
+17132,Transfer
 17133,Adoption
 17134,Adoption
 17135,Transfer
@@ -17140,7 +17140,7 @@ Id,Outcome Type
 17139,Adoption
 17140,Euthanasia
 17141,Adoption
-17142,Adoption
+17142,Transfer
 17143,Adoption
 17144,Adoption
 17145,Adoption
@@ -17148,7 +17148,7 @@ Id,Outcome Type
 17147,Transfer
 17148,Adoption
 17149,Adoption
-17150,Return to Owner
+17150,Adoption
 17151,Adoption
 17152,Adoption
 17153,Adoption
@@ -17169,7 +17169,7 @@ Id,Outcome Type
 17168,Adoption
 17169,Adoption
 17170,Return to Owner
-17171,Died
+17171,Adoption
 17172,Adoption
 17173,Transfer
 17174,Adoption
@@ -17200,7 +17200,7 @@ Id,Outcome Type
 17199,Transfer
 17200,Adoption
 17201,Adoption
-17202,Transfer
+17202,Adoption
 17203,Transfer
 17204,Adoption
 17205,Adoption
@@ -17210,7 +17210,7 @@ Id,Outcome Type
 17209,Euthanasia
 17210,Adoption
 17211,Transfer
-17212,Return to Owner
+17212,Adoption
 17213,Adoption
 17214,Adoption
 17215,Return to Owner
@@ -17221,7 +17221,7 @@ Id,Outcome Type
 17220,Transfer
 17221,Return to Owner
 17222,Return to Owner
-17223,Transfer
+17223,Adoption
 17224,Adoption
 17225,Adoption
 17226,Adoption
@@ -17278,14 +17278,14 @@ Id,Outcome Type
 17277,Adoption
 17278,Adoption
 17279,Transfer
-17280,Adoption
+17280,Transfer
 17281,Adoption
 17282,Transfer
 17283,Adoption
 17284,Adoption
 17285,Adoption
 17286,Adoption
-17287,Adoption
+17287,Transfer
 17288,Adoption
 17289,Transfer
 17290,Transfer
@@ -17304,7 +17304,7 @@ Id,Outcome Type
 17303,Adoption
 17304,Adoption
 17305,Return to Owner
-17306,Died
+17306,Adoption
 17307,Adoption
 17308,Adoption
 17309,Transfer
@@ -17340,12 +17340,12 @@ Id,Outcome Type
 17339,Return to Owner
 17340,Return to Owner
 17341,Adoption
-17342,Died
+17342,Adoption
 17343,Transfer
 17344,Adoption
 17345,Adoption
 17346,Adoption
-17347,Adoption
+17347,Transfer
 17348,Return to Owner
 17349,Adoption
 17350,Return to Owner
@@ -17363,12 +17363,12 @@ Id,Outcome Type
 17362,Return to Owner
 17363,Adoption
 17364,Adoption
-17365,Adoption
+17365,Transfer
 17366,Adoption
 17367,Euthanasia
 17368,Adoption
 17369,Adoption
-17370,Died
+17370,Transfer
 17371,Adoption
 17372,Adoption
 17373,Adoption
@@ -17434,7 +17434,7 @@ Id,Outcome Type
 17433,Return to Owner
 17434,Adoption
 17435,Adoption
-17436,Transfer
+17436,Adoption
 17437,Adoption
 17438,Return to Owner
 17439,Adoption
@@ -17443,7 +17443,7 @@ Id,Outcome Type
 17442,Adoption
 17443,Return to Owner
 17444,Return to Owner
-17445,Adoption
+17445,Transfer
 17446,Transfer
 17447,Adoption
 17448,Adoption
@@ -17452,7 +17452,7 @@ Id,Outcome Type
 17451,Adoption
 17452,Return to Owner
 17453,Adoption
-17454,Transfer
+17454,Adoption
 17455,Adoption
 17456,Adoption
 17457,Died
@@ -17465,7 +17465,7 @@ Id,Outcome Type
 17464,Adoption
 17465,Transfer
 17466,Adoption
-17467,Died
+17467,Transfer
 17468,Adoption
 17469,Return to Owner
 17470,Return to Owner
@@ -17489,9 +17489,9 @@ Id,Outcome Type
 17488,Died
 17489,Transfer
 17490,Adoption
-17491,Adoption
+17491,Transfer
 17492,Return to Owner
-17493,Died
+17493,Adoption
 17494,Adoption
 17495,Transfer
 17496,Adoption
@@ -17499,7 +17499,7 @@ Id,Outcome Type
 17498,Adoption
 17499,Adoption
 17500,Adoption
-17501,Died
+17501,Adoption
 17502,Adoption
 17503,Transfer
 17504,Transfer
@@ -17519,7 +17519,7 @@ Id,Outcome Type
 17518,Adoption
 17519,Return to Owner
 17520,Adoption
-17521,Transfer
+17521,Died
 17522,Transfer
 17523,Adoption
 17524,Adoption
@@ -17588,7 +17588,7 @@ Id,Outcome Type
 17587,Transfer
 17588,Adoption
 17589,Adoption
-17590,Adoption
+17590,Return to Owner
 17591,Adoption
 17592,Return to Owner
 17593,Adoption
@@ -17599,7 +17599,7 @@ Id,Outcome Type
 17598,Return to Owner
 17599,Adoption
 17600,Adoption
-17601,Transfer
+17601,Return to Owner
 17602,Adoption
 17603,Adoption
 17604,Adoption
@@ -17624,7 +17624,7 @@ Id,Outcome Type
 17623,Adoption
 17624,Adoption
 17625,Return to Owner
-17626,Adoption
+17626,Transfer
 17627,Adoption
 17628,Adoption
 17629,Adoption
@@ -17668,7 +17668,7 @@ Id,Outcome Type
 17667,Adoption
 17668,Adoption
 17669,Return to Owner
-17670,Return to Owner
+17670,Adoption
 17671,Adoption
 17672,Adoption
 17673,Adoption
@@ -17678,7 +17678,7 @@ Id,Outcome Type
 17677,Adoption
 17678,Euthanasia
 17679,Adoption
-17680,Transfer
+17680,Adoption
 17681,Adoption
 17682,Adoption
 17683,Transfer
@@ -17689,7 +17689,7 @@ Id,Outcome Type
 17688,Adoption
 17689,Transfer
 17690,Return to Owner
-17691,Adoption
+17691,Return to Owner
 17692,Transfer
 17693,Adoption
 17694,Return to Owner
@@ -17697,13 +17697,13 @@ Id,Outcome Type
 17696,Adoption
 17697,Return to Owner
 17698,Adoption
-17699,Return to Owner
+17699,Adoption
 17700,Return to Owner
 17701,Adoption
 17702,Return to Owner
 17703,Adoption
 17704,Transfer
-17705,Transfer
+17705,Adoption
 17706,Return to Owner
 17707,Return to Owner
 17708,Return to Owner
@@ -17717,7 +17717,7 @@ Id,Outcome Type
 17716,Transfer
 17717,Return to Owner
 17718,Adoption
-17719,Adoption
+17719,Transfer
 17720,Return to Owner
 17721,Adoption
 17722,Return to Owner
@@ -17725,24 +17725,24 @@ Id,Outcome Type
 17724,Transfer
 17725,Adoption
 17726,Adoption
-17727,Transfer
+17727,Adoption
 17728,Return to Owner
 17729,Adoption
 17730,Adoption
 17731,Transfer
-17732,Adoption
+17732,Transfer
 17733,Return to Owner
 17734,Adoption
 17735,Adoption
 17736,Adoption
 17737,Adoption
-17738,Return to Owner
+17738,Adoption
 17739,Died
 17740,Euthanasia
 17741,Return to Owner
 17742,Adoption
 17743,Adoption
-17744,Return to Owner
+17744,Adoption
 17745,Adoption
 17746,Adoption
 17747,Transfer
@@ -17762,7 +17762,7 @@ Id,Outcome Type
 17761,Adoption
 17762,Adoption
 17763,Adoption
-17764,Adoption
+17764,Transfer
 17765,Adoption
 17766,Adoption
 17767,Adoption
@@ -17770,19 +17770,19 @@ Id,Outcome Type
 17769,Return to Owner
 17770,Adoption
 17771,Adoption
-17772,Died
+17772,Adoption
 17773,Transfer
 17774,Adoption
 17775,Adoption
 17776,Adoption
 17777,Transfer
-17778,Transfer
+17778,Adoption
 17779,Transfer
 17780,Adoption
 17781,Adoption
 17782,Adoption
 17783,Return to Owner
-17784,Adoption
+17784,Transfer
 17785,Adoption
 17786,Adoption
 17787,Adoption
@@ -17812,7 +17812,7 @@ Id,Outcome Type
 17811,Return to Owner
 17812,Adoption
 17813,Adoption
-17814,Adoption
+17814,Return to Owner
 17815,Adoption
 17816,Transfer
 17817,Return to Owner
@@ -17826,7 +17826,7 @@ Id,Outcome Type
 17825,Adoption
 17826,Euthanasia
 17827,Died
-17828,Return to Owner
+17828,Adoption
 17829,Adoption
 17830,Adoption
 17831,Euthanasia
@@ -17835,7 +17835,7 @@ Id,Outcome Type
 17834,Adoption
 17835,Adoption
 17836,Adoption
-17837,Adoption
+17837,Transfer
 17838,Euthanasia
 17839,Adoption
 17840,Adoption
@@ -17858,7 +17858,7 @@ Id,Outcome Type
 17857,Adoption
 17858,Transfer
 17859,Transfer
-17860,Died
+17860,Transfer
 17861,Return to Owner
 17862,Return to Owner
 17863,Adoption
@@ -17874,12 +17874,12 @@ Id,Outcome Type
 17873,Adoption
 17874,Adoption
 17875,Adoption
-17876,Adoption
+17876,Transfer
 17877,Return to Owner
 17878,Adoption
 17879,Adoption
-17880,Adoption
-17881,Adoption
+17880,Transfer
+17881,Died
 17882,Return to Owner
 17883,Adoption
 17884,Adoption
@@ -17904,7 +17904,7 @@ Id,Outcome Type
 17903,Adoption
 17904,Adoption
 17905,Return to Owner
-17906,Transfer
+17906,Adoption
 17907,Adoption
 17908,Transfer
 17909,Adoption
@@ -17919,7 +17919,7 @@ Id,Outcome Type
 17918,Adoption
 17919,Adoption
 17920,Adoption
-17921,Adoption
+17921,Transfer
 17922,Adoption
 17923,Adoption
 17924,Return to Owner
@@ -17978,7 +17978,7 @@ Id,Outcome Type
 17977,Adoption
 17978,Adoption
 17979,Adoption
-17980,Adoption
+17980,Transfer
 17981,Transfer
 17982,Return to Owner
 17983,Adoption
@@ -17991,8 +17991,8 @@ Id,Outcome Type
 17990,Transfer
 17991,Transfer
 17992,Adoption
-17993,Adoption
-17994,Return to Owner
+17993,Transfer
+17994,Adoption
 17995,Transfer
 17996,Adoption
 17997,Return to Owner
@@ -18084,7 +18084,7 @@ Id,Outcome Type
 18083,Adoption
 18084,Adoption
 18085,Adoption
-18086,Died
+18086,Transfer
 18087,Return to Owner
 18088,Adoption
 18089,Adoption
@@ -18134,8 +18134,8 @@ Id,Outcome Type
 18133,Transfer
 18134,Adoption
 18135,Adoption
-18136,Adoption
-18137,Return to Owner
+18136,Transfer
+18137,Adoption
 18138,Adoption
 18139,Adoption
 18140,Adoption
@@ -18164,7 +18164,7 @@ Id,Outcome Type
 18163,Transfer
 18164,Died
 18165,Transfer
-18166,Transfer
+18166,Adoption
 18167,Adoption
 18168,Adoption
 18169,Euthanasia
@@ -18180,7 +18180,7 @@ Id,Outcome Type
 18179,Adoption
 18180,Transfer
 18181,Adoption
-18182,Return to Owner
+18182,Adoption
 18183,Adoption
 18184,Adoption
 18185,Adoption
@@ -18195,7 +18195,7 @@ Id,Outcome Type
 18194,Transfer
 18195,Adoption
 18196,Return to Owner
-18197,Euthanasia
+18197,Adoption
 18198,Adoption
 18199,Adoption
 18200,Adoption
@@ -18241,7 +18241,7 @@ Id,Outcome Type
 18240,Return to Owner
 18241,Adoption
 18242,Adoption
-18243,Adoption
+18243,Transfer
 18244,Return to Owner
 18245,Adoption
 18246,Transfer
@@ -18250,7 +18250,7 @@ Id,Outcome Type
 18249,Adoption
 18250,Adoption
 18251,Adoption
-18252,Adoption
+18252,Transfer
 18253,Adoption
 18254,Adoption
 18255,Adoption
@@ -18261,7 +18261,7 @@ Id,Outcome Type
 18260,Adoption
 18261,Adoption
 18262,Adoption
-18263,Transfer
+18263,Adoption
 18264,Adoption
 18265,Adoption
 18266,Adoption
@@ -18322,7 +18322,7 @@ Id,Outcome Type
 18321,Adoption
 18322,Adoption
 18323,Transfer
-18324,Return to Owner
+18324,Adoption
 18325,Adoption
 18326,Adoption
 18327,Return to Owner
@@ -18381,7 +18381,7 @@ Id,Outcome Type
 18380,Adoption
 18381,Return to Owner
 18382,Return to Owner
-18383,Transfer
+18383,Adoption
 18384,Adoption
 18385,Return to Owner
 18386,Adoption
@@ -18397,7 +18397,7 @@ Id,Outcome Type
 18396,Adoption
 18397,Adoption
 18398,Adoption
-18399,Return to Owner
+18399,Adoption
 18400,Adoption
 18401,Adoption
 18402,Transfer
@@ -18415,7 +18415,7 @@ Id,Outcome Type
 18414,Return to Owner
 18415,Transfer
 18416,Adoption
-18417,Adoption
+18417,Return to Owner
 18418,Transfer
 18419,Adoption
 18420,Adoption
@@ -18436,10 +18436,10 @@ Id,Outcome Type
 18435,Adoption
 18436,Adoption
 18437,Return to Owner
-18438,Adoption
+18438,Return to Owner
 18439,Return to Owner
-18440,Adoption
-18441,Adoption
+18440,Transfer
+18441,Transfer
 18442,Return to Owner
 18443,Transfer
 18444,Return to Owner
@@ -18474,7 +18474,7 @@ Id,Outcome Type
 18473,Adoption
 18474,Adoption
 18475,Adoption
-18476,Return to Owner
+18476,Adoption
 18477,Return to Owner
 18478,Adoption
 18479,Transfer
@@ -18496,7 +18496,7 @@ Id,Outcome Type
 18495,Adoption
 18496,Died
 18497,Adoption
-18498,Euthanasia
+18498,Adoption
 18499,Adoption
 18500,Transfer
 18501,Transfer
@@ -18508,7 +18508,7 @@ Id,Outcome Type
 18507,Adoption
 18508,Adoption
 18509,Adoption
-18510,Euthanasia
+18510,Adoption
 18511,Adoption
 18512,Adoption
 18513,Transfer
@@ -18518,7 +18518,7 @@ Id,Outcome Type
 18517,Adoption
 18518,Transfer
 18519,Adoption
-18520,Return to Owner
+18520,Adoption
 18521,Adoption
 18522,Adoption
 18523,Adoption
@@ -18544,13 +18544,13 @@ Id,Outcome Type
 18543,Adoption
 18544,Adoption
 18545,Adoption
-18546,Adoption
+18546,Return to Owner
 18547,Return to Owner
 18548,Adoption
 18549,Adoption
 18550,Adoption
 18551,Adoption
-18552,Adoption
+18552,Transfer
 18553,Adoption
 18554,Return to Owner
 18555,Euthanasia
@@ -18579,13 +18579,13 @@ Id,Outcome Type
 18578,Adoption
 18579,Adoption
 18580,Return to Owner
-18581,Euthanasia
+18581,Adoption
 18582,Adoption
 18583,Transfer
 18584,Adoption
 18585,Adoption
 18586,Adoption
-18587,Died
+18587,Adoption
 18588,Adoption
 18589,Adoption
 18590,Adoption
@@ -18599,7 +18599,7 @@ Id,Outcome Type
 18598,Transfer
 18599,Adoption
 18600,Adoption
-18601,Return to Owner
+18601,Adoption
 18602,Adoption
 18603,Adoption
 18604,Adoption
@@ -18611,15 +18611,15 @@ Id,Outcome Type
 18610,Adoption
 18611,Return to Owner
 18612,Transfer
-18613,Adoption
+18613,Transfer
 18614,Adoption
 18615,Adoption
 18616,Adoption
-18617,Adoption
+18617,Transfer
 18618,Return to Owner
-18619,Adoption
+18619,Return to Owner
 18620,Adoption
-18621,Adoption
+18621,Transfer
 18622,Adoption
 18623,Transfer
 18624,Adoption
@@ -18629,7 +18629,7 @@ Id,Outcome Type
 18628,Adoption
 18629,Adoption
 18630,Transfer
-18631,Return to Owner
+18631,Adoption
 18632,Return to Owner
 18633,Adoption
 18634,Adoption
@@ -18637,8 +18637,8 @@ Id,Outcome Type
 18636,Adoption
 18637,Return to Owner
 18638,Adoption
-18639,Euthanasia
-18640,Return to Owner
+18639,Adoption
+18640,Adoption
 18641,Adoption
 18642,Transfer
 18643,Adoption
@@ -18647,7 +18647,7 @@ Id,Outcome Type
 18646,Adoption
 18647,Return to Owner
 18648,Return to Owner
-18649,Euthanasia
+18649,Transfer
 18650,Adoption
 18651,Adoption
 18652,Adoption
@@ -18681,7 +18681,7 @@ Id,Outcome Type
 18680,Transfer
 18681,Adoption
 18682,Adoption
-18683,Return to Owner
+18683,Adoption
 18684,Adoption
 18685,Adoption
 18686,Transfer
@@ -18717,7 +18717,7 @@ Id,Outcome Type
 18716,Adoption
 18717,Transfer
 18718,Adoption
-18719,Return to Owner
+18719,Adoption
 18720,Transfer
 18721,Adoption
 18722,Died
@@ -18728,10 +18728,10 @@ Id,Outcome Type
 18727,Adoption
 18728,Adoption
 18729,Return to Owner
-18730,Return to Owner
+18730,Adoption
 18731,Adoption
 18732,Adoption
-18733,Adoption
+18733,Transfer
 18734,Return to Owner
 18735,Adoption
 18736,Adoption
@@ -18743,7 +18743,7 @@ Id,Outcome Type
 18742,Adoption
 18743,Adoption
 18744,Adoption
-18745,Return to Owner
+18745,Adoption
 18746,Adoption
 18747,Adoption
 18748,Adoption
@@ -18759,7 +18759,7 @@ Id,Outcome Type
 18758,Return to Owner
 18759,Adoption
 18760,Died
-18761,Died
+18761,Transfer
 18762,Adoption
 18763,Return to Owner
 18764,Adoption
@@ -18776,10 +18776,10 @@ Id,Outcome Type
 18775,Euthanasia
 18776,Return to Owner
 18777,Transfer
-18778,Adoption
+18778,Transfer
 18779,Adoption
 18780,Adoption
-18781,Died
+18781,Adoption
 18782,Transfer
 18783,Adoption
 18784,Euthanasia
@@ -18797,7 +18797,7 @@ Id,Outcome Type
 18796,Transfer
 18797,Return to Owner
 18798,Transfer
-18799,Return to Owner
+18799,Adoption
 18800,Adoption
 18801,Adoption
 18802,Adoption
@@ -18833,12 +18833,12 @@ Id,Outcome Type
 18832,Return to Owner
 18833,Adoption
 18834,Transfer
-18835,Adoption
+18835,Transfer
 18836,Return to Owner
 18837,Adoption
 18838,Adoption
-18839,Transfer
-18840,Transfer
+18839,Adoption
+18840,Adoption
 18841,Return to Owner
 18842,Adoption
 18843,Transfer
@@ -18855,7 +18855,7 @@ Id,Outcome Type
 18854,Adoption
 18855,Adoption
 18856,Adoption
-18857,Transfer
+18857,Adoption
 18858,Died
 18859,Died
 18860,Adoption
@@ -18870,7 +18870,7 @@ Id,Outcome Type
 18869,Adoption
 18870,Adoption
 18871,Transfer
-18872,Euthanasia
+18872,Adoption
 18873,Return to Owner
 18874,Return to Owner
 18875,Adoption
@@ -18891,7 +18891,7 @@ Id,Outcome Type
 18890,Return to Owner
 18891,Adoption
 18892,Transfer
-18893,Return to Owner
+18893,Adoption
 18894,Adoption
 18895,Transfer
 18896,Adoption
@@ -18905,7 +18905,7 @@ Id,Outcome Type
 18904,Adoption
 18905,Adoption
 18906,Adoption
-18907,Adoption
+18907,Transfer
 18908,Adoption
 18909,Adoption
 18910,Adoption
@@ -18914,8 +18914,8 @@ Id,Outcome Type
 18913,Transfer
 18914,Adoption
 18915,Transfer
-18916,Return to Owner
-18917,Adoption
+18916,Adoption
+18917,Transfer
 18918,Return to Owner
 18919,Euthanasia
 18920,Adoption
@@ -18927,8 +18927,8 @@ Id,Outcome Type
 18926,Transfer
 18927,Transfer
 18928,Adoption
-18929,Adoption
-18930,Adoption
+18929,Transfer
+18930,Transfer
 18931,Adoption
 18932,Adoption
 18933,Transfer
@@ -18971,7 +18971,7 @@ Id,Outcome Type
 18970,Adoption
 18971,Adoption
 18972,Adoption
-18973,Died
+18973,Transfer
 18974,Adoption
 18975,Adoption
 18976,Transfer
@@ -19028,7 +19028,7 @@ Id,Outcome Type
 19027,Adoption
 19028,Return to Owner
 19029,Adoption
-19030,Adoption
+19030,Return to Owner
 19031,Adoption
 19032,Transfer
 19033,Adoption
@@ -19049,7 +19049,7 @@ Id,Outcome Type
 19048,Adoption
 19049,Adoption
 19050,Adoption
-19051,Adoption
+19051,Return to Owner
 19052,Adoption
 19053,Return to Owner
 19054,Adoption
@@ -19067,8 +19067,8 @@ Id,Outcome Type
 19066,Adoption
 19067,Adoption
 19068,Adoption
-19069,Adoption
-19070,Adoption
+19069,Transfer
+19070,Transfer
 19071,Adoption
 19072,Adoption
 19073,Adoption
@@ -19079,7 +19079,7 @@ Id,Outcome Type
 19078,Adoption
 19079,Transfer
 19080,Adoption
-19081,Adoption
+19081,Transfer
 19082,Adoption
 19083,Transfer
 19084,Adoption
@@ -19100,7 +19100,7 @@ Id,Outcome Type
 19099,Return to Owner
 19100,Adoption
 19101,Return to Owner
-19102,Died
+19102,Transfer
 19103,Transfer
 19104,Transfer
 19105,Adoption
@@ -19110,11 +19110,11 @@ Id,Outcome Type
 19109,Adoption
 19110,Adoption
 19111,Adoption
-19112,Died
+19112,Transfer
 19113,Return to Owner
 19114,Adoption
 19115,Adoption
-19116,Euthanasia
+19116,Adoption
 19117,Adoption
 19118,Adoption
 19119,Adoption
@@ -19129,7 +19129,7 @@ Id,Outcome Type
 19128,Adoption
 19129,Adoption
 19130,Return to Owner
-19131,Died
+19131,Transfer
 19132,Adoption
 19133,Transfer
 19134,Adoption
@@ -19161,9 +19161,9 @@ Id,Outcome Type
 19160,Adoption
 19161,Transfer
 19162,Adoption
-19163,Adoption
+19163,Return to Owner
 19164,Transfer
-19165,Euthanasia
+19165,Adoption
 19166,Return to Owner
 19167,Euthanasia
 19168,Return to Owner
@@ -19186,7 +19186,7 @@ Id,Outcome Type
 19185,Adoption
 19186,Adoption
 19187,Adoption
-19188,Adoption
+19188,Transfer
 19189,Adoption
 19190,Transfer
 19191,Transfer
@@ -19198,7 +19198,7 @@ Id,Outcome Type
 19197,Transfer
 19198,Adoption
 19199,Adoption
-19200,Adoption
+19200,Return to Owner
 19201,Return to Owner
 19202,Return to Owner
 19203,Adoption
@@ -19206,7 +19206,7 @@ Id,Outcome Type
 19205,Adoption
 19206,Transfer
 19207,Adoption
-19208,Adoption
+19208,Return to Owner
 19209,Adoption
 19210,Adoption
 19211,Adoption
@@ -19245,7 +19245,7 @@ Id,Outcome Type
 19244,Adoption
 19245,Return to Owner
 19246,Return to Owner
-19247,Adoption
+19247,Transfer
 19248,Return to Owner
 19249,Adoption
 19250,Adoption
@@ -19257,7 +19257,7 @@ Id,Outcome Type
 19256,Adoption
 19257,Transfer
 19258,Adoption
-19259,Return to Owner
+19259,Adoption
 19260,Adoption
 19261,Adoption
 19262,Adoption
@@ -19310,22 +19310,22 @@ Id,Outcome Type
 19309,Adoption
 19310,Return to Owner
 19311,Adoption
-19312,Euthanasia
+19312,Return to Owner
 19313,Adoption
 19314,Euthanasia
 19315,Euthanasia
 19316,Adoption
 19317,Return to Owner
 19318,Adoption
-19319,Return to Owner
+19319,Adoption
 19320,Died
 19321,Return to Owner
 19322,Adoption
 19323,Adoption
-19324,Return to Owner
+19324,Adoption
 19325,Transfer
 19326,Adoption
-19327,Transfer
+19327,Adoption
 19328,Adoption
 19329,Euthanasia
 19330,Transfer
@@ -19338,7 +19338,7 @@ Id,Outcome Type
 19337,Adoption
 19338,Adoption
 19339,Return to Owner
-19340,Died
+19340,Transfer
 19341,Adoption
 19342,Adoption
 19343,Adoption
@@ -19368,7 +19368,7 @@ Id,Outcome Type
 19367,Died
 19368,Return to Owner
 19369,Transfer
-19370,Return to Owner
+19370,Adoption
 19371,Adoption
 19372,Adoption
 19373,Return to Owner
@@ -19378,8 +19378,8 @@ Id,Outcome Type
 19377,Transfer
 19378,Adoption
 19379,Transfer
-19380,Return to Owner
-19381,Euthanasia
+19380,Adoption
+19381,Adoption
 19382,Adoption
 19383,Adoption
 19384,Transfer
@@ -19390,7 +19390,7 @@ Id,Outcome Type
 19389,Transfer
 19390,Died
 19391,Adoption
-19392,Adoption
+19392,Transfer
 19393,Adoption
 19394,Transfer
 19395,Adoption
@@ -19414,7 +19414,7 @@ Id,Outcome Type
 19413,Adoption
 19414,Transfer
 19415,Adoption
-19416,Return to Owner
+19416,Adoption
 19417,Transfer
 19418,Adoption
 19419,Adoption
@@ -19440,7 +19440,7 @@ Id,Outcome Type
 19439,Adoption
 19440,Adoption
 19441,Adoption
-19442,Died
+19442,Transfer
 19443,Return to Owner
 19444,Adoption
 19445,Transfer
@@ -19450,7 +19450,7 @@ Id,Outcome Type
 19449,Adoption
 19450,Adoption
 19451,Adoption
-19452,Return to Owner
+19452,Adoption
 19453,Adoption
 19454,Adoption
 19455,Adoption
@@ -19487,7 +19487,7 @@ Id,Outcome Type
 19486,Return to Owner
 19487,Adoption
 19488,Adoption
-19489,Return to Owner
+19489,Adoption
 19490,Adoption
 19491,Adoption
 19492,Adoption
@@ -19495,7 +19495,7 @@ Id,Outcome Type
 19494,Adoption
 19495,Adoption
 19496,Transfer
-19497,Return to Owner
+19497,Adoption
 19498,Adoption
 19499,Return to Owner
 19500,Transfer
@@ -19508,7 +19508,7 @@ Id,Outcome Type
 19507,Adoption
 19508,Adoption
 19509,Return to Owner
-19510,Adoption
+19510,Transfer
 19511,Adoption
 19512,Adoption
 19513,Transfer
@@ -19517,7 +19517,7 @@ Id,Outcome Type
 19516,Adoption
 19517,Adoption
 19518,Adoption
-19519,Adoption
+19519,Transfer
 19520,Return to Owner
 19521,Transfer
 19522,Transfer
@@ -19529,13 +19529,13 @@ Id,Outcome Type
 19528,Return to Owner
 19529,Adoption
 19530,Return to Owner
-19531,Adoption
+19531,Transfer
 19532,Adoption
 19533,Adoption
 19534,Return to Owner
 19535,Adoption
 19536,Adoption
-19537,Transfer
+19537,Adoption
 19538,Return to Owner
 19539,Adoption
 19540,Adoption
@@ -19573,7 +19573,7 @@ Id,Outcome Type
 19572,Adoption
 19573,Transfer
 19574,Transfer
-19575,Adoption
+19575,Return to Owner
 19576,Adoption
 19577,Return to Owner
 19578,Adoption
@@ -19594,7 +19594,7 @@ Id,Outcome Type
 19593,Euthanasia
 19594,Adoption
 19595,Adoption
-19596,Died
+19596,Transfer
 19597,Transfer
 19598,Adoption
 19599,Adoption
@@ -19625,9 +19625,9 @@ Id,Outcome Type
 19624,Adoption
 19625,Transfer
 19626,Transfer
-19627,Adoption
+19627,Return to Owner
 19628,Return to Owner
-19629,Died
+19629,Transfer
 19630,Adoption
 19631,Adoption
 19632,Adoption
@@ -19685,14 +19685,14 @@ Id,Outcome Type
 19684,Adoption
 19685,Adoption
 19686,Adoption
-19687,Adoption
+19687,Transfer
 19688,Adoption
 19689,Adoption
 19690,Adoption
 19691,Adoption
 19692,Return to Owner
 19693,Euthanasia
-19694,Return to Owner
+19694,Transfer
 19695,Transfer
 19696,Adoption
 19697,Adoption
@@ -19721,14 +19721,14 @@ Id,Outcome Type
 19720,Adoption
 19721,Transfer
 19722,Adoption
-19723,Adoption
+19723,Transfer
 19724,Adoption
 19725,Return to Owner
 19726,Adoption
 19727,Return to Owner
 19728,Transfer
 19729,Adoption
-19730,Died
+19730,Transfer
 19731,Adoption
 19732,Adoption
 19733,Transfer
@@ -19746,7 +19746,7 @@ Id,Outcome Type
 19745,Adoption
 19746,Adoption
 19747,Return to Owner
-19748,Return to Owner
+19748,Adoption
 19749,Adoption
 19750,Return to Owner
 19751,Transfer
@@ -19758,7 +19758,7 @@ Id,Outcome Type
 19757,Adoption
 19758,Return to Owner
 19759,Transfer
-19760,Return to Owner
+19760,Adoption
 19761,Adoption
 19762,Adoption
 19763,Adoption
@@ -19807,7 +19807,7 @@ Id,Outcome Type
 19806,Adoption
 19807,Transfer
 19808,Adoption
-19809,Adoption
+19809,Transfer
 19810,Adoption
 19811,Adoption
 19812,Adoption
@@ -19907,22 +19907,22 @@ Id,Outcome Type
 19906,Adoption
 19907,Adoption
 19908,Euthanasia
-19909,Return to Owner
+19909,Adoption
 19910,Adoption
 19911,Return to Owner
 19912,Adoption
 19913,Adoption
-19914,Adoption
+19914,Transfer
 19915,Adoption
 19916,Return to Owner
 19917,Adoption
-19918,Adoption
+19918,Transfer
 19919,Died
 19920,Adoption
 19921,Adoption
 19922,Return to Owner
 19923,Transfer
-19924,Return to Owner
+19924,Adoption
 19925,Adoption
 19926,Adoption
 19927,Adoption
@@ -19932,7 +19932,7 @@ Id,Outcome Type
 19931,Died
 19932,Return to Owner
 19933,Died
-19934,Adoption
+19934,Transfer
 19935,Adoption
 19936,Adoption
 19937,Transfer
@@ -19943,7 +19943,7 @@ Id,Outcome Type
 19942,Transfer
 19943,Adoption
 19944,Adoption
-19945,Euthanasia
+19945,Adoption
 19946,Adoption
 19947,Adoption
 19948,Adoption
@@ -19961,7 +19961,7 @@ Id,Outcome Type
 19960,Adoption
 19961,Return to Owner
 19962,Return to Owner
-19963,Adoption
+19963,Return to Owner
 19964,Euthanasia
 19965,Euthanasia
 19966,Euthanasia
@@ -19976,13 +19976,13 @@ Id,Outcome Type
 19975,Adoption
 19976,Adoption
 19977,Adoption
-19978,Transfer
+19978,Adoption
 19979,Transfer
 19980,Transfer
 19981,Return to Owner
 19982,Transfer
-19983,Transfer
-19984,Transfer
+19983,Adoption
+19984,Adoption
 19985,Transfer
 19986,Adoption
 19987,Adoption
@@ -20028,7 +20028,7 @@ Id,Outcome Type
 20027,Transfer
 20028,Adoption
 20029,Transfer
-20030,Euthanasia
+20030,Adoption
 20031,Adoption
 20032,Adoption
 20033,Transfer
@@ -20063,7 +20063,7 @@ Id,Outcome Type
 20062,Adoption
 20063,Adoption
 20064,Return to Owner
-20065,Return to Owner
+20065,Adoption
 20066,Transfer
 20067,Adoption
 20068,Adoption
@@ -20082,12 +20082,12 @@ Id,Outcome Type
 20081,Adoption
 20082,Adoption
 20083,Adoption
-20084,Transfer
+20084,Adoption
 20085,Died
 20086,Adoption
 20087,Adoption
 20088,Adoption
-20089,Transfer
+20089,Adoption
 20090,Adoption
 20091,Adoption
 20092,Adoption
@@ -20100,13 +20100,13 @@ Id,Outcome Type
 20099,Adoption
 20100,Transfer
 20101,Adoption
-20102,Adoption
+20102,Return to Owner
 20103,Return to Owner
 20104,Adoption
 20105,Transfer
 20106,Adoption
 20107,Adoption
-20108,Return to Owner
+20108,Adoption
 20109,Adoption
 20110,Return to Owner
 20111,Adoption
@@ -20160,7 +20160,7 @@ Id,Outcome Type
 20159,Transfer
 20160,Adoption
 20161,Adoption
-20162,Adoption
+20162,Return to Owner
 20163,Euthanasia
 20164,Died
 20165,Return to Owner
@@ -20181,7 +20181,7 @@ Id,Outcome Type
 20180,Adoption
 20181,Adoption
 20182,Adoption
-20183,Transfer
+20183,Return to Owner
 20184,Adoption
 20185,Adoption
 20186,Adoption
@@ -20199,14 +20199,14 @@ Id,Outcome Type
 20198,Adoption
 20199,Adoption
 20200,Adoption
-20201,Transfer
+20201,Adoption
 20202,Transfer
 20203,Adoption
-20204,Return to Owner
+20204,Adoption
 20205,Adoption
 20206,Return to Owner
 20207,Adoption
-20208,Return to Owner
+20208,Adoption
 20209,Adoption
 20210,Return to Owner
 20211,Return to Owner
@@ -20232,18 +20232,18 @@ Id,Outcome Type
 20231,Transfer
 20232,Transfer
 20233,Transfer
-20234,Return to Owner
+20234,Adoption
 20235,Return to Owner
 20236,Adoption
 20237,Return to Owner
-20238,Return to Owner
+20238,Adoption
 20239,Euthanasia
 20240,Adoption
-20241,Transfer
+20241,Adoption
 20242,Adoption
 20243,Adoption
-20244,Euthanasia
-20245,Return to Owner
+20244,Adoption
+20245,Adoption
 20246,Adoption
 20247,Transfer
 20248,Adoption
@@ -20276,7 +20276,7 @@ Id,Outcome Type
 20275,Euthanasia
 20276,Transfer
 20277,Adoption
-20278,Adoption
+20278,Transfer
 20279,Adoption
 20280,Adoption
 20281,Return to Owner
@@ -20293,12 +20293,12 @@ Id,Outcome Type
 20292,Adoption
 20293,Adoption
 20294,Return to Owner
-20295,Return to Owner
+20295,Adoption
 20296,Transfer
 20297,Return to Owner
 20298,Adoption
 20299,Adoption
-20300,Adoption
+20300,Transfer
 20301,Adoption
 20302,Adoption
 20303,Transfer
@@ -20333,7 +20333,7 @@ Id,Outcome Type
 20332,Adoption
 20333,Transfer
 20334,Return to Owner
-20335,Adoption
+20335,Transfer
 20336,Transfer
 20337,Return to Owner
 20338,Adoption
@@ -20359,7 +20359,7 @@ Id,Outcome Type
 20358,Adoption
 20359,Transfer
 20360,Adoption
-20361,Transfer
+20361,Adoption
 20362,Adoption
 20363,Transfer
 20364,Adoption
@@ -20376,7 +20376,7 @@ Id,Outcome Type
 20375,Transfer
 20376,Adoption
 20377,Adoption
-20378,Adoption
+20378,Transfer
 20379,Adoption
 20380,Adoption
 20381,Adoption
@@ -20391,9 +20391,9 @@ Id,Outcome Type
 20390,Transfer
 20391,Adoption
 20392,Adoption
-20393,Return to Owner
+20393,Adoption
 20394,Return to Owner
-20395,Died
+20395,Transfer
 20396,Euthanasia
 20397,Adoption
 20398,Euthanasia
@@ -20412,7 +20412,7 @@ Id,Outcome Type
 20411,Adoption
 20412,Return to Owner
 20413,Adoption
-20414,Transfer
+20414,Adoption
 20415,Adoption
 20416,Adoption
 20417,Adoption
@@ -20500,14 +20500,14 @@ Id,Outcome Type
 20499,Adoption
 20500,Adoption
 20501,Adoption
-20502,Adoption
+20502,Transfer
 20503,Adoption
 20504,Adoption
 20505,Adoption
-20506,Return to Owner
+20506,Adoption
 20507,Transfer
 20508,Adoption
-20509,Transfer
+20509,Return to Owner
 20510,Transfer
 20511,Adoption
 20512,Adoption
@@ -20533,12 +20533,12 @@ Id,Outcome Type
 20532,Adoption
 20533,Adoption
 20534,Adoption
-20535,Adoption
+20535,Return to Owner
 20536,Adoption
 20537,Adoption
 20538,Return to Owner
 20539,Adoption
-20540,Euthanasia
+20540,Adoption
 20541,Return to Owner
 20542,Transfer
 20543,Adoption
@@ -20575,7 +20575,7 @@ Id,Outcome Type
 20574,Adoption
 20575,Adoption
 20576,Adoption
-20577,Transfer
+20577,Adoption
 20578,Adoption
 20579,Transfer
 20580,Return to Owner
@@ -20599,7 +20599,7 @@ Id,Outcome Type
 20598,Adoption
 20599,Return to Owner
 20600,Return to Owner
-20601,Adoption
+20601,Transfer
 20602,Adoption
 20603,Adoption
 20604,Adoption
@@ -20618,7 +20618,7 @@ Id,Outcome Type
 20617,Adoption
 20618,Adoption
 20619,Adoption
-20620,Died
+20620,Adoption
 20621,Adoption
 20622,Return to Owner
 20623,Adoption
@@ -20650,17 +20650,17 @@ Id,Outcome Type
 20649,Return to Owner
 20650,Return to Owner
 20651,Return to Owner
-20652,Adoption
+20652,Transfer
 20653,Adoption
 20654,Adoption
 20655,Transfer
 20656,Adoption
-20657,Adoption
+20657,Transfer
 20658,Return to Owner
 20659,Transfer
 20660,Adoption
 20661,Transfer
-20662,Return to Owner
+20662,Adoption
 20663,Adoption
 20664,Adoption
 20665,Adoption
@@ -20706,7 +20706,7 @@ Id,Outcome Type
 20705,Adoption
 20706,Adoption
 20707,Euthanasia
-20708,Return to Owner
+20708,Adoption
 20709,Adoption
 20710,Return to Owner
 20711,Adoption
@@ -20733,7 +20733,7 @@ Id,Outcome Type
 20732,Adoption
 20733,Adoption
 20734,Adoption
-20735,Adoption
+20735,Transfer
 20736,Adoption
 20737,Adoption
 20738,Died
@@ -20741,7 +20741,7 @@ Id,Outcome Type
 20740,Transfer
 20741,Adoption
 20742,Adoption
-20743,Adoption
+20743,Transfer
 20744,Adoption
 20745,Adoption
 20746,Adoption
@@ -20749,7 +20749,7 @@ Id,Outcome Type
 20748,Return to Owner
 20749,Adoption
 20750,Adoption
-20751,Died
+20751,Transfer
 20752,Adoption
 20753,Return to Owner
 20754,Adoption
@@ -20762,7 +20762,7 @@ Id,Outcome Type
 20761,Adoption
 20762,Adoption
 20763,Return to Owner
-20764,Transfer
+20764,Euthanasia
 20765,Adoption
 20766,Transfer
 20767,Adoption
@@ -20856,7 +20856,7 @@ Id,Outcome Type
 20855,Adoption
 20856,Transfer
 20857,Adoption
-20858,Transfer
+20858,Adoption
 20859,Adoption
 20860,Adoption
 20861,Adoption
@@ -20912,7 +20912,7 @@ Id,Outcome Type
 20911,Adoption
 20912,Return to Owner
 20913,Transfer
-20914,Adoption
+20914,Transfer
 20915,Adoption
 20916,Euthanasia
 20917,Adoption
@@ -20920,8 +20920,8 @@ Id,Outcome Type
 20919,Adoption
 20920,Died
 20921,Adoption
-20922,Transfer
-20923,Transfer
+20922,Adoption
+20923,Adoption
 20924,Return to Owner
 20925,Adoption
 20926,Adoption
@@ -20960,7 +20960,7 @@ Id,Outcome Type
 20959,Transfer
 20960,Adoption
 20961,Adoption
-20962,Adoption
+20962,Transfer
 20963,Adoption
 20964,Adoption
 20965,Adoption
@@ -20992,13 +20992,13 @@ Id,Outcome Type
 20991,Return to Owner
 20992,Adoption
 20993,Died
-20994,Adoption
+20994,Euthanasia
 20995,Adoption
 20996,Transfer
 20997,Transfer
 20998,Adoption
 20999,Adoption
-21000,Died
+21000,Adoption
 21001,Adoption
 21002,Adoption
 21003,Transfer
@@ -21010,7 +21010,7 @@ Id,Outcome Type
 21009,Return to Owner
 21010,Transfer
 21011,Adoption
-21012,Transfer
+21012,Adoption
 21013,Adoption
 21014,Adoption
 21015,Transfer
@@ -21019,7 +21019,7 @@ Id,Outcome Type
 21018,Transfer
 21019,Return to Owner
 21020,Adoption
-21021,Died
+21021,Adoption
 21022,Adoption
 21023,Adoption
 21024,Transfer
@@ -21027,7 +21027,7 @@ Id,Outcome Type
 21026,Return to Owner
 21027,Adoption
 21028,Adoption
-21029,Transfer
+21029,Adoption
 21030,Adoption
 21031,Adoption
 21032,Return to Owner
@@ -21041,18 +21041,18 @@ Id,Outcome Type
 21040,Adoption
 21041,Adoption
 21042,Euthanasia
-21043,Transfer
+21043,Adoption
 21044,Return to Owner
 21045,Transfer
 21046,Adoption
 21047,Adoption
 21048,Transfer
 21049,Euthanasia
-21050,Adoption
+21050,Euthanasia
 21051,Adoption
 21052,Return to Owner
 21053,Transfer
-21054,Adoption
+21054,Transfer
 21055,Adoption
 21056,Adoption
 21057,Return to Owner
@@ -21114,7 +21114,7 @@ Id,Outcome Type
 21113,Adoption
 21114,Adoption
 21115,Adoption
-21116,Adoption
+21116,Return to Owner
 21117,Adoption
 21118,Adoption
 21119,Adoption
@@ -21124,7 +21124,7 @@ Id,Outcome Type
 21123,Adoption
 21124,Return to Owner
 21125,Transfer
-21126,Transfer
+21126,Adoption
 21127,Return to Owner
 21128,Adoption
 21129,Adoption
@@ -21154,11 +21154,11 @@ Id,Outcome Type
 21153,Adoption
 21154,Adoption
 21155,Adoption
-21156,Return to Owner
+21156,Adoption
 21157,Adoption
 21158,Adoption
 21159,Adoption
-21160,Adoption
+21160,Transfer
 21161,Adoption
 21162,Return to Owner
 21163,Adoption
@@ -21171,7 +21171,7 @@ Id,Outcome Type
 21170,Transfer
 21171,Adoption
 21172,Adoption
-21173,Adoption
+21173,Transfer
 21174,Adoption
 21175,Transfer
 21176,Adoption
@@ -21203,7 +21203,7 @@ Id,Outcome Type
 21202,Adoption
 21203,Adoption
 21204,Adoption
-21205,Return to Owner
+21205,Adoption
 21206,Euthanasia
 21207,Adoption
 21208,Adoption
@@ -21281,7 +21281,7 @@ Id,Outcome Type
 21280,Adoption
 21281,Adoption
 21282,Adoption
-21283,Return to Owner
+21283,Adoption
 21284,Transfer
 21285,Adoption
 21286,Return to Owner
@@ -21332,8 +21332,8 @@ Id,Outcome Type
 21331,Transfer
 21332,Adoption
 21333,Return to Owner
-21334,Return to Owner
-21335,Return to Owner
+21334,Adoption
+21335,Adoption
 21336,Transfer
 21337,Adoption
 21338,Adoption
@@ -21341,7 +21341,7 @@ Id,Outcome Type
 21340,Adoption
 21341,Adoption
 21342,Adoption
-21343,Return to Owner
+21343,Adoption
 21344,Adoption
 21345,Adoption
 21346,Return to Owner
@@ -21368,7 +21368,7 @@ Id,Outcome Type
 21367,Transfer
 21368,Adoption
 21369,Return to Owner
-21370,Euthanasia
+21370,Adoption
 21371,Adoption
 21372,Return to Owner
 21373,Adoption
@@ -21424,7 +21424,7 @@ Id,Outcome Type
 21423,Return to Owner
 21424,Transfer
 21425,Died
-21426,Return to Owner
+21426,Adoption
 21427,Adoption
 21428,Adoption
 21429,Adoption
@@ -21435,7 +21435,7 @@ Id,Outcome Type
 21434,Return to Owner
 21435,Euthanasia
 21436,Adoption
-21437,Adoption
+21437,Return to Owner
 21438,Euthanasia
 21439,Adoption
 21440,Died
@@ -21490,7 +21490,7 @@ Id,Outcome Type
 21489,Adoption
 21490,Euthanasia
 21491,Adoption
-21492,Died
+21492,Adoption
 21493,Return to Owner
 21494,Adoption
 21495,Adoption
@@ -21506,7 +21506,7 @@ Id,Outcome Type
 21505,Adoption
 21506,Transfer
 21507,Adoption
-21508,Transfer
+21508,Adoption
 21509,Adoption
 21510,Adoption
 21511,Return to Owner
@@ -21544,7 +21544,7 @@ Id,Outcome Type
 21543,Return to Owner
 21544,Euthanasia
 21545,Adoption
-21546,Adoption
+21546,Return to Owner
 21547,Adoption
 21548,Adoption
 21549,Adoption
@@ -21562,8 +21562,8 @@ Id,Outcome Type
 21561,Return to Owner
 21562,Adoption
 21563,Transfer
-21564,Transfer
-21565,Transfer
+21564,Adoption
+21565,Adoption
 21566,Adoption
 21567,Adoption
 21568,Adoption
@@ -21572,13 +21572,13 @@ Id,Outcome Type
 21571,Adoption
 21572,Return to Owner
 21573,Return to Owner
-21574,Adoption
+21574,Transfer
 21575,Adoption
 21576,Transfer
 21577,Transfer
 21578,Adoption
 21579,Euthanasia
-21580,Adoption
+21580,Transfer
 21581,Adoption
 21582,Adoption
 21583,Adoption
@@ -21623,7 +21623,7 @@ Id,Outcome Type
 21622,Transfer
 21623,Euthanasia
 21624,Adoption
-21625,Euthanasia
+21625,Adoption
 21626,Adoption
 21627,Transfer
 21628,Return to Owner
@@ -21668,7 +21668,7 @@ Id,Outcome Type
 21667,Adoption
 21668,Adoption
 21669,Adoption
-21670,Euthanasia
+21670,Adoption
 21671,Transfer
 21672,Adoption
 21673,Adoption
@@ -21710,7 +21710,7 @@ Id,Outcome Type
 21709,Adoption
 21710,Adoption
 21711,Adoption
-21712,Return to Owner
+21712,Adoption
 21713,Return to Owner
 21714,Adoption
 21715,Return to Owner
@@ -21732,7 +21732,7 @@ Id,Outcome Type
 21731,Adoption
 21732,Adoption
 21733,Adoption
-21734,Adoption
+21734,Return to Owner
 21735,Adoption
 21736,Transfer
 21737,Adoption
@@ -21772,7 +21772,7 @@ Id,Outcome Type
 21771,Adoption
 21772,Adoption
 21773,Adoption
-21774,Adoption
+21774,Transfer
 21775,Adoption
 21776,Return to Owner
 21777,Adoption
@@ -21806,7 +21806,7 @@ Id,Outcome Type
 21805,Adoption
 21806,Euthanasia
 21807,Transfer
-21808,Adoption
+21808,Transfer
 21809,Transfer
 21810,Return to Owner
 21811,Adoption
@@ -21912,7 +21912,7 @@ Id,Outcome Type
 21911,Adoption
 21912,Return to Owner
 21913,Adoption
-21914,Died
+21914,Transfer
 21915,Adoption
 21916,Transfer
 21917,Adoption
@@ -21942,7 +21942,7 @@ Id,Outcome Type
 21941,Adoption
 21942,Adoption
 21943,Adoption
-21944,Euthanasia
+21944,Transfer
 21945,Adoption
 21946,Adoption
 21947,Adoption
@@ -21963,12 +21963,12 @@ Id,Outcome Type
 21962,Adoption
 21963,Adoption
 21964,Died
-21965,Euthanasia
+21965,Adoption
 21966,Adoption
 21967,Adoption
 21968,Adoption
 21969,Adoption
-21970,Adoption
+21970,Transfer
 21971,Adoption
 21972,Adoption
 21973,Adoption
@@ -22008,7 +22008,7 @@ Id,Outcome Type
 22007,Transfer
 22008,Adoption
 22009,Adoption
-22010,Adoption
+22010,Return to Owner
 22011,Adoption
 22012,Adoption
 22013,Adoption
@@ -22052,7 +22052,7 @@ Id,Outcome Type
 22051,Return to Owner
 22052,Adoption
 22053,Adoption
-22054,Adoption
+22054,Transfer
 22055,Transfer
 22056,Transfer
 22057,Adoption
@@ -22166,12 +22166,12 @@ Id,Outcome Type
 22165,Adoption
 22166,Return to Owner
 22167,Adoption
-22168,Adoption
-22169,Adoption
+22168,Transfer
+22169,Euthanasia
 22170,Transfer
 22171,Adoption
 22172,Adoption
-22173,Return to Owner
+22173,Adoption
 22174,Adoption
 22175,Adoption
 22176,Adoption
@@ -22193,7 +22193,7 @@ Id,Outcome Type
 22192,Adoption
 22193,Adoption
 22194,Adoption
-22195,Adoption
+22195,Return to Owner
 22196,Adoption
 22197,Adoption
 22198,Adoption
@@ -22231,7 +22231,7 @@ Id,Outcome Type
 22230,Adoption
 22231,Adoption
 22232,Return to Owner
-22233,Transfer
+22233,Adoption
 22234,Adoption
 22235,Return to Owner
 22236,Adoption
@@ -22257,7 +22257,7 @@ Id,Outcome Type
 22256,Adoption
 22257,Adoption
 22258,Transfer
-22259,Return to Owner
+22259,Adoption
 22260,Return to Owner
 22261,Adoption
 22262,Adoption
@@ -22293,12 +22293,12 @@ Id,Outcome Type
 22292,Adoption
 22293,Adoption
 22294,Adoption
-22295,Adoption
+22295,Transfer
 22296,Adoption
 22297,Adoption
 22298,Adoption
 22299,Euthanasia
-22300,Transfer
+22300,Died
 22301,Return to Owner
 22302,Adoption
 22303,Return to Owner
@@ -22306,7 +22306,7 @@ Id,Outcome Type
 22305,Transfer
 22306,Adoption
 22307,Return to Owner
-22308,Transfer
+22308,Died
 22309,Adoption
 22310,Adoption
 22311,Adoption
@@ -22406,10 +22406,10 @@ Id,Outcome Type
 22405,Return to Owner
 22406,Transfer
 22407,Adoption
-22408,Return to Owner
+22408,Adoption
 22409,Adoption
 22410,Adoption
-22411,Adoption
+22411,Return to Owner
 22412,Transfer
 22413,Adoption
 22414,Adoption
@@ -22450,7 +22450,7 @@ Id,Outcome Type
 22449,Adoption
 22450,Adoption
 22451,Adoption
-22452,Transfer
+22452,Adoption
 22453,Transfer
 22454,Adoption
 22455,Return to Owner
@@ -22460,7 +22460,7 @@ Id,Outcome Type
 22459,Adoption
 22460,Adoption
 22461,Adoption
-22462,Adoption
+22462,Transfer
 22463,Adoption
 22464,Adoption
 22465,Adoption
@@ -22476,7 +22476,7 @@ Id,Outcome Type
 22475,Adoption
 22476,Adoption
 22477,Transfer
-22478,Transfer
+22478,Adoption
 22479,Euthanasia
 22480,Adoption
 22481,Adoption
@@ -22517,7 +22517,7 @@ Id,Outcome Type
 22516,Adoption
 22517,Adoption
 22518,Adoption
-22519,Return to Owner
+22519,Adoption
 22520,Return to Owner
 22521,Adoption
 22522,Adoption
@@ -22571,12 +22571,12 @@ Id,Outcome Type
 22570,Adoption
 22571,Adoption
 22572,Euthanasia
-22573,Return to Owner
+22573,Adoption
 22574,Adoption
 22575,Adoption
-22576,Return to Owner
+22576,Adoption
 22577,Adoption
-22578,Transfer
+22578,Adoption
 22579,Adoption
 22580,Adoption
 22581,Return to Owner
@@ -22653,14 +22653,14 @@ Id,Outcome Type
 22652,Adoption
 22653,Euthanasia
 22654,Adoption
-22655,Adoption
-22656,Adoption
+22655,Transfer
+22656,Transfer
 22657,Return to Owner
 22658,Return to Owner
 22659,Euthanasia
 22660,Adoption
 22661,Adoption
-22662,Return to Owner
+22662,Adoption
 22663,Adoption
 22664,Transfer
 22665,Adoption
@@ -22672,7 +22672,7 @@ Id,Outcome Type
 22671,Died
 22672,Adoption
 22673,Return to Owner
-22674,Died
+22674,Transfer
 22675,Adoption
 22676,Adoption
 22677,Transfer
@@ -22706,7 +22706,7 @@ Id,Outcome Type
 22705,Return to Owner
 22706,Died
 22707,Transfer
-22708,Return to Owner
+22708,Adoption
 22709,Transfer
 22710,Return to Owner
 22711,Adoption
@@ -22727,7 +22727,7 @@ Id,Outcome Type
 22726,Transfer
 22727,Adoption
 22728,Died
-22729,Adoption
+22729,Transfer
 22730,Transfer
 22731,Adoption
 22732,Adoption
@@ -22749,7 +22749,7 @@ Id,Outcome Type
 22748,Adoption
 22749,Adoption
 22750,Return to Owner
-22751,Adoption
+22751,Transfer
 22752,Adoption
 22753,Adoption
 22754,Adoption
@@ -22786,7 +22786,7 @@ Id,Outcome Type
 22785,Adoption
 22786,Transfer
 22787,Died
-22788,Adoption
+22788,Return to Owner
 22789,Adoption
 22790,Adoption
 22791,Adoption
@@ -22807,12 +22807,12 @@ Id,Outcome Type
 22806,Transfer
 22807,Transfer
 22808,Adoption
-22809,Transfer
+22809,Adoption
 22810,Return to Owner
 22811,Adoption
 22812,Adoption
 22813,Adoption
-22814,Adoption
+22814,Transfer
 22815,Died
 22816,Return to Owner
 22817,Return to Owner
@@ -22881,7 +22881,7 @@ Id,Outcome Type
 22880,Died
 22881,Adoption
 22882,Transfer
-22883,Transfer
+22883,Adoption
 22884,Transfer
 22885,Adoption
 22886,Adoption
@@ -22889,7 +22889,7 @@ Id,Outcome Type
 22888,Euthanasia
 22889,Adoption
 22890,Return to Owner
-22891,Adoption
+22891,Return to Owner
 22892,Transfer
 22893,Adoption
 22894,Adoption
@@ -22912,7 +22912,7 @@ Id,Outcome Type
 22911,Return to Owner
 22912,Transfer
 22913,Adoption
-22914,Adoption
+22914,Transfer
 22915,Return to Owner
 22916,Return to Owner
 22917,Adoption
@@ -22948,7 +22948,7 @@ Id,Outcome Type
 22947,Adoption
 22948,Return to Owner
 22949,Adoption
-22950,Transfer
+22950,Adoption
 22951,Adoption
 22952,Adoption
 22953,Return to Owner
@@ -22957,21 +22957,21 @@ Id,Outcome Type
 22956,Adoption
 22957,Adoption
 22958,Euthanasia
-22959,Transfer
+22959,Adoption
 22960,Return to Owner
 22961,Adoption
 22962,Adoption
 22963,Return to Owner
 22964,Died
 22965,Return to Owner
-22966,Transfer
+22966,Adoption
 22967,Return to Owner
 22968,Adoption
 22969,Adoption
 22970,Adoption
 22971,Adoption
 22972,Return to Owner
-22973,Transfer
+22973,Adoption
 22974,Return to Owner
 22975,Adoption
 22976,Adoption
@@ -23004,7 +23004,7 @@ Id,Outcome Type
 23003,Return to Owner
 23004,Transfer
 23005,Adoption
-23006,Adoption
+23006,Transfer
 23007,Adoption
 23008,Adoption
 23009,Adoption
@@ -23022,7 +23022,7 @@ Id,Outcome Type
 23021,Adoption
 23022,Adoption
 23023,Adoption
-23024,Return to Owner
+23024,Adoption
 23025,Adoption
 23026,Adoption
 23027,Return to Owner
@@ -23107,8 +23107,8 @@ Id,Outcome Type
 23106,Euthanasia
 23107,Adoption
 23108,Adoption
-23109,Adoption
-23110,Return to Owner
+23109,Transfer
+23110,Adoption
 23111,Adoption
 23112,Adoption
 23113,Adoption
@@ -23203,14 +23203,14 @@ Id,Outcome Type
 23202,Adoption
 23203,Adoption
 23204,Return to Owner
-23205,Adoption
+23205,Transfer
 23206,Return to Owner
 23207,Adoption
 23208,Adoption
 23209,Return to Owner
 23210,Transfer
 23211,Transfer
-23212,Adoption
+23212,Transfer
 23213,Adoption
 23214,Transfer
 23215,Euthanasia
@@ -23224,7 +23224,7 @@ Id,Outcome Type
 23223,Adoption
 23224,Euthanasia
 23225,Adoption
-23226,Transfer
+23226,Adoption
 23227,Euthanasia
 23228,Return to Owner
 23229,Adoption
@@ -23236,7 +23236,7 @@ Id,Outcome Type
 23235,Transfer
 23236,Adoption
 23237,Return to Owner
-23238,Return to Owner
+23238,Adoption
 23239,Return to Owner
 23240,Adoption
 23241,Return to Owner
@@ -23263,7 +23263,7 @@ Id,Outcome Type
 23262,Died
 23263,Transfer
 23264,Adoption
-23265,Return to Owner
+23265,Adoption
 23266,Transfer
 23267,Adoption
 23268,Adoption
@@ -23281,7 +23281,7 @@ Id,Outcome Type
 23280,Adoption
 23281,Euthanasia
 23282,Adoption
-23283,Return to Owner
+23283,Adoption
 23284,Died
 23285,Died
 23286,Adoption
@@ -23307,7 +23307,7 @@ Id,Outcome Type
 23306,Transfer
 23307,Adoption
 23308,Adoption
-23309,Adoption
+23309,Transfer
 23310,Adoption
 23311,Adoption
 23312,Adoption
@@ -23327,7 +23327,7 @@ Id,Outcome Type
 23326,Return to Owner
 23327,Transfer
 23328,Adoption
-23329,Transfer
+23329,Adoption
 23330,Died
 23331,Adoption
 23332,Return to Owner
@@ -23367,7 +23367,7 @@ Id,Outcome Type
 23366,Adoption
 23367,Transfer
 23368,Transfer
-23369,Transfer
+23369,Adoption
 23370,Adoption
 23371,Adoption
 23372,Return to Owner
@@ -23395,21 +23395,21 @@ Id,Outcome Type
 23394,Adoption
 23395,Adoption
 23396,Return to Owner
-23397,Adoption
+23397,Transfer
 23398,Adoption
 23399,Adoption
-23400,Adoption
+23400,Return to Owner
 23401,Return to Owner
 23402,Adoption
 23403,Transfer
 23404,Adoption
 23405,Transfer
 23406,Return to Owner
-23407,Died
+23407,Transfer
 23408,Adoption
 23409,Transfer
 23410,Return to Owner
-23411,Adoption
+23411,Transfer
 23412,Adoption
 23413,Died
 23414,Adoption
@@ -23434,7 +23434,7 @@ Id,Outcome Type
 23433,Adoption
 23434,Adoption
 23435,Transfer
-23436,Adoption
+23436,Euthanasia
 23437,Return to Owner
 23438,Adoption
 23439,Adoption
@@ -23448,10 +23448,10 @@ Id,Outcome Type
 23447,Transfer
 23448,Adoption
 23449,Euthanasia
-23450,Transfer
+23450,Adoption
 23451,Adoption
 23452,Adoption
-23453,Return to Owner
+23453,Adoption
 23454,Adoption
 23455,Adoption
 23456,Adoption
@@ -23502,7 +23502,7 @@ Id,Outcome Type
 23501,Adoption
 23502,Adoption
 23503,Return to Owner
-23504,Adoption
+23504,Transfer
 23505,Return to Owner
 23506,Adoption
 23507,Adoption
@@ -23510,7 +23510,7 @@ Id,Outcome Type
 23509,Adoption
 23510,Adoption
 23511,Euthanasia
-23512,Adoption
+23512,Return to Owner
 23513,Died
 23514,Adoption
 23515,Return to Owner
@@ -23525,8 +23525,8 @@ Id,Outcome Type
 23524,Adoption
 23525,Adoption
 23526,Adoption
-23527,Transfer
-23528,Adoption
+23527,Adoption
+23528,Transfer
 23529,Adoption
 23530,Died
 23531,Adoption
@@ -23534,7 +23534,7 @@ Id,Outcome Type
 23533,Adoption
 23534,Return to Owner
 23535,Adoption
-23536,Euthanasia
+23536,Return to Owner
 23537,Died
 23538,Transfer
 23539,Adoption
@@ -23594,7 +23594,7 @@ Id,Outcome Type
 23593,Adoption
 23594,Adoption
 23595,Transfer
-23596,Transfer
+23596,Adoption
 23597,Euthanasia
 23598,Adoption
 23599,Adoption
@@ -23633,7 +23633,7 @@ Id,Outcome Type
 23632,Adoption
 23633,Adoption
 23634,Transfer
-23635,Adoption
+23635,Transfer
 23636,Adoption
 23637,Adoption
 23638,Adoption
@@ -23646,13 +23646,13 @@ Id,Outcome Type
 23645,Adoption
 23646,Adoption
 23647,Transfer
-23648,Transfer
+23648,Adoption
 23649,Adoption
 23650,Died
 23651,Adoption
 23652,Return to Owner
 23653,Adoption
-23654,Transfer
+23654,Adoption
 23655,Adoption
 23656,Adoption
 23657,Transfer
@@ -23690,7 +23690,7 @@ Id,Outcome Type
 23689,Adoption
 23690,Adoption
 23691,Adoption
-23692,Adoption
+23692,Return to Owner
 23693,Adoption
 23694,Adoption
 23695,Adoption
@@ -23710,7 +23710,7 @@ Id,Outcome Type
 23709,Return to Owner
 23710,Transfer
 23711,Transfer
-23712,Adoption
+23712,Transfer
 23713,Adoption
 23714,Adoption
 23715,Adoption
@@ -23747,18 +23747,18 @@ Id,Outcome Type
 23746,Return to Owner
 23747,Adoption
 23748,Adoption
-23749,Adoption
+23749,Transfer
 23750,Adoption
 23751,Adoption
 23752,Adoption
-23753,Transfer
+23753,Adoption
 23754,Return to Owner
 23755,Adoption
 23756,Adoption
 23757,Transfer
 23758,Return to Owner
 23759,Transfer
-23760,Died
+23760,Transfer
 23761,Adoption
 23762,Transfer
 23763,Adoption
@@ -23767,7 +23767,7 @@ Id,Outcome Type
 23766,Adoption
 23767,Adoption
 23768,Adoption
-23769,Adoption
+23769,Transfer
 23770,Adoption
 23771,Euthanasia
 23772,Adoption
@@ -23798,8 +23798,8 @@ Id,Outcome Type
 23797,Adoption
 23798,Adoption
 23799,Adoption
-23800,Adoption
-23801,Euthanasia
+23800,Transfer
+23801,Adoption
 23802,Transfer
 23803,Adoption
 23804,Transfer
@@ -23828,21 +23828,21 @@ Id,Outcome Type
 23827,Return to Owner
 23828,Adoption
 23829,Euthanasia
-23830,Transfer
+23830,Adoption
 23831,Adoption
-23832,Adoption
+23832,Transfer
 23833,Adoption
 23834,Return to Owner
 23835,Adoption
 23836,Adoption
-23837,Return to Owner
+23837,Adoption
 23838,Transfer
 23839,Adoption
 23840,Adoption
 23841,Return to Owner
 23842,Adoption
 23843,Adoption
-23844,Transfer
+23844,Adoption
 23845,Transfer
 23846,Adoption
 23847,Adoption
@@ -23868,7 +23868,7 @@ Id,Outcome Type
 23867,Adoption
 23868,Transfer
 23869,Adoption
-23870,Adoption
+23870,Transfer
 23871,Adoption
 23872,Transfer
 23873,Adoption
@@ -23928,7 +23928,7 @@ Id,Outcome Type
 23927,Adoption
 23928,Adoption
 23929,Adoption
-23930,Transfer
+23930,Adoption
 23931,Transfer
 23932,Adoption
 23933,Adoption
@@ -23969,7 +23969,7 @@ Id,Outcome Type
 23968,Adoption
 23969,Euthanasia
 23970,Euthanasia
-23971,Adoption
+23971,Transfer
 23972,Transfer
 23973,Adoption
 23974,Adoption
@@ -24041,9 +24041,9 @@ Id,Outcome Type
 24040,Adoption
 24041,Transfer
 24042,Adoption
-24043,Return to Owner
+24043,Adoption
 24044,Adoption
-24045,Died
+24045,Transfer
 24046,Adoption
 24047,Return to Owner
 24048,Return to Owner
@@ -24051,7 +24051,7 @@ Id,Outcome Type
 24050,Adoption
 24051,Adoption
 24052,Adoption
-24053,Return to Owner
+24053,Adoption
 24054,Adoption
 24055,Adoption
 24056,Adoption
@@ -24060,9 +24060,9 @@ Id,Outcome Type
 24059,Adoption
 24060,Adoption
 24061,Adoption
-24062,Euthanasia
+24062,Adoption
 24063,Transfer
-24064,Return to Owner
+24064,Adoption
 24065,Transfer
 24066,Transfer
 24067,Adoption
@@ -24075,7 +24075,7 @@ Id,Outcome Type
 24074,Adoption
 24075,Adoption
 24076,Adoption
-24077,Adoption
+24077,Transfer
 24078,Adoption
 24079,Adoption
 24080,Adoption
@@ -24133,13 +24133,13 @@ Id,Outcome Type
 24132,Adoption
 24133,Transfer
 24134,Transfer
-24135,Return to Owner
+24135,Adoption
 24136,Adoption
 24137,Adoption
 24138,Adoption
 24139,Return to Owner
 24140,Adoption
-24141,Transfer
+24141,Adoption
 24142,Adoption
 24143,Adoption
 24144,Adoption
@@ -24178,7 +24178,7 @@ Id,Outcome Type
 24177,Adoption
 24178,Adoption
 24179,Transfer
-24180,Adoption
+24180,Return to Owner
 24181,Adoption
 24182,Adoption
 24183,Adoption
@@ -24190,7 +24190,7 @@ Id,Outcome Type
 24189,Died
 24190,Adoption
 24191,Adoption
-24192,Adoption
+24192,Return to Owner
 24193,Adoption
 24194,Adoption
 24195,Adoption
@@ -24209,18 +24209,18 @@ Id,Outcome Type
 24208,Adoption
 24209,Adoption
 24210,Adoption
-24211,Adoption
+24211,Transfer
 24212,Adoption
 24213,Euthanasia
 24214,Return to Owner
 24215,Adoption
 24216,Adoption
 24217,Adoption
-24218,Euthanasia
+24218,Adoption
 24219,Adoption
 24220,Adoption
 24221,Adoption
-24222,Euthanasia
+24222,Return to Owner
 24223,Adoption
 24224,Adoption
 24225,Adoption
@@ -24242,7 +24242,7 @@ Id,Outcome Type
 24241,Adoption
 24242,Adoption
 24243,Adoption
-24244,Return to Owner
+24244,Adoption
 24245,Adoption
 24246,Return to Owner
 24247,Adoption
@@ -24259,11 +24259,11 @@ Id,Outcome Type
 24258,Adoption
 24259,Adoption
 24260,Transfer
-24261,Return to Owner
+24261,Adoption
 24262,Adoption
 24263,Adoption
 24264,Adoption
-24265,Euthanasia
+24265,Adoption
 24266,Transfer
 24267,Adoption
 24268,Adoption
@@ -24284,7 +24284,7 @@ Id,Outcome Type
 24283,Adoption
 24284,Transfer
 24285,Return to Owner
-24286,Return to Owner
+24286,Adoption
 24287,Adoption
 24288,Adoption
 24289,Transfer
@@ -24292,11 +24292,11 @@ Id,Outcome Type
 24291,Adoption
 24292,Transfer
 24293,Euthanasia
-24294,Died
+24294,Adoption
 24295,Adoption
 24296,Return to Owner
 24297,Adoption
-24298,Return to Owner
+24298,Adoption
 24299,Adoption
 24300,Adoption
 24301,Adoption
@@ -24320,11 +24320,11 @@ Id,Outcome Type
 24319,Adoption
 24320,Adoption
 24321,Return to Owner
-24322,Return to Owner
+24322,Adoption
 24323,Adoption
 24324,Adoption
 24325,Adoption
-24326,Adoption
+24326,Transfer
 24327,Adoption
 24328,Adoption
 24329,Transfer
@@ -24342,7 +24342,7 @@ Id,Outcome Type
 24341,Adoption
 24342,Adoption
 24343,Adoption
-24344,Return to Owner
+24344,Adoption
 24345,Adoption
 24346,Adoption
 24347,Adoption
@@ -24358,7 +24358,7 @@ Id,Outcome Type
 24357,Transfer
 24358,Adoption
 24359,Adoption
-24360,Euthanasia
+24360,Return to Owner
 24361,Return to Owner
 24362,Adoption
 24363,Adoption
@@ -24376,7 +24376,7 @@ Id,Outcome Type
 24375,Adoption
 24376,Adoption
 24377,Transfer
-24378,Return to Owner
+24378,Adoption
 24379,Adoption
 24380,Transfer
 24381,Euthanasia
@@ -24404,14 +24404,14 @@ Id,Outcome Type
 24403,Adoption
 24404,Adoption
 24405,Return to Owner
-24406,Adoption
+24406,Transfer
 24407,Transfer
 24408,Adoption
 24409,Adoption
 24410,Euthanasia
 24411,Return to Owner
 24412,Transfer
-24413,Transfer
+24413,Adoption
 24414,Adoption
 24415,Adoption
 24416,Adoption
@@ -24464,7 +24464,7 @@ Id,Outcome Type
 24463,Adoption
 24464,Adoption
 24465,Adoption
-24466,Transfer
+24466,Adoption
 24467,Return to Owner
 24468,Transfer
 24469,Adoption
@@ -24484,10 +24484,10 @@ Id,Outcome Type
 24483,Adoption
 24484,Adoption
 24485,Return to Owner
-24486,Transfer
+24486,Adoption
 24487,Euthanasia
 24488,Adoption
-24489,Adoption
+24489,Transfer
 24490,Adoption
 24491,Transfer
 24492,Return to Owner
@@ -24500,7 +24500,7 @@ Id,Outcome Type
 24499,Adoption
 24500,Adoption
 24501,Adoption
-24502,Euthanasia
+24502,Adoption
 24503,Transfer
 24504,Return to Owner
 24505,Adoption
@@ -24534,7 +24534,7 @@ Id,Outcome Type
 24533,Transfer
 24534,Transfer
 24535,Adoption
-24536,Adoption
+24536,Transfer
 24537,Return to Owner
 24538,Adoption
 24539,Adoption
@@ -24552,7 +24552,7 @@ Id,Outcome Type
 24551,Adoption
 24552,Transfer
 24553,Transfer
-24554,Died
+24554,Transfer
 24555,Adoption
 24556,Return to Owner
 24557,Adoption
@@ -24561,7 +24561,7 @@ Id,Outcome Type
 24560,Return to Owner
 24561,Euthanasia
 24562,Adoption
-24563,Euthanasia
+24563,Adoption
 24564,Adoption
 24565,Transfer
 24566,Transfer
@@ -24583,7 +24583,7 @@ Id,Outcome Type
 24582,Adoption
 24583,Transfer
 24584,Transfer
-24585,Return to Owner
+24585,Adoption
 24586,Adoption
 24587,Transfer
 24588,Adoption
@@ -24598,12 +24598,12 @@ Id,Outcome Type
 24597,Adoption
 24598,Return to Owner
 24599,Adoption
-24600,Adoption
+24600,Transfer
 24601,Transfer
 24602,Adoption
 24603,Adoption
 24604,Adoption
-24605,Transfer
+24605,Adoption
 24606,Euthanasia
 24607,Transfer
 24608,Adoption
@@ -24648,7 +24648,7 @@ Id,Outcome Type
 24647,Adoption
 24648,Adoption
 24649,Adoption
-24650,Transfer
+24650,Adoption
 24651,Adoption
 24652,Return to Owner
 24653,Transfer
@@ -24668,7 +24668,7 @@ Id,Outcome Type
 24667,Return to Owner
 24668,Adoption
 24669,Euthanasia
-24670,Adoption
+24670,Transfer
 24671,Adoption
 24672,Euthanasia
 24673,Return to Owner
@@ -24682,15 +24682,15 @@ Id,Outcome Type
 24681,Adoption
 24682,Adoption
 24683,Adoption
-24684,Adoption
+24684,Transfer
 24685,Euthanasia
 24686,Transfer
 24687,Adoption
 24688,Adoption
-24689,Return to Owner
+24689,Adoption
 24690,Euthanasia
 24691,Adoption
-24692,Transfer
+24692,Adoption
 24693,Adoption
 24694,Adoption
 24695,Adoption
@@ -24760,7 +24760,7 @@ Id,Outcome Type
 24759,Transfer
 24760,Adoption
 24761,Adoption
-24762,Euthanasia
+24762,Adoption
 24763,Adoption
 24764,Transfer
 24765,Adoption
@@ -24783,7 +24783,7 @@ Id,Outcome Type
 24782,Adoption
 24783,Return to Owner
 24784,Adoption
-24785,Adoption
+24785,Transfer
 24786,Return to Owner
 24787,Adoption
 24788,Adoption
@@ -24804,7 +24804,7 @@ Id,Outcome Type
 24803,Return to Owner
 24804,Adoption
 24805,Transfer
-24806,Return to Owner
+24806,Adoption
 24807,Adoption
 24808,Adoption
 24809,Euthanasia
@@ -24817,7 +24817,7 @@ Id,Outcome Type
 24816,Adoption
 24817,Adoption
 24818,Adoption
-24819,Transfer
+24819,Adoption
 24820,Euthanasia
 24821,Adoption
 24822,Return to Owner
@@ -24928,7 +24928,7 @@ Id,Outcome Type
 24927,Adoption
 24928,Adoption
 24929,Euthanasia
-24930,Adoption
+24930,Transfer
 24931,Adoption
 24932,Euthanasia
 24933,Euthanasia
@@ -24946,14 +24946,14 @@ Id,Outcome Type
 24945,Adoption
 24946,Adoption
 24947,Adoption
-24948,Return to Owner
+24948,Adoption
 24949,Adoption
 24950,Adoption
 24951,Adoption
 24952,Adoption
 24953,Adoption
 24954,Adoption
-24955,Return to Owner
+24955,Adoption
 24956,Return to Owner
 24957,Adoption
 24958,Adoption
@@ -24964,7 +24964,7 @@ Id,Outcome Type
 24963,Euthanasia
 24964,Adoption
 24965,Adoption
-24966,Euthanasia
+24966,Return to Owner
 24967,Transfer
 24968,Transfer
 24969,Transfer
@@ -24992,7 +24992,7 @@ Id,Outcome Type
 24991,Euthanasia
 24992,Adoption
 24993,Adoption
-24994,Return to Owner
+24994,Adoption
 24995,Transfer
 24996,Adoption
 24997,Adoption
@@ -25030,8 +25030,8 @@ Id,Outcome Type
 25029,Euthanasia
 25030,Adoption
 25031,Adoption
-25032,Return to Owner
-25033,Transfer
+25032,Adoption
+25033,Adoption
 25034,Transfer
 25035,Adoption
 25036,Adoption
@@ -25059,14 +25059,14 @@ Id,Outcome Type
 25058,Adoption
 25059,Adoption
 25060,Euthanasia
-25061,Transfer
+25061,Adoption
 25062,Adoption
 25063,Return to Owner
 25064,Return to Owner
 25065,Adoption
 25066,Adoption
 25067,Adoption
-25068,Return to Owner
+25068,Adoption
 25069,Adoption
 25070,Adoption
 25071,Transfer
@@ -25105,7 +25105,7 @@ Id,Outcome Type
 25104,Adoption
 25105,Adoption
 25106,Return to Owner
-25107,Adoption
+25107,Return to Owner
 25108,Adoption
 25109,Adoption
 25110,Return to Owner
@@ -25127,7 +25127,7 @@ Id,Outcome Type
 25126,Adoption
 25127,Adoption
 25128,Euthanasia
-25129,Died
+25129,Transfer
 25130,Adoption
 25131,Adoption
 25132,Adoption
@@ -25189,7 +25189,7 @@ Id,Outcome Type
 25188,Return to Owner
 25189,Died
 25190,Adoption
-25191,Adoption
+25191,Transfer
 25192,Return to Owner
 25193,Return to Owner
 25194,Adoption
@@ -25225,7 +25225,7 @@ Id,Outcome Type
 25224,Adoption
 25225,Adoption
 25226,Adoption
-25227,Return to Owner
+25227,Adoption
 25228,Adoption
 25229,Adoption
 25230,Adoption
@@ -25286,7 +25286,7 @@ Id,Outcome Type
 25285,Return to Owner
 25286,Adoption
 25287,Adoption
-25288,Transfer
+25288,Adoption
 25289,Transfer
 25290,Transfer
 25291,Adoption
@@ -25297,7 +25297,7 @@ Id,Outcome Type
 25296,Adoption
 25297,Adoption
 25298,Adoption
-25299,Adoption
+25299,Euthanasia
 25300,Return to Owner
 25301,Transfer
 25302,Adoption
@@ -25327,7 +25327,7 @@ Id,Outcome Type
 25326,Adoption
 25327,Adoption
 25328,Adoption
-25329,Adoption
+25329,Transfer
 25330,Return to Owner
 25331,Euthanasia
 25332,Adoption
@@ -25365,7 +25365,7 @@ Id,Outcome Type
 25364,Adoption
 25365,Adoption
 25366,Adoption
-25367,Adoption
+25367,Transfer
 25368,Return to Owner
 25369,Adoption
 25370,Adoption
@@ -25376,13 +25376,13 @@ Id,Outcome Type
 25375,Adoption
 25376,Adoption
 25377,Euthanasia
-25378,Transfer
+25378,Adoption
 25379,Adoption
 25380,Adoption
-25381,Return to Owner
+25381,Adoption
 25382,Adoption
-25383,Adoption
-25384,Adoption
+25383,Transfer
+25384,Transfer
 25385,Adoption
 25386,Adoption
 25387,Adoption
@@ -25398,12 +25398,12 @@ Id,Outcome Type
 25397,Transfer
 25398,Adoption
 25399,Died
-25400,Transfer
+25400,Adoption
 25401,Return to Owner
 25402,Adoption
 25403,Adoption
 25404,Adoption
-25405,Return to Owner
+25405,Adoption
 25406,Adoption
 25407,Adoption
 25408,Transfer
@@ -25432,7 +25432,7 @@ Id,Outcome Type
 25431,Adoption
 25432,Adoption
 25433,Adoption
-25434,Transfer
+25434,Adoption
 25435,Return to Owner
 25436,Adoption
 25437,Adoption
@@ -25453,7 +25453,7 @@ Id,Outcome Type
 25452,Adoption
 25453,Return to Owner
 25454,Adoption
-25455,Transfer
+25455,Adoption
 25456,Adoption
 25457,Adoption
 25458,Adoption
@@ -25472,7 +25472,7 @@ Id,Outcome Type
 25471,Euthanasia
 25472,Adoption
 25473,Adoption
-25474,Died
+25474,Transfer
 25475,Euthanasia
 25476,Adoption
 25477,Transfer
@@ -25500,7 +25500,7 @@ Id,Outcome Type
 25499,Adoption
 25500,Adoption
 25501,Adoption
-25502,Adoption
+25502,Transfer
 25503,Transfer
 25504,Transfer
 25505,Adoption
@@ -25514,7 +25514,7 @@ Id,Outcome Type
 25513,Adoption
 25514,Return to Owner
 25515,Return to Owner
-25516,Adoption
+25516,Return to Owner
 25517,Adoption
 25518,Adoption
 25519,Return to Owner
@@ -25561,7 +25561,7 @@ Id,Outcome Type
 25560,Return to Owner
 25561,Transfer
 25562,Return to Owner
-25563,Transfer
+25563,Return to Owner
 25564,Adoption
 25565,Transfer
 25566,Euthanasia
@@ -25577,14 +25577,14 @@ Id,Outcome Type
 25576,Euthanasia
 25577,Adoption
 25578,Adoption
-25579,Return to Owner
+25579,Adoption
 25580,Adoption
 25581,Adoption
 25582,Adoption
 25583,Transfer
 25584,Return to Owner
 25585,Return to Owner
-25586,Transfer
+25586,Adoption
 25587,Adoption
 25588,Adoption
 25589,Return to Owner
@@ -25597,7 +25597,7 @@ Id,Outcome Type
 25596,Adoption
 25597,Adoption
 25598,Transfer
-25599,Return to Owner
+25599,Adoption
 25600,Transfer
 25601,Adoption
 25602,Adoption
@@ -25614,7 +25614,7 @@ Id,Outcome Type
 25613,Return to Owner
 25614,Euthanasia
 25615,Adoption
-25616,Adoption
+25616,Transfer
 25617,Transfer
 25618,Adoption
 25619,Adoption
@@ -25662,7 +25662,7 @@ Id,Outcome Type
 25661,Transfer
 25662,Transfer
 25663,Adoption
-25664,Died
+25664,Transfer
 25665,Return to Owner
 25666,Adoption
 25667,Return to Owner
@@ -25680,7 +25680,7 @@ Id,Outcome Type
 25679,Return to Owner
 25680,Euthanasia
 25681,Euthanasia
-25682,Return to Owner
+25682,Adoption
 25683,Return to Owner
 25684,Return to Owner
 25685,Adoption
@@ -25690,7 +25690,7 @@ Id,Outcome Type
 25689,Return to Owner
 25690,Adoption
 25691,Return to Owner
-25692,Return to Owner
+25692,Adoption
 25693,Adoption
 25694,Adoption
 25695,Adoption
@@ -25729,15 +25729,15 @@ Id,Outcome Type
 25728,Transfer
 25729,Return to Owner
 25730,Adoption
-25731,Died
+25731,Adoption
 25732,Adoption
 25733,Adoption
 25734,Transfer
 25735,Adoption
-25736,Died
+25736,Transfer
 25737,Adoption
 25738,Adoption
-25739,Adoption
+25739,Transfer
 25740,Return to Owner
 25741,Adoption
 25742,Adoption
@@ -25762,7 +25762,7 @@ Id,Outcome Type
 25761,Adoption
 25762,Return to Owner
 25763,Adoption
-25764,Adoption
+25764,Transfer
 25765,Return to Owner
 25766,Adoption
 25767,Return to Owner
@@ -25776,11 +25776,11 @@ Id,Outcome Type
 25775,Adoption
 25776,Transfer
 25777,Adoption
-25778,Return to Owner
+25778,Adoption
 25779,Adoption
 25780,Return to Owner
 25781,Adoption
-25782,Transfer
+25782,Adoption
 25783,Adoption
 25784,Transfer
 25785,Transfer
@@ -25820,7 +25820,7 @@ Id,Outcome Type
 25819,Adoption
 25820,Euthanasia
 25821,Adoption
-25822,Transfer
+25822,Adoption
 25823,Adoption
 25824,Transfer
 25825,Transfer
@@ -25850,7 +25850,7 @@ Id,Outcome Type
 25849,Died
 25850,Euthanasia
 25851,Adoption
-25852,Euthanasia
+25852,Adoption
 25853,Adoption
 25854,Adoption
 25855,Adoption
@@ -25866,7 +25866,7 @@ Id,Outcome Type
 25865,Return to Owner
 25866,Return to Owner
 25867,Adoption
-25868,Adoption
+25868,Transfer
 25869,Transfer
 25870,Transfer
 25871,Adoption
@@ -25879,7 +25879,7 @@ Id,Outcome Type
 25878,Adoption
 25879,Transfer
 25880,Adoption
-25881,Transfer
+25881,Adoption
 25882,Adoption
 25883,Adoption
 25884,Adoption
@@ -25902,7 +25902,7 @@ Id,Outcome Type
 25901,Adoption
 25902,Adoption
 25903,Adoption
-25904,Adoption
+25904,Transfer
 25905,Adoption
 25906,Adoption
 25907,Adoption
@@ -25922,7 +25922,7 @@ Id,Outcome Type
 25921,Adoption
 25922,Return to Owner
 25923,Return to Owner
-25924,Adoption
+25924,Return to Owner
 25925,Return to Owner
 25926,Euthanasia
 25927,Adoption
@@ -25972,9 +25972,9 @@ Id,Outcome Type
 25971,Adoption
 25972,Adoption
 25973,Adoption
-25974,Euthanasia
+25974,Return to Owner
 25975,Adoption
-25976,Adoption
+25976,Return to Owner
 25977,Transfer
 25978,Adoption
 25979,Adoption
@@ -26048,7 +26048,7 @@ Id,Outcome Type
 26047,Return to Owner
 26048,Adoption
 26049,Adoption
-26050,Died
+26050,Transfer
 26051,Adoption
 26052,Transfer
 26053,Adoption
@@ -26089,7 +26089,7 @@ Id,Outcome Type
 26088,Adoption
 26089,Transfer
 26090,Adoption
-26091,Return to Owner
+26091,Adoption
 26092,Transfer
 26093,Adoption
 26094,Return to Owner
@@ -26155,14 +26155,14 @@ Id,Outcome Type
 26154,Adoption
 26155,Adoption
 26156,Adoption
-26157,Transfer
+26157,Adoption
 26158,Transfer
 26159,Return to Owner
 26160,Return to Owner
 26161,Adoption
 26162,Adoption
 26163,Adoption
-26164,Transfer
+26164,Adoption
 26165,Transfer
 26166,Adoption
 26167,Adoption
@@ -26183,7 +26183,7 @@ Id,Outcome Type
 26182,Transfer
 26183,Transfer
 26184,Adoption
-26185,Died
+26185,Adoption
 26186,Adoption
 26187,Adoption
 26188,Adoption
@@ -26191,14 +26191,14 @@ Id,Outcome Type
 26190,Adoption
 26191,Adoption
 26192,Adoption
-26193,Return to Owner
+26193,Adoption
 26194,Transfer
 26195,Transfer
 26196,Adoption
 26197,Adoption
 26198,Euthanasia
 26199,Adoption
-26200,Return to Owner
+26200,Adoption
 26201,Euthanasia
 26202,Adoption
 26203,Return to Owner
@@ -26232,7 +26232,7 @@ Id,Outcome Type
 26231,Adoption
 26232,Adoption
 26233,Transfer
-26234,Adoption
+26234,Transfer
 26235,Transfer
 26236,Adoption
 26237,Adoption
@@ -26265,7 +26265,7 @@ Id,Outcome Type
 26264,Adoption
 26265,Adoption
 26266,Adoption
-26267,Adoption
+26267,Return to Owner
 26268,Adoption
 26269,Return to Owner
 26270,Adoption
@@ -26285,7 +26285,7 @@ Id,Outcome Type
 26284,Adoption
 26285,Died
 26286,Adoption
-26287,Adoption
+26287,Transfer
 26288,Return to Owner
 26289,Adoption
 26290,Transfer
@@ -26323,7 +26323,7 @@ Id,Outcome Type
 26322,Transfer
 26323,Adoption
 26324,Transfer
-26325,Return to Owner
+26325,Adoption
 26326,Adoption
 26327,Transfer
 26328,Adoption
@@ -26334,7 +26334,7 @@ Id,Outcome Type
 26333,Adoption
 26334,Adoption
 26335,Transfer
-26336,Return to Owner
+26336,Adoption
 26337,Return to Owner
 26338,Euthanasia
 26339,Return to Owner
@@ -26376,7 +26376,7 @@ Id,Outcome Type
 26375,Transfer
 26376,Adoption
 26377,Transfer
-26378,Adoption
+26378,Transfer
 26379,Adoption
 26380,Transfer
 26381,Adoption
@@ -26483,7 +26483,7 @@ Id,Outcome Type
 26482,Transfer
 26483,Adoption
 26484,Return to Owner
-26485,Return to Owner
+26485,Adoption
 26486,Adoption
 26487,Adoption
 26488,Adoption
@@ -26502,7 +26502,7 @@ Id,Outcome Type
 26501,Adoption
 26502,Adoption
 26503,Adoption
-26504,Adoption
+26504,Transfer
 26505,Adoption
 26506,Adoption
 26507,Transfer
@@ -26599,7 +26599,7 @@ Id,Outcome Type
 26598,Transfer
 26599,Adoption
 26600,Adoption
-26601,Transfer
+26601,Return to Owner
 26602,Return to Owner
 26603,Adoption
 26604,Transfer
@@ -26611,7 +26611,7 @@ Id,Outcome Type
 26610,Adoption
 26611,Transfer
 26612,Adoption
-26613,Adoption
+26613,Transfer
 26614,Adoption
 26615,Adoption
 26616,Adoption
@@ -26647,7 +26647,7 @@ Id,Outcome Type
 26646,Transfer
 26647,Adoption
 26648,Adoption
-26649,Adoption
+26649,Transfer
 26650,Adoption
 26651,Adoption
 26652,Return to Owner
@@ -26661,7 +26661,7 @@ Id,Outcome Type
 26660,Adoption
 26661,Return to Owner
 26662,Adoption
-26663,Euthanasia
+26663,Return to Owner
 26664,Return to Owner
 26665,Transfer
 26666,Adoption
@@ -26669,7 +26669,7 @@ Id,Outcome Type
 26668,Transfer
 26669,Adoption
 26670,Adoption
-26671,Transfer
+26671,Adoption
 26672,Adoption
 26673,Euthanasia
 26674,Transfer
@@ -26695,7 +26695,7 @@ Id,Outcome Type
 26694,Transfer
 26695,Euthanasia
 26696,Transfer
-26697,Return to Owner
+26697,Adoption
 26698,Adoption
 26699,Return to Owner
 26700,Adoption
@@ -26715,7 +26715,7 @@ Id,Outcome Type
 26714,Adoption
 26715,Transfer
 26716,Return to Owner
-26717,Transfer
+26717,Adoption
 26718,Return to Owner
 26719,Transfer
 26720,Transfer
@@ -26733,7 +26733,7 @@ Id,Outcome Type
 26732,Return to Owner
 26733,Euthanasia
 26734,Adoption
-26735,Adoption
+26735,Transfer
 26736,Adoption
 26737,Adoption
 26738,Adoption
@@ -26743,7 +26743,7 @@ Id,Outcome Type
 26742,Adoption
 26743,Adoption
 26744,Adoption
-26745,Transfer
+26745,Adoption
 26746,Adoption
 26747,Return to Owner
 26748,Died
@@ -26760,7 +26760,7 @@ Id,Outcome Type
 26759,Adoption
 26760,Adoption
 26761,Return to Owner
-26762,Died
+26762,Adoption
 26763,Adoption
 26764,Adoption
 26765,Adoption
@@ -26768,7 +26768,7 @@ Id,Outcome Type
 26767,Adoption
 26768,Transfer
 26769,Return to Owner
-26770,Adoption
+26770,Transfer
 26771,Adoption
 26772,Adoption
 26773,Euthanasia
@@ -26780,7 +26780,7 @@ Id,Outcome Type
 26779,Adoption
 26780,Adoption
 26781,Transfer
-26782,Transfer
+26782,Adoption
 26783,Adoption
 26784,Adoption
 26785,Adoption
@@ -26797,7 +26797,7 @@ Id,Outcome Type
 26796,Adoption
 26797,Return to Owner
 26798,Adoption
-26799,Return to Owner
+26799,Adoption
 26800,Adoption
 26801,Adoption
 26802,Adoption
@@ -26837,7 +26837,7 @@ Id,Outcome Type
 26836,Adoption
 26837,Transfer
 26838,Return to Owner
-26839,Return to Owner
+26839,Adoption
 26840,Adoption
 26841,Adoption
 26842,Adoption
@@ -26847,26 +26847,26 @@ Id,Outcome Type
 26846,Adoption
 26847,Died
 26848,Adoption
-26849,Adoption
+26849,Transfer
 26850,Adoption
 26851,Adoption
 26852,Adoption
 26853,Return to Owner
-26854,Adoption
+26854,Transfer
 26855,Adoption
 26856,Adoption
 26857,Transfer
 26858,Adoption
 26859,Return to Owner
 26860,Adoption
-26861,Transfer
+26861,Adoption
 26862,Return to Owner
 26863,Adoption
 26864,Adoption
 26865,Transfer
 26866,Adoption
 26867,Adoption
-26868,Adoption
+26868,Transfer
 26869,Transfer
 26870,Adoption
 26871,Adoption
@@ -26880,11 +26880,11 @@ Id,Outcome Type
 26879,Adoption
 26880,Adoption
 26881,Adoption
-26882,Died
+26882,Adoption
 26883,Adoption
 26884,Adoption
 26885,Adoption
-26886,Return to Owner
+26886,Adoption
 26887,Adoption
 26888,Adoption
 26889,Transfer
@@ -26894,7 +26894,7 @@ Id,Outcome Type
 26893,Transfer
 26894,Transfer
 26895,Euthanasia
-26896,Adoption
+26896,Return to Owner
 26897,Adoption
 26898,Adoption
 26899,Adoption
@@ -26908,7 +26908,7 @@ Id,Outcome Type
 26907,Adoption
 26908,Died
 26909,Adoption
-26910,Adoption
+26910,Transfer
 26911,Adoption
 26912,Transfer
 26913,Adoption
@@ -26942,11 +26942,11 @@ Id,Outcome Type
 26941,Adoption
 26942,Euthanasia
 26943,Return to Owner
-26944,Return to Owner
+26944,Adoption
 26945,Adoption
 26946,Adoption
 26947,Adoption
-26948,Return to Owner
+26948,Adoption
 26949,Return to Owner
 26950,Transfer
 26951,Adoption
@@ -26976,7 +26976,7 @@ Id,Outcome Type
 26975,Transfer
 26976,Adoption
 26977,Adoption
-26978,Transfer
+26978,Adoption
 26979,Adoption
 26980,Transfer
 26981,Return to Owner
@@ -27028,7 +27028,7 @@ Id,Outcome Type
 27027,Adoption
 27028,Transfer
 27029,Return to Owner
-27030,Adoption
+27030,Transfer
 27031,Adoption
 27032,Adoption
 27033,Adoption
@@ -27036,7 +27036,7 @@ Id,Outcome Type
 27035,Adoption
 27036,Return to Owner
 27037,Return to Owner
-27038,Adoption
+27038,Transfer
 27039,Euthanasia
 27040,Adoption
 27041,Adoption
@@ -27044,12 +27044,12 @@ Id,Outcome Type
 27043,Transfer
 27044,Transfer
 27045,Transfer
-27046,Adoption
+27046,Transfer
 27047,Adoption
 27048,Adoption
 27049,Adoption
 27050,Adoption
-27051,Adoption
+27051,Return to Owner
 27052,Adoption
 27053,Adoption
 27054,Adoption
@@ -27086,7 +27086,7 @@ Id,Outcome Type
 27085,Adoption
 27086,Euthanasia
 27087,Adoption
-27088,Adoption
+27088,Return to Owner
 27089,Adoption
 27090,Return to Owner
 27091,Return to Owner
@@ -27140,9 +27140,9 @@ Id,Outcome Type
 27139,Return to Owner
 27140,Transfer
 27141,Return to Owner
-27142,Adoption
+27142,Return to Owner
 27143,Adoption
-27144,Return to Owner
+27144,Adoption
 27145,Euthanasia
 27146,Transfer
 27147,Adoption
@@ -27190,7 +27190,7 @@ Id,Outcome Type
 27189,Adoption
 27190,Adoption
 27191,Adoption
-27192,Return to Owner
+27192,Adoption
 27193,Adoption
 27194,Adoption
 27195,Adoption
@@ -27268,12 +27268,12 @@ Id,Outcome Type
 27267,Adoption
 27268,Transfer
 27269,Adoption
-27270,Return to Owner
+27270,Adoption
 27271,Adoption
 27272,Adoption
 27273,Adoption
 27274,Adoption
-27275,Return to Owner
+27275,Adoption
 27276,Adoption
 27277,Adoption
 27278,Transfer
@@ -27308,7 +27308,7 @@ Id,Outcome Type
 27307,Died
 27308,Transfer
 27309,Adoption
-27310,Died
+27310,Adoption
 27311,Adoption
 27312,Return to Owner
 27313,Adoption
@@ -27364,7 +27364,7 @@ Id,Outcome Type
 27363,Transfer
 27364,Adoption
 27365,Adoption
-27366,Adoption
+27366,Transfer
 27367,Adoption
 27368,Adoption
 27369,Transfer
@@ -27375,7 +27375,7 @@ Id,Outcome Type
 27374,Transfer
 27375,Adoption
 27376,Adoption
-27377,Transfer
+27377,Adoption
 27378,Adoption
 27379,Adoption
 27380,Transfer
@@ -27417,7 +27417,7 @@ Id,Outcome Type
 27416,Transfer
 27417,Adoption
 27418,Transfer
-27419,Adoption
+27419,Return to Owner
 27420,Adoption
 27421,Adoption
 27422,Adoption
@@ -27453,12 +27453,12 @@ Id,Outcome Type
 27452,Adoption
 27453,Adoption
 27454,Adoption
-27455,Return to Owner
+27455,Adoption
 27456,Adoption
 27457,Transfer
 27458,Adoption
 27459,Adoption
-27460,Died
+27460,Transfer
 27461,Adoption
 27462,Adoption
 27463,Return to Owner
@@ -27475,7 +27475,7 @@ Id,Outcome Type
 27474,Adoption
 27475,Adoption
 27476,Adoption
-27477,Adoption
+27477,Transfer
 27478,Adoption
 27479,Adoption
 27480,Adoption
@@ -27496,20 +27496,20 @@ Id,Outcome Type
 27495,Euthanasia
 27496,Adoption
 27497,Adoption
-27498,Adoption
+27498,Transfer
 27499,Adoption
 27500,Transfer
 27501,Adoption
 27502,Died
 27503,Return to Owner
-27504,Adoption
+27504,Transfer
 27505,Adoption
 27506,Transfer
-27507,Adoption
+27507,Transfer
 27508,Adoption
 27509,Transfer
 27510,Transfer
-27511,Return to Owner
+27511,Adoption
 27512,Transfer
 27513,Return to Owner
 27514,Return to Owner
@@ -27558,21 +27558,21 @@ Id,Outcome Type
 27557,Transfer
 27558,Return to Owner
 27559,Adoption
-27560,Died
+27560,Transfer
 27561,Adoption
 27562,Adoption
 27563,Transfer
 27564,Adoption
-27565,Return to Owner
+27565,Adoption
 27566,Transfer
 27567,Return to Owner
-27568,Return to Owner
+27568,Adoption
 27569,Adoption
 27570,Transfer
-27571,Adoption
+27571,Return to Owner
 27572,Adoption
 27573,Adoption
-27574,Euthanasia
+27574,Adoption
 27575,Transfer
 27576,Adoption
 27577,Return to Owner
@@ -27587,15 +27587,15 @@ Id,Outcome Type
 27586,Adoption
 27587,Return to Owner
 27588,Euthanasia
-27589,Died
+27589,Transfer
 27590,Adoption
 27591,Adoption
 27592,Adoption
 27593,Adoption
-27594,Return to Owner
-27595,Euthanasia
+27594,Adoption
+27595,Return to Owner
 27596,Adoption
-27597,Transfer
+27597,Died
 27598,Adoption
 27599,Adoption
 27600,Transfer
@@ -27614,14 +27614,14 @@ Id,Outcome Type
 27613,Adoption
 27614,Return to Owner
 27615,Adoption
-27616,Transfer
+27616,Adoption
 27617,Adoption
 27618,Adoption
 27619,Adoption
 27620,Transfer
 27621,Adoption
 27622,Adoption
-27623,Transfer
+27623,Adoption
 27624,Euthanasia
 27625,Adoption
 27626,Return to Owner
@@ -27629,7 +27629,7 @@ Id,Outcome Type
 27628,Transfer
 27629,Adoption
 27630,Adoption
-27631,Adoption
+27631,Transfer
 27632,Transfer
 27633,Euthanasia
 27634,Adoption
@@ -27662,7 +27662,7 @@ Id,Outcome Type
 27661,Adoption
 27662,Return to Owner
 27663,Adoption
-27664,Transfer
+27664,Adoption
 27665,Adoption
 27666,Adoption
 27667,Adoption
@@ -27681,11 +27681,11 @@ Id,Outcome Type
 27680,Adoption
 27681,Return to Owner
 27682,Euthanasia
-27683,Return to Owner
+27683,Adoption
 27684,Adoption
 27685,Adoption
 27686,Adoption
-27687,Adoption
+27687,Transfer
 27688,Return to Owner
 27689,Adoption
 27690,Return to Owner
@@ -27747,7 +27747,7 @@ Id,Outcome Type
 27746,Adoption
 27747,Died
 27748,Return to Owner
-27749,Adoption
+27749,Transfer
 27750,Transfer
 27751,Adoption
 27752,Adoption
@@ -27787,6 +27787,6 @@ Id,Outcome Type
 27786,Adoption
 27787,Adoption
 27788,Adoption
-27789,Return to Owner
+27789,Adoption
 27790,Euthanasia
 27791,Transfer
