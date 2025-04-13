@@ -1,0 +1,390 @@
+Breed Name,Cluster
+Pudelpointer,0
+Bernese Mountain Dog,0
+Drentsche Patrijshond,0
+Norwegian Lundehund,0
+Kuvasz,0
+Saint Bernard,0
+Samoyed,0
+Mastiff,0
+Newfoundland,0
+Standard Schnauzer,0
+Doberman Pinscher,0
+Neapolitan Mastiff,0
+Danish-Swedish Farmdog,0
+Komondor,0
+Siberian Husky,0
+Boerboel,0
+Mountain Cur,0
+Blue Lacy,0
+Hovawart,0
+Black Russian Terrier,0
+Black Mouth Cur,0
+Portuguese Water Dog,0
+Chinook,0
+Braque du Bourbonnais,0
+Boxer,0
+German Pinscher,0
+Yakutian Laika,0
+Giant Schnauzer,0
+Cane Corso,0
+Akita,0
+Hanoverian Scenthound,0
+Bullmastiff,0
+Alaskan Malamute,0
+American Bulldog,0
+Greater Swiss Mountain Dog,0
+Shiloh Shepherd,0
+Great Pyrenees,0
+Tibetan Mastiff,0
+Rottweiler,0
+Leonberger,0
+Karelian Bear Dog,0
+Great Dane,0
+Pyrenean Shepherd,1
+Mudi,1
+Polish Lowland Sheepdog,1
+Portuguese Sheepdog,1
+Cardigan Welsh Corgi,1
+Old English Sheepdog,1
+Shetland Sheepdog,1
+Bohemian Shepherd,1
+Bouvier des Flandres,1
+Border Collie,1
+Collie,1
+Briard,1
+Norwegian Buhund,1
+Puli,1
+Canaan Dog,1
+Pembroke Welsh Corgi,1
+Berger Picard,1
+Australian Cattle Dog,1
+Entlebucher Mountain Dog,1
+Estrela Mountain Dog,1
+Dutch Shepherd,1
+Lancashire Heeler,1
+Croatian Sheepdog,1
+Australian Kelpie,1
+Australian Shepherd,1
+Finnish Lapphund,1
+Australian Stumpy Tail Cattle Dog,1
+Swedish Lapphund,1
+Swedish Vallhund,1
+German Shepherd Dog,1
+Appenzeller Sennenhunde,1
+Bergamasco Sheepdog,1
+Belgian Tervuren,1
+Belgian Sheepdog,1
+Icelandic Sheepdog,1
+Belgian Malinois,1
+Belgian Laekenois,1
+Bearded Collie,1
+German Shepherd Pit Bull,2
+Goberian,2
+Labradane,2
+Chabrador,2
+Labsky,2
+Labrastaff,2
+German Sheprador,2
+Greyador,2
+German Shepherd Rottweiler Mix,2
+Labernese,2
+Labmaraner,2
+Dachsador,2
+Pitsky,2
+Corman Shepherd,2
+Corgidor,2
+Dalmatian,2
+Corgi Inu,2
+Morkie,2
+Daniff,2
+Doberdor,2
+Golden Shepherd,2
+Chusky,2
+Chow Shepherd,2
+Mastador,2
+Labrabull,2
+Doxle,2
+Gollie,2
+Lhasapoo,2
+Golden Mountain Dog,2
+Jackshund,2
+Golden Cocker Retriever,2
+Lab Pointer,2
+Boxador,2
+Boston Boxer,2
+Bossie,2
+Samusky,2
+Australian Retriever,2
+Schipperke,2
+Australian Shepherd Husky,2
+Aussiepom,2
+Australian Shepherd Lab Mix,2
+Shepsky,2
+Horgi,2
+Huskita,2
+Huskydoodle,2
+Australian Shepherd Pit Bull Mix,2
+Springador,2
+Shollie,2
+Border Sheepdog,2
+Catahoula Bulldog,2
+Boxerdoodle,2
+Boxmatian,2
+Jack Chi,2
+Whoodle,2
+Bullmatian,2
+Bullboxer Pit,2
+Bullador,2
+Pyredoodle,2
+Rottador,2
+Aussiedoodle,2
+Basset Retriever,2
+Rottle,2
+Alaskan Klee Kai,2
+Valley Bulldog,2
+Kai Ken,2
+Texas Heeler,2
+Auggie,2
+Boxweiler,2
+Akita Shepherd,2
+Maltipoo,3
+Labradoodle,3
+Yorkipoo,3
+Maltese Shih Tzu,3
+Puggle,3
+King Shepherd,3
+Goldador,3
+Borador,3
+Peekapoo,3
+Cockapoo,3
+Schnoodle,3
+Northern Inuit Dog,3
+Goldendoodle,3
+Spinone Italiano,4
+Bracco Italiano,4
+Vizsla,4
+French Spaniel,4
+Labrador Retriever,4
+Pointer,4
+German Longhaired Pointer,4
+Weimaraner,4
+Chesapeake Bay Retriever,4
+Lagotto Romagnolo,4
+Welsh Springer Spaniel,4
+German Shorthaired Pointer,4
+German Wirehaired Pointer,4
+Wirehaired Pointing Griffon,4
+Portuguese Pointer,4
+Brittany,4
+Flat-Coated Retriever,4
+Irish Water Spaniel,4
+Boykin Spaniel,4
+Irish Red And White Setter,4
+Stabyhoun,4
+Barbet,4
+Irish Setter,4
+Curly-Coated Retriever,4
+Cocker Spaniel,4
+Finnish Spitz,4
+Nova Scotia Duck Tolling Retriever,4
+Golden Retriever,4
+English Setter,4
+English Springer Spaniel,4
+American Water Spaniel,4
+Gordon Setter,4
+Field Spaniel,4
+Small Munsterlander Pointer,4
+English Cocker Spaniel,4
+Deutscher Wachtelhund,4
+Japanese Spitz,5
+Keeshond,5
+Kyi-Leo,5
+German Spitz,5
+Lowchen,5
+Xoloitzcuintli,5
+Westiepoo,5
+Toy Fox Terrier,5
+Tibetan Terrier,5
+Tibetan Spaniel,5
+Terripoo,5
+Sussex Spaniel,5
+Silky Terrier,5
+Shorkie,5
+Shiranian,5
+Shih Tzu,5
+Shih-Poo,5
+Shichon,5
+Shiba Inu,5
+Lhasa Apso,5
+Sheepadoodle,5
+Pugalier,5
+Pug,5
+Poodle,5
+Poochon,5
+Pomsky,5
+Pomeranian,5
+Japanese Chin,5
+Pomchi,5
+Pomapoo,5
+Pekingese,5
+Papipoo,5
+Papillon,5
+Miniature Pinscher,5
+Maltese,5
+Saint Berdoodle,5
+Pomeagle,5
+Yorkshire Terrier,5
+Jack-A-Poo,5
+Bernedoodle,5
+Coton de Tulear,5
+Cockalier,5
+Clumber Spaniel,5
+Cirneco dell’Etna,5
+Chug,5
+Bocker,5
+Chorkie,5
+Chiweenie,5
+Boglen Terrier,5
+Chipin,5
+Chion,5
+Bolognese,5
+Chinese Crested,5
+Chilier,5
+Bordoodle,5
+Chihuahua,5
+Bugg,5
+Cav-a-Jack,5
+Cavachon,5
+Brussels Griffon,5
+Cavador,5
+Cavalier King Charles Spaniel,5
+Beaglier,5
+Cavapoo,5
+Boston Terrier,5
+Cheagle,5
+Chi Chi,5
+Chi-Poo,5
+Chigi,5
+BoShih,5
+Boston Terrier Pekingese Mix,5
+Docker,5
+Bichon Frise,5
+Frenchton,5
+Italian Greyhound,5
+Affenhuahua,5
+Affenpinscher,5
+American Eskimo Dog,5
+Havapoo,5
+Havanese,5
+Golden Retriever Corgi,5
+Frengle,5
+French Bullhuahua,5
+French Bulldog,5
+American Pugabull,5
+English Toy Spaniel,5
+Bulldog,5
+Beabull,5
+Doxiepoo,5
+Dorgi,5
+Dorkie,5
+Basenji,6
+Rhodesian Ridgeback,6
+Sloughi,6
+Redbone Coonhound,6
+Afghan Hound,6
+Whippet,6
+American English Coonhound,6
+Bavarian Mountain Scent Hound,6
+Treeing Walker Coonhound,6
+Treeing Tennessee Brindle,6
+Transylvanian Hound,6
+American Foxhound,6
+Saluki,6
+Black and Tan Coonhound,6
+American Leopard Hound,6
+Borzoi,6
+Silken Windhound,6
+Basset Hound,6
+Scottish Deerhound,6
+Bloodhound,6
+Bluetick Coonhound,6
+Taiwan Dog,6
+Azawakh,6
+Basset Fauve de Bretagne,6
+Beagle,6
+Carolina Dog,6
+Pharaoh Hound,6
+Norwegian Elkhound,6
+Otterhound,6
+Drever,6
+English Foxhound,6
+Harrier,6
+Petit Basset Griffon Vendéen,6
+Plott,6
+Pocket Beagle,6
+Hamiltonstovare,6
+Dachshund,6
+Portuguese Podengo Pequeno,6
+Ibizan Hound,6
+Irish Wolfhound,6
+Greyhound,6
+Staffordshire Bull Terrier,7
+Dandie Dinmont Terrier,7
+Miniature Schnauzer,7
+Skye Terrier,7
+Cairn Terrier,7
+American Staffordshire Terrier,7
+Soft Coated Wheaten Terrier,7
+Lakeland Terrier,7
+Glen of Imaal Terrier,7
+Australian Terrier,7
+American Hairless Terrier,7
+Bedlington Terrier,7
+Manchester Terrier,7
+Bull Terrier,7
+Biewer Terrier,7
+Welsh Terrier,7
+Irish Terrier,7
+Kerry Blue Terrier,7
+Rat Terrier,7
+Jack Russell Terrier,7
+Airedale Terrier,7
+West Highland White Terrier,7
+Cesky Terrier,7
+Border Terrier,7
+Mountain Feist,7
+American Pit Bull Terrier,7
+Sealyham Terrier,7
+Patterdale Terrier,7
+Norwich Terrier,7
+Norfolk Terrier,7
+Fox Terrier,7
+Scottish Terrier,7
+Kooikerhondje,8
+Akbash,8
+Akita Chow,8
+Hokkaido,8
+Kishu Ken,8
+Akita Pit,8
+Maremma Sheepdog,8
+Anatolian Shepherd Dog,8
+Bull-Pei,8
+Pyrenean Mastiff,8
+Bull Arab,8
+Catahoula Leopard Dog,8
+Caucasian Shepherd Dog,8
+Broholmer,8
+Central Asian Shepherd Dog,8
+Chinese Shar-Pei,8
+Chow Chow,8
+Shikoku,8
+Dogo Argentino,8
+Dogue de Bordeaux,8
+Spanish Mastiff,8
+Bassador,8
+Staffy Bull Bullmastiff,8
+Eurasier,8
+Fila Brasileiro,8
+Thai Ridgeback,8
+Afador,8
