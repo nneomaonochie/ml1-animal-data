@@ -1,5 +1,5 @@
 ## Background
-Our group participated in a Machine Learning Kaggle competition for CS 363M: Principles of Machine Learning I. We were tasked to predict the outcomes of animals entering the Austin Animal Center, and after 3 weeks, our team was ranked **#8** out of the 108 teams that participated (top 7%). Our model was evaluated on balanced accuracy and you can find the models we used and the resulting accuracies in the Final Report as well as other supplementary reports. 
+Our group participated in a Machine Learning Kaggle competition for CS 363M: Principles of Machine Learning I. We were tasked to predict the outcomes of animals entering the Austin Animal Center, and after 3 weeks, our team was ranked **#8 out of the 108 teams** that participated (top 7%). Our model was evaluated on balanced accuracy and you can find the models we used and the resulting accuracies in the Final Report as well as other supplementary reports. 
 
 ### Important Notes
 
